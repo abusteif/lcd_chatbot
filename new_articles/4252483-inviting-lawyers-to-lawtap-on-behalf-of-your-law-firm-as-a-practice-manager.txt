@@ -1,0 +1,93 @@
+Each law firm has a single LawConnect Lawyer account to manage the firm activity as a whole on LawConnect. You can invite as many lawyers and other legal professionals as necessary to 
+sign up for a linked LawConnect account
+. Their LawConnect accounts are managed within the main firm account. 
+ 
+In this article, we provide instructions on how to invite individual lawyers and other legal professionals in your firm to LawConnect as a practice manager. 
+ 
+Each lawyer has a dedicated area in LawConnect —
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and  
+appointments
+. Each professional signs in to LawConnect with their own credentials (email address and password), which they set during their 
+sign-up process
+. 
+ 
+For an overview of how LawConnect Lawyer accounts work and instructions on how to sign up for one, see 
+Signing up for a LawConnect Lawyer account as a practice manager
+.
+ 
+ 
+ 
+How to invite lawyers to LawConnect 
+To invite lawyers to your firm's LawConnect Lawyer account:
+ 
+1.  Select the 
+Account
+ link in the top bar to access your 
+Account
+ area.
+In this context, "your account" means the 
+account you created on behalf of your law firm
+.
+ 
+2.  In 
+Pending Members
+ select 
+Invite Members
+.
+ 
+3.  Create invitation emails for all lawyers and legal professionals simultaneously:
+Enter the first lawyer's email address, name and surname.
+Select 
+Add Member
+ to display an additional form.
+Repeat these steps until you have added all the members of your firm. 
+4.  Select 
+Send Invites
+.
+ 
+LawConnect automatically sends invitation emails to your invitees. The emails are personalized and sent from a LawConnect email address (
+support@lawconnect.com
+) on your behalf with the subject line: 
+<Your Name> invited you to join <Your Law Firm Name> on 
+LawConnect
+.
+ 
+You can invite new professionals at any time using the above steps.
+ 
+ 
+Managing pending invites
+The invited lawyers are listed in the 
+Pending Members
+ area and their status is marked 
+Pending
+ until they activate their accounts.
+ 
+You can use the actions in the 
+Actions
+ column to:
+Re-send
+ the invitation email.
+Cancel
+ the invitation. 
+This action does not send another email. When the invitee attempts to accept the invitation, the link results in a 404 (page not found) error.  
+ 
+ 
+Viewing legal professionals in your firm
+When the lawyers and other professionals 
+accept their invitations and sign up
+ to LawConnect, they are moved into the 
+Active Members
+ area and their status changes to 
+Fully Active
+. 
+ 
+This is a full list of all members of your firm on LawConnect. The links in the 
+Name
+ column open each 
+lawyer's profile
+ on LawConnect.
+ 
+ 

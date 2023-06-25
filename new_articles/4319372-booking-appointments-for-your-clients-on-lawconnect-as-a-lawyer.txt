@@ -1,0 +1,143 @@
+LawConnect provides the functionality for lawyers to book appointments for their clients on LawConnect. 
+ 
+You can book appointments for both new and existing clients. The bookings include all the features and notifications set for the 
+appointment type
+, for example reminder notifications, rescheduling and client reviews. 
+ 
+In this article, we take you through the process of booking appointments for your clients on LawConnect as a lawyer.
+ 
+Client appointments can also be booked 
+directly by clients
+ and 
+by practice managers
+ on behalf of the lawyers in their firm.
+ 
+ 
+ 
+How to book appointments for your clients on LawConnect 
+To book appointments for your clients:
+ 
+1.  In 
+My Dashboard
+ select 
+Book Appointment
+. 
+ 
+2.  Select an appointment type in the 
+Appointment Type
+ pick list. 
+3.  For 
+Meeting at Court
+ appointment types, select the relevant court in the 
+Court
+ pick list.
+4.  Select an 
+Appointment Schedule 
+option:
+Calendar Availability
+: Select a date and time in your calendar.
+This option displays your standard availability in your calendar for the appointment type. See 
+Managing your availability for appointment types as a lawyer
+ for more. 
+Flexible Date/Time
+: 
+- Select the 
+Date
+ field and then select a date in the popup calendar.
+- Select a start and end time in the pick lists in 
+Start Time
+ and 
+End Time
+ fields. 
+ 
+Both fields allow you to select times in 15-minute intervals for a 24-hour period.
+This option allows you to schedule appointments outside of your standard calendar availability (including out-of-office hours), and for durations that are different from the 
+settings for the appointment type
+..
+5.  
+Client details
+: 
+New clients
+: Enter your client's first and last name, mobile number, email address and select a time zone, if necessary. 
+The 
+Client
+ field defaults to 
+-- New Client --
+ so you can ignore it for this option. 
+Existing clients
+: Enter the first few letters of your client's name or surname in the 
+Search
+ box and then select the client in the pick list. 
+As you enter content in the box, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields. 
+Note! The list of clients includes clients previously booked on LawConnect and those booked through any integrated practice-management software, for example 
+Clio
+ or 
+LEAP
+. 
+6.  Select 
+Continue
+.
+7.  Complete any 
+form fields
+.
+This example uses a default 
+appointment type
+, 
+Meeting as Lawyer's Office
+, to which the default 
+form
+ is assigned. Custom forms may have additional or different fields.
+ 
+8.  Select 
+Book Appointment Now
+. 
+ 
+See 
+Managing your client appointments on LawConnect as a lawyer
+ for how to manage client appointments after your have booked them. 
+ 
+ 
+ 
+ 
+Locking your timezone
+If you have a virtual receptionist in a different timezone (including Smith.ai) who books appointments for you, or you work in more than one timezone, it is useful to know how to lock your timezone to avoid booking conflicts.  
+ 
+You can lock your timezone by adding the timezone parameter to the URL of your 
+lawyer profile
+.
+ 
+To find your profile URL:
+ 
+1.  Select 
+My Dashboard
+ in the top bar. 
+2.  Select 
+My Profile
+ and then 
+Preview Profile
+.
+3.  Copy the URL from the address bar in your browser.
+Your profile URL will be similar to 
+https://lawconnect.com/<country
+ code>/lawyer/<your name>.html, for example 
+https://lawconnect.com/uk/lawyer/rachael-smith.html
+ 
+ 
+To add a timezone parameter:
+1.  Find the correct parameter in Google's list of 
+Supported Time Zone Values
+.
+Parameters have no spaces and have are typically in the <country name>/<city/region name> format, for example America/New_York, Europe/London, or Australia/Melbourne. 
+2. Add ?timezone=<your timezone parameter> at the end of your profile URL.
+For example, 
+https://lawconnect.com/uk/lawyer/rachael-smith.html?timezone=Europe/London
+.
+ 
+ 
+See 
+Changing your timezone section
+ in  
+Managing your LawConnect account as a lawyer
+ for more information about setting your timezone in LawConnect. 
+ 
+ 

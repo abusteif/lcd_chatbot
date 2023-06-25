@@ -1,0 +1,114 @@
+13,000 law firms across Australia, Ireland, the UK and USA trust LEAP legal practice management software. LawConnect is an Official LEAP Integration Partner.
+ 
+You can integrate LawConnect and LEAP using the LawConnect connector (instructions below) or the LEAP Add-in. LawConnect is also available as part of the 
+LEAP Web Portal
+.
+ 
+The main benefits of the integration are:
+Lawyers can book appointments for clients with a LEAP card, using automated email and SMS/text message reminders available. in the LEAP Add-in or the LawConnect Firm Dashboard.
+LawConnect appointments can be linked to existing LEAP Matters in the LEAP Add-in or the LawConnect Firm Dashboard..
+Learn more at 
+https://lawconnect.com/integrations/leap
+.
+ 
+Requirements
+LawConnect subscription
+LEAP Cloud subscription
+ 
+ 
+Connecting LawConnect to LEAP
+Note! This is a one-time connection that needs to be completed for 
+every
+ lawyer in your firm.
+ 
+To connect LawConnect to LEAP:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LEAP
+, select 
+Connect to LEAP
+.
+Enter your LEAP login information and then select 
+SIGN IN
+. 
+Follow the LEAP prompts to connect to LawConnect.
+When the connection is established, LEAP redirects you to LawConnect, where the "Successfully connected to LEAP" notification displays.
+ 
+ 
+Syncing contacts in LEAP and LawConnect 
+Contacts are synced automatically in both LawConnect and LEAP and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a LEAP Card (if the contact does not already exist in LEAP). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with LEAP every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+Booking an appointment on LawConnect for a LEAP contact
+To book an appointment on LawConnect for an existing LEAP contact:
+Select 
+My Dashboard
+ in the top bar.
+Select 
+Book Appointment
+.
+Select the existing LEAP contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+ 
+Sending LawConnect appointments to LEAP
+Lawyers can link all LawConnect client appointments (past and future) to LEAP 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a LEAP 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to LEAP 
+action for an appointment.
+In 
+Link to Matter
+, select an existing LEAP 
+Matter
+ to link to, and then select 
+Send to LEAP
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+Known Limitation
+Law Firm Manager users cannot use the 
+Send to LEAP
+ at this time. LawConnect users must be signed in as a 
+Lawyer
+ user to use this action.
+ 
+ 
+ 
+Disconnecting LawConnect from LEAP
+To disconnect LawConnect from Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LEAP
+, select 
+Disconnect
+.

@@ -1,0 +1,92 @@
+You can book an appointment with a lawyer on LawConnect in minutes. All you typically need is a mobile number and email address. 
+ 
+In this article, we take you through the process of booking your first appointment with your lawyer. Your LawConnect account is created during this process.
+ 
+See 
+Searching for a lawyer on LawConnect as a client
+ for instructions on how to find a lawyer.
+ 
+ 
+ 
+About appointment bookings
+Individual lawyers and law firms set different requirements for their booking process. 
+ 
+There are general requirements that apply to all bookings. Many law firms also require:
+Authentication of you mobile number, and/or
+Confirmation of the appointment by the individual lawyer before the booking is finalized. 
+General requirements and these common, additional requirements are taken into account in the instructions in the following section. 
+ 
+Further requirements are also possible, but these are less common. For example:
+The appointment type may only be available to existing clients, in which case you are required to confirm that you are already a client of the lawyer.
+You could be redirected to a page on the lawyer's website during the booking process to answer a questionnaire or read the prerequisites for your particular issue.  
+These requirements are not taken into account in the instructions in the following section. 
+ 
+ 
+ 
+How to book your first appointment on LawConnect 
+You will need access to your email to complete the booking process. In addition, you may need access to your mobile phone to authenticate your identity.  
+ 
+To book an appointment with a lawyer:
+ 
+1.  Select the appointment type in the pick list.
+The blue (appointment type) widget is available in the firm and individual lawyer profiles. If an appointment type is marked 
+Existing Clients Only
+ you cannot book it as your first appointment.
+ 
+ 
+2.  Select a date in the lawyer's calendar.
+You can use the controls
+ 
+to scroll forward ( 
+>
+ )
+ 
+and backward ( 
+< 
+).
+ 
+3.  Fill in your details and select 
+Continue.
+First
+ and 
+Last Name
+: Enter your name.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address.
+The above are required fields and you will not be able to submit the form without providing valid information.
+Summary
+: Briefly describe why you are making the appointment.
+Conflict check
+: Select this checkbox if it displays before the 
+Continue
+ button.
+This is a required field and you will not be able to submit the form selecting this checkbox. The conflict check gives the lawyer time to check if there is any reason to not go ahead with the appointment. 
+4.  If requested, open the SMS message sent to your mobile number, enter the confirmation code, and then select 
+Book Appointment Now
+.
+You will only be requested to do this if the lawyer has set this as a requirement. 
+ 
+ 
+5.  An notification confirming your appointment displays (unless the appointment needs confirmation).
+ 
+If your appointment requires confirmation, a notification advising that your request is pending review displays.
+ 
+6.  Open your Welcome email and select 
+Set My Password
+.  
+Note! For security reasons, this link is only valid for 24 hours.
+ 
+7.  Set and confirm your password and select 
+Save
+.
+This activates your LawConnect account. 
+ 
+You will receive an email containing full details of your appointment as soon as it is confirmed, that is, either directly after booking or when you lawyer confirms it. This email also contains links to manage your 
+appointment
+ and 
+reminder notifications
+. 
+ 
+ 

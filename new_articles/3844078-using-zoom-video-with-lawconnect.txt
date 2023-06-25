@@ -1,0 +1,170 @@
+Zoom is the market leader for online video meetings. It is used daily by 200+ million participants. 
+ 
+The LawConnect Zoom connecter automates Zoom Video appointments from start to finish, and allows you to access Zoom directly from you LawConnect Dashboard. 
+ 
+In this article, we take you through the process of using Zoom in LawConnect and provide instructions on how to connect to Zoom, create 
+Zoom Video
+ appointment types, book 
+Zoom Video
+ appointments, connect to a Zoom appointment (as a lawyer and a client), access your Zoom dashboard and disconnect from Zoom.
+ 
+To learn more about the benefits of connecting LawConnect to Zoom, see 
+https://lawconnect.com/integrations/zoom
+ and 
+Zoom's privacy and security controls
+.
+ 
+ 
+Requirements
+LawConnect Lawyer account; and
+Zoom Meetings account
+ (Basic or higher).
+Note! Each lawyer needs their own Zoom account.
+ 
+ 
+Connecting LawConnect to Zoom Video
+Note! This is a one-time process that needs to be done by, or on behalf of, each lawyer in the firm. Zoom accounts cannot be shared by multiple lawyers!
+ 
+To connect LawConnect to Zoom:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Zoom
+, select 
+Connect to Zoom
+.
+Enter your Zoom email and password, select the 
+I'm not a robot
+ checkbox, and then select 
+Sign in
+. 
+Follow the prompts on the Zoom site to pre-approve and then authorize the Zoom app.
+Zoom redirects you to LawConnect, where the "Successfully connected to Zoom" notification displays.
+ 
+ 
+Creating Zoom Video appointment types
+After you have connected LawConnect to Zoom, the 
+Zoom Video
+ appointment type is automatically available for selection as 
+appointment type
+..
+ 
+Zoom Video
+ appointments are created in the same way as any other appointment type
+. 
+ 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for full instructions on how to add new appointment types.
+ 
+Note
+! 
+The 
+Zoom Video
+ appointment type will only display in the 
+Select Appointment Type
+ pick list in the 
+firm
+ and individual 
+lawyer
+ profiles after the lawyer has connected LawConnect
+ 
+to their personal Zoom account. 
+ 
+ 
+ 
+Booking Zoom Video appointments
+Zoom Video
+ appointments are booked in exactly the same way as other appointment types. See these articles for full instructions on how different personas book appointments on LawConnect:
+Booking your first appointment on LawConnect as a client
+.
+Booking appointments for your clients on LawConnect as a lawyer
+.
+Booking client appointments for lawyers in your firm as a practice manager
+.
+ 
+ 
+Connecting to Zoom Video appointments
+LawConnect automatically generates a unique Zoom Video ID for each appointment, as well as links to start (lawyer) and join (client) the video meeting. This information (plus the meeting passcode) is sent to the sent to both parties in the appointment confirmation email and is also available in LawConnect in 
+My Dashboard
+ (lawyer) and 
+My Appointments
+ (client). 
+ 
+Starting a Zoom appointment as a lawyer
+To start a Zoom Video appointment as a lawyer:
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+View
+ for the Zoom Video appointment. 
+In 
+Zoom Meeting
+, select 
+Open in Zoom
+.
+Alternatively, open the appointment confirmation email and select the 
+Click to Start
+ link. 
+ 
+For more about working in 
+My Dashboard
+, see 
+Managing your client appointments on LawConnect as a lawyer
+. 
+ 
+Connecting to a Zoom appointment as a client
+To connect to a Zoom Video appointment as a client:
+Select 
+My Appointments
+ in the top bar, if necessary.
+Select 
+View
+ for the Zoom Video appointment. 
+In 
+Zoom Meeting
+, select 
+Open in Zoom
+.
+Alternatively, open the appointment confirmation email and select the 
+Click to Join
+ link. 
+ 
+For more about working in 
+My Appointments
+, see 
+Managing lawyer appointments on LawConnect as a client
+.
+ 
+ 
+ 
+Accessing your Zoom dashboard as a lawyer
+As a lawyer, you can access your Zoom dashboard directly from LawConnect to manage all your Zoom Video meetings in the same place.
+ 
+To access your Zoom Dashboard as a lawyer,
+Select 
+Integrations
+ in the top bar.
+In the 
+Zoom
+, select 
+Disconnect
+.
+ 
+ 
+Disconnecting LawConnect and Zoom
+To disconnect LawConnect from Zoom:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In the 
+Zoom
+, select 
+Disconnect
+.

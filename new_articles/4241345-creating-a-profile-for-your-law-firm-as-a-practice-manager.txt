@@ -1,0 +1,253 @@
+Your law firm profile is your opportunity to showcase your law firm on LawConnect. 
+ 
+A few basic profile elements, for example the firm name, description and location, were added during the 
+sign-up process
+ for your firm's LawConnect Lawyer account. 
+ 
+In this article, we take you through the process of completing and editing all sections of you law firm profile and demonstrate how and where each element displays on LawConnect. 
+ 
+ 
+ 
+Accessing your firm profile
+The content of your firm profile is stored in the 
+Firm Profile
+ area of your 
+Firm Dashboard
+. 
+ 
+To access your firm profile:
+ 
+1.  Select
+ Firm Dashboard
+ in the top bar. 
+ 
+2.  Select
+ Firm Profile
+.
+ 
+ 
+ 
+Previewing your firm profile
+The 
+Preview Profile
+ action allows you to view your profile as it displays on the web. This is the version clients see in their browser on LawConnect.
+ 
+Use the 
+Preview Profile
+ action while completing your firm profile to make sure your changes display correctly. 
+ 
+To preview your firm profile:
+ 
+1.  Select 
+Preview Profile
+.
+ 
+2.  The preview opens in a new browser tab or window. 
+ 
+You can switch between the 
+Firm Profile
+ browser tab and the preview tab to tweak the profile as you go. Remember to save in the 
+Firm Profile
+ area and refresh in the preview tab to ensure that the changes display.
+ 
+ 
+ 
+Adding and editing firm profile content
+You can add or edit content in your firm profile at any time.
+ 
+The 
+Firm Profile
+ area is arranged in four tabs that group similar information together—
+About Firm
+, 
+Firm Locations
+, 
+Links
+ and 
+Settings
+.  
+ 
+ 
+ 
+ 
+About Firm
+The information in the 
+About Firm
+ tab describes your firm. 
+ 
+Your firm name, description and office phone number were added during the 
+sign-up process
+, but you can update these, if necessary.  
+ 
+Name
+: Enter the name of your law firm.
+This text displays as the header of your profile.
+Description
+: Enter your firm's description. 
+There is no character-length limitation and you can make the description as long as you like. The first few lines displays in the 
+About
+ section in the header box of your firm profile and the user can expand the text by selecting the 
+Read More
+ link.
+Complaints Handling
+: Enter text that describes how you handle complaints. 
+This text is limited to 500 characters. If longer, you will receive an error and will not be able to save the information. This displays at the bottom of your firm profile (above the footer). In many jurisdictions it is mandatory to publish this procedure on public web pages.
+Office Phone
+: Enter your main office telephone number. 
+This number is linked to the telephone icon at the bottom of the header box of your firm profile. When a user selects the icon, your office number is typically dialed automatically on their device. How, and if, this works, depends on the user's device and set up.
+Profile Photo
+: Select 
+Upload Profile Photo
+ and upload a file from your device.
+For best results, use a square image with a minimum resolution of 250 x 250 pixels. The system automatically resizes the image to display appropriately on different screen resolutions and devices. 
+Tip! You can resize the 
+Description
+ and 
+Complaints Handling
+ text areas by dragging the dots at the bottom right of the field either down or across. 
+ 
+This is how the 
+About Firm 
+information displays in your firm profile header.
+ 
+Your complaints procedure displays at the bottom of the page between the timezone selector and the footer.
+ 
+Note! Your timezone setting is in the 
+Account
+ area of your LawConnect Lawyer account. See 
+Managing your firm's LawConnect Lawyer account as a practice manager
+ for more.
+ 
+ 
+ 
+Firm Locations
+The 
+Firm Locations
+ tab displays the address you provided during the 
+sign-up process
+. This is set as your firm's primary location. 
+ 
+The red location marker indicates your location on the integrated Google Map that includes all the functionality to which users have become accustomed. 
+ 
+To edit your primary location, enter new information and then save. 
+When you save, the map updates automatically.
+ 
+ 
+Adding additional firm locations
+To add additional locations to your firm profile:
+ 
+1.  Select 
++
+ next to the 
+Primary
+ tab. 
+ 
+2.  Enter the address for your second firm location.
+ 
+3.  Repeat this procedure for all additional locations. 
+You can have a total of 10 locations.
+ 
+4.  Save.
+When you save, the map updates automatically.
+ 
+All locations display as links under your firm name in your firm profile header, in the same order of the sub-tabs in 
+Firm Locations
+ tab. These links open in Google Maps, where clients have many options, for example finding routes, directions or transport options.   
+ 
+ 
+Deleting firm locations
+To delete a firm location:
+ 
+1.  Select 
+X
+ in the header of the tab you want to delete.
+ 
+2  The tab and its content is deleted. 
+ 
+ 
+ 
+Links
+The 
+Links
+ tab allows you to enter URLs to your firm's website, social media accounts and a YouTube video.  
+Each link displays as a button below the 
+About Firm
+ information in the firm profile header and the video streams directly from YouTube below the links. 
+Firm Website
+: Enter the URL to your firm website.
+Firm Google My Business
+: Enter the URL of your Google My Business page. 
+Firm Facebook
+: Enter the URL of your firm's facebook page.
+Firm LinkedIn
+: Enter the URL of your firm's Linkedin profile. 
+Firm Twitter
+: Enter the URL of your firm's Twitter account.  
+Firm YouTube Video ID
+: Enter the video ID of a video published on YouTube . 
+To find the video ID, open the video on YouTube in your browser. In the address bar, copy the string of numbers after the "v=" part of the URL. The ID must be 11 characters long. If not, you will receive an error and will not be able to save the information. 
+This is what the links and video look like in your law firm profile header. 
+ 
+ 
+ 
+Settings
+The 
+Settings
+ tab allows you to set the 
+order
+ in which the individual lawyer profiles display in the law firm profile. 
+ 
+The 
+Select Appointment Type
+ field (in which clients can select their preferred appointment type) displays directly below the the firm profile header box. Below this,  
+there are white teaser boxes for each lawyer in the firm, together with their booking calendar. The lawyers who display, and the order in which they display, depends on two criteria:
+ 
+1.  Whether the lawyer has been assigned the selected appointment type. 
+Individual profiles only display in the list if the lawyer offers the selected appointment type. Some lawyers, for example, do not handle court proceedings or offer telephone consultations. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+2.  The option set in the 
+Sort Preferences
+ field in the 
+Settings
+ tab (see below) in the 
+Firm Profile
+ area.
+ 
+The content in each lawyer's teaser box is set in their individual profile. See 
+Creating a profile on LawConnect as a lawyer
+ for more. 
+ 
+To set the lawyer's sort order in the 
+Settings
+ tab:
+ 
+1.  Select an option in the 
+Sort Preference
+ pick list.
+Availability
+: Lawyers display by availability. This is the default option. 
+The lawyer with the first available appointment displays first, followed the the lawyer with the next available appointment, and so on. 
+First Name
+: Lawyers display alphabetically by first name.
+Last Name
+: Lawyers display alphabetically by last name.
+Seniority
+: Lawyers display by the length of time they have been admitted to practice, from longest to shortest.  
+The is calculated  using the information in the 
+Year First Admitted
+ field in the 
+Your Practice
+ tab of each lawyer's profile. See See 
+Creating a profile on LawConnect as a lawyer
+ for more. 
+ 
+2.  Save.
+ 
+This short clip demonstrates the difference between the 
+Last Name
+ (alphabetical) and 
+Seniority
+ setting.
+ 

@@ -1,0 +1,5694 @@
+Signing up for an LawConnect Lawyer account is the first step to listing your law firm on LawConnect. 
+ 
+Each law firm has a single LawConnect lawyer account to which it can 
+invite
+ as many lawyers and legal professionals as are necessary. 
+ 
+In this article, we explain the nature of LawConnect Lawyer accounts and provide instructions on how to sign up for LawConnect on behalf of your firm.
+ 
+How LawConnect Lawyer accounts work 
+LawConnect Lawyer accounts are designed to accommodate law firms of all sizes—from sole practitioners to huge firms with 100s of lawyers. 
+ 
+On LawConnect, each law firm has a single account and the sign-up process typically includes the following flows:
+ 
+1.  The practice manager signs up for a LawConnect Lawyer account (instructions below).
+ 
+2.  The practice manager 
+invites
+ the lawyers and other members of the firm to join the LawConnect Lawyer account.  
+ 
+3.  Individual lawyers 
+accept their invitation and sign up
+ for their own account, which is linked to, and managed through, the main LawConnect Lawyer account. 
+ 
+All individual legal professionals have a dedicated area in 
+LawConnect 
+—
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and 
+appointments
+. Each professional signs in to LawConnect with their own credentials (email address and password), which they set during their 
+sign-up process
+. 
+ 
+Lawyers who are NOT also practice managers, only need to follow the instructions for step 3 in 
+Accepting an invitation to sign up for LawConnect as a lawyer
+. Sole practitioners, who are typically both managers and lawyers, will usually need to only follow the instructions below in this article, and can ignore steps 2 and 3 above.
+ 
+ 
+ 
+How to sign up for a LawConnect Lawyer account
+Note! You need access to your email and mobile phone during this process.
+ 
+To sign up for a LawConnect Lawyer account:
+ 
+1.  Select 
+Grow Your Law Firm
+ in the top bar on any LawConnect page. 
+ 
+2.  Select 
+Join LawConnect Now
+.
+3.  Select a pricing plan and then select 
+Join Now
+. 
+You will be able to change this selection later (step 9), if necessary.
+ 
+4.  Enter your personal details and then select 
+Sign Up
+: 
+Name
+: Enter your first and last name. 
+Legal Professional Status
+: Select an option in the pick list.
+Mobile
+: Enter your mobile phone number.
+Email
+: Enter your email address. 
+Password
+: Enter and repeat your password. 
+Timezone
+: Select another option in the pick list, if necessary. 
+ 
+5.  Select 
+Complete Sign Up
+ In your Welcome email to confirm you email address.
+ 
+6.  Enter the SMS verification code that is sent to your mobile number and then select 
+Confirm
+.
+ 
+7.  Enter the address of your law firm.
+If you have multiple locations, enter the address of your main office. You can add additional locations later when you 
+create your firm profile
+. 
+ 
+8.  Enter your law firm details and then select 
+Save
+.
+These details display in your 
+law firm profile
+. You can update the description later, if you do not have one prepared. See 
+Creating your law firm profile as a practice manager
+ for more.
+Name
+: Enter the name of your law firm.
+Description
+: Enter a description of your law firm.
+Office phone
+: Enter your office phone number. 
+9.  Select 
+Select
+ to confirm the subscription type you selected in step 3 above and move to the payment stage. If you have a promo code, enter it and select 
+Apply
+ (to deduct any discount from the price) before you select 
+Select
+. 
+ 
+10.  Enter your card details and select 
+Pay Now
+.
+ 
+11.  Select 
+Connect My Calendar
+.
+ 
+12.  Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application. 
+This allows LawConnect to create and delete calendar events, and read your availability in your calendar app. 
+ 
+13. 
+My Dashboard
+ opens.
+This is your lawyer dashboard. You can access the firm dashboard by selecting 
+Firm Dashboard
+ in the top bar. 
+ Each lawyer or other legal professional in a law firm has their own LawConnect account. These individual accounts are managed within a single 
+LawConnect Lawyer account registered to the law firm
+. Typically, the practice manager creates the main account and then invites each lawyer to sign up for LawConnect.  
+ 
+In this article, we provide instructions on how to accept a LawConnect invitation and sign up for a LawConnect account as a lawyer.
+ 
+All individual legal professionals have a dedicated area in LawConnect —
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and 
+appointments
+. Each professional signs in to LawTap with their own credentials (email address and password), which they set during the sign-up process (instructions below).
+ 
+For an overview of LawConnect Lawyer accounts and instructions on how to create one on behalf of your law firm see 
+Signing up for a LawConnect Lawyer account as a practice manager
+ and 
+Inviting lawyers to LawTap on behalf of your law firm as a practice manager
+.
+ 
+ 
+ 
+How to sign up for LawConnect as a lawyer
+You will need access to your email and mobile during this process.
+ 
+To sign up for LawConnect as a lawyer:
+ 
+1.  Select 
+Accept Invitation
+ in your invitation email. 
+The subject line of this email is 
+<Practice Manager Name> invited you to <Law Firm Name> on LawConnect
+.
+ 
+2.  Enter your personal LawConnect account details and select 
+Sign Up
+: 
+Name
+: Enter your first and last name. 
+Legal Professional Status
+: Select an option in the pick list.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address. 
+Password
+: Enter and repeat your password. 
+Timezone
+: Select another option in the pick list, if necessary. 
+3.  Select 
+Complete Sign Up
+ In your Welcome email to confirm you email address.
+ 
+4.  Enter the SMS verification code sent by SMS to your mobile number and select 
+Confirm
+.
+ 
+5.  Enter your work address.
+This is typically the address of your law firm.
+ 
+6.  Select 
+Connect My Calendar
+.
+ 
+7.  Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application. 
+This allows LawConnect to create and delete calendar events, and read your availability in your calendar app. 
+ 
+8. 
+My Dashboard
+ opens.
+This is your lawyer dashboard in which you can manage your 
+lawyer profile
+ and 
+appointments
+. Your individual lawyer profile is your opportunity to showcase your legal expertise, qualifications and services on LawConnect. It is an important tool to attract new clients.
+ 
+Lawyer profiles display individually on their own page, which is typically opened when clients select the lawyer's name in a teaser box in your 
+firm profile
+ or on a 
+search results
+ page.
+ 
+In this article, we take you through the process of creating all sections of you lawyer profile and demonstrate how and where each element displays on LawConnect.
+ 
+ 
+ 
+Accessing your lawyer profile
+The content of your lawyer profile is stored in the 
+My Profile
+ area of 
+My Dashboard
+.
+ 
+To access your lawyer profile:
+ 
+1.  Select
+ My Dashboard
+ in the top bar.
+ 
+2.  Select
+ 
+the profile icon.
+ 
+ 
+ 
+ 
+Previewing your lawyer profile
+The 
+Preview Profile
+ action allows you to view your profile as it displays on the web. This is the version clients see in their browser on LawConnect.
+ 
+Use the 
+Preview Profile
+ action while completing your profile to make sure your changes display correctly.
+ 
+To preview your lawyer profile:
+ 
+1.  Select 
+Preview Profile
+.
+ 
+2.  The preview opens in a new browser tab or window, depending on your settings.
+ 
+You can switch between the 
+My Profile
+ browser tab and the preview tab to tweak your profile as you go. Remember to save in the 
+My Profile
+ area and refresh in the preview tab to ensure that the changes display.
+ 
+ 
+ 
+Adding and editing your lawyer profile content
+You can add or update content in the 
+My Profile
+ area at any time.
+ 
+The 
+My Profile
+ area is arranged in five tabs that group similar content  together—
+About You
+, 
+Your Location
+, 
+Your Practice
+, 
+Your Areas of Law
+ and 
+Your Services
+.
+ 
+While working in 
+My Profile
+, you can switch between tabs, without saving, and your changes will be preserved in the original tab.
+ 
+ 
+ 
+About You
+The 
+About You
+ tab contains your name, professional titles and photo.   
+Name
+: Enter or update your first and last name, if necessary.
+These fields are prefilled with the information you provided when 
+signing up to LawConnect
+.
+ 
+Legal Professional Status
+: Select your professional status from the options in the pick list. 
+Friendly Title
+: Select a secondary professional title, it applicable. 
+This option allows you to define your professional status more specifically, for example, Solicitor (professional status)—Notary Public or Principal Solicitor (secondary professional status).
+Profile Photo
+: Select 
+Upload Profile Photo
+ and upload a file from your device.
+For best results use a square image with a minimum resolution of 250 x 250 pixels. The system automatically resizes the image to display appropriately on different screen resolutions and devices.
+ 
+This is how the 
+About You
+ information displays in your profile.
+ 
+ 
+Your Location
+The 
+Your Location
+ tab displays the address you provided when 
+signing up to LawConnect
+, which is set as your primary location.
+ 
+The red location marker indicates your location on the integrated Google Map that has all the map functionality to which users are accustomed.
+ 
+To edit your primary location, enter new information and save. 
+When you save, the map updates automatically.
+ 
+ 
+Adding additional locations
+To add additional locations to your profile:
+ 
+1.  Select 
++
+ next to the 
+Primary
+ tab header.
+ 
+2.  Enter the address of your secondary location.
+ 
+3.  Repeat this procedure for any additional locations.
+You can have a total of 10 locations.
+ 
+4.  Save.
+When you save, the map updates automatically.
+ 
+Each address you add displays (in abbreviated form) in your profile header.
+ 
+In the 
+Find 
+section of your profile, each address displays in full as a link, which opens the location in Google Maps, where your clients have many options, for example finding routes, directions or transport options.   
+ 
+ 
+Deleting locations
+To delete a location:
+ 
+1.  Select 
+X
+ in the header of the tab your want to delete.
+ 
+2.  The tab and its content is deleted. 
+ 
+ 
+ 
+Your Practice
+The 
+Your Practice
+ tab allows you to describe your legal experience, expertise and services.    
+About
+: Enter a description about you, your practice and your expertise.
+This displays in the 
+About
+ section of your profile. 
+The text cannot exceed 1500 characters (approximately 300 words). If longer, you will receive an error and will not be able to save the information. You can resize the text area by dragging the dots at the bottom right of the field down or across. The 
+Your Areas of Law 
+and 
+Your Services
+ tabs (see below) allow you to add more specific, related information. 
+Languages Spoken
+: Select the languages in which you can communicate in the pick list.
+You can select multiple languages by clicking options in succession—no additional shortcut keys are required. This displays in the 
+About
+ section of your profile. Language is an important consideration for clients whose first language is not English and is offered as a search criteria for 
+advanced searches
+ on LawConnect. 
+Year First Admitted
+: Select the year you were admitted to practice in the pick list. 
+This is used to calculate your years of experience and your seniority within your law firm. Your year of admission and years of experience display in the 
+About
+ section of your profile. Seniority can be used as a criteria to determine the order in which individual lawyer profiles display in the 
+firm profile
+.  If admission is not applicable to you, for example for paralegals, select the year you started in your profession. 
+Linkedin Profile URL
+: Enter the URL to your Linkedin profile. 
+This displays as a link in the 
+About
+ section of your profile
+Hourly Rate
+: Enter your hourly rate or rate range. 
+This displays in the 
+Fees and Features
+ section of your profile. 
+Public Phone Number
+: Add a phone number on which clients may contact you directly. 
+This number displays publicly in the 
+Find 
+section of your profile. Clients can typically select the number to dial you directly on their mobile, for example. 
+Features
+: Check the boxes to select one or more features that apply to you and your practice. 
+The selected features display in your profile header and in the 
+Fees and Features
+ section of your profile. 
+- 
+Accredited Specialist
+: Select if you have received an accreditation as a specialist in your jurisdiction. 
+- 
+Offer Fixed Cost Services
+: Select if you offer certain services at a fixed price. 
+In the 
+Your Services
+ tab (see below) you can add the specific services that you offer and the price of each.
+- 
+Offer No Win No Fee
+: Select if you offer services for which you charge only if a claim or similar process succeeds. 
+- 
+Accept Legal Aid Clients
+: Select if you accept payment through legal aid or similar organizations.
+- 
+Offer Mobile Services
+: Select if you offer mobile legal services. 
+The 
+About 
+section of your profile displays the information in the following fields: 
+About 
+(with a 
+Read More
+ link, if necessary), 
+Languages Spoken
+, 
+Year First Admitted
+ (with your current number of years experience) and 
+Linkedin Profile URL
+ that opens you profile on Linkedin. 
+ 
+The 
+Fees and Features
+ section of your profile displays your hourly rate (or rate range) and a list of selected features.
+ 
+Your features also display in your profile header.
+ 
+ 
+ 
+Your Areas of Law
+The 
+Your Areas of Law
+ tab allows you to specify the legal areas you focus on and the extent to which you do. This information renders visually in a donut graph in your profile.
+ 
+Areas of Law
+ is one of the main search criteria that clients set when looking for a lawyer. See 
+Searching for a lawyer on LawConnect as a client
+ for more.  
+ 
+To add your areas of law:
+ 
+1.  Select 
+Add Area of Law
+.
+Area of Law
+: Select the legal area in the pick list.
+Percent
+: Enter the percentage effort/time you devote to this area of law. 
+Tip! Limit your areas of law to 5, at most. More than this tends to cause confusion, because clients find it hard to understand what you do.  
+2.  Repeat this procedure for each additional area of law.
+ 
+Select any red 
+X
+ to delete an area of law. 
+3.  Save.
+If the sum of the percentages does not equal 100% you will receive and error and not be able to save your information.
+ 
+This is how your areas of law display in the 
+About
+ section of your profile. 
+ 
+ 
+Your Services
+The 
+Your Services
+ tab allows you to set fixed prices and price ranges for specified services. 
+ 
+To add a fixed-price legal service:
+ 
+1.  Select 
+Add Legal Service
+. 
+Service
+: Select the service in the pick list. 
+Services are categorized by legal area for easy reference. If the service you are looking for is not available, select 
+Suggest Legal Service
+ to email a suggestion request to LawConnect.
+Fixed or From
+ and 
+To
+: Enter the fixed price or fixed-price range. 
+Service Notes
+: Optionally, enter a relevant note.
+This displays beneath the service heading in your profile. 
+2.  Repeat this procedure for every fixed-price service you want to add.
+3.  Save. 
+ 
+Fixed-price services display in the 
+Fixed Cost Legal Services
+ section of your profile. 
+ 
+ 
+ 
+Client reviews
+Client reviews, if any, display in your profile header and 
+Verified Client Reviews
+ section of your profile.  
+ 
+ 
+Whether the client review feature is available depends on the settings of the 
+appointment type
+. See 
+Managing lawyer appointments on LawConnect as a client
+ for more about how clients review appointments and 
+Managing your client appointments on LawConnect as a lawyer
+ for how to respond to reviews.
+ 
+ 
+ 
+Booking widget information
+The booking widget is added to your profile automatically. It includes the appointment types allocated to you by your firm and your availability in your calendar for each appointment type.
+ 
+See 
+Managing your availability for appointment types on LawConnect as a lawyer
+ for more about controlling your availability and 
+Adding and managing appointment types for your law firm as a practice manager
+ for more about how appointment types are allocated to lawyers. LawConnect accumulates all appointments for each lawyer and displays them in their 
+My Dashboard
+ area. Appointments are updated in real time and you can see a comprehensive, up-to-date overview of your client appointments at any time. 
+ 
+Appointments in 
+My Dashboard
+ can originate from three sources:
+Appointments booked directly by your clients
+.
+Appointments booked by you for your clients
+.
+Appointments booked for your clients by your practice manager
+.  
+In this article, we take you through the process of managing your client appointments on LawConnect as a lawyer. The instructions include how to access, filter, search, sort, view, reschedule, cancel, delete, confirm and download appointments, as well as how to reply to client feedback about an appointment.
+ 
+Practice managers can execute all the actions mentioned in this article on behalf of the lawyers in their firm in the 
+Firm Dashboard
+ area. See 
+Managing client appointments for the lawyers in your firm as a practice manager
+ for more.
+ 
+ 
+ 
+Accessing your client appointments
+To access your client appointments, select 
+My Dashboard
+ in the top bar. 
+ 
+My Dashboard
+ displays by default when you 
+sign in to LawConnect
+.
+ 
+A summary of your appointments for the last 30 days displays above the filtering and search options, and the table below lists all your appointments. For each appointment, you can view:
+ID
+: The LawConnect appointment ID number. 
+Status
+: The appointment status. 
+Appointments are marked 
+Past
+, 
+Future
+, 
+Now 
+or 
+Cancelled
+, and can additionally be marked as 
+Pending
+ and 
+No Show
+, depending on the circumstances.  
+Date
+: The date and time of the appointment. 
+Appointment
+: The 
+appointment type
+. 
+Client
+: The name of the client. 
+Actions
+: Actions that can be executed for the appointment. 
+The actions available for each appointment depend on a number of factors, including when the table is viewed (past or future), the 
+settings for the appointment type
+ (for example, If rescheduling or reviews are enabled), and whether and when the appointment took place. Each action is covered separately in the sections that follow. 
+ 
+ 
+ 
+Filtering, sorting and searching appointments
+The filtering, searching and sorting functions in 
+My Dashboard
+ make it easier to manage your appointments:
+Filtering
+: Allows you to filter client appointments by 
+appointment type
+.
+Searching
+: Allows you to search for appointments by client name. 
+Sorting
+:  Allows you to sort client appointments by date. 
+To filter your appointments:
+1.  Select an appointment type in the pick list.
+ 
+2. The table reloads automatically to display only the selected appointment type.
+ 
+ 
+To search for appointments:
+1.  Enter a client's name or surname (or the first few letters of either) in the search box.
+ 
+ 
+2.  Select the search icon.
+ 
+3.  The table reloads to show only results that match the search term.
+ 
+ 
+To sort appointments by date:
+ 
+1.  Select the up or down arrow is the 
+Date
+ column.
+ 
+2.  The table reloads to display appointments in date order (latest first) or reverse date (latest last) order.
+After the reload the arrow switches to the opposite of what is was previously.
+ 
+ 
+ 
+Viewing appointments
+The 
+View
+ action allows you to view the full appointment details. 
+ 
+If applicable, additional actions, for example 
+Confirm
+, may be available when you view the details. 
+ 
+To view an appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Full details of the appointment display: 
+Summary
+: A summary that includes the status, type, and date and time of the appointment, as well as links to view the location (if applicable) on Google Maps, and to email and call the client directly. 
+Exactly how emailing and calling works depends on the setup on your device. For example, the client name link typically automatically opens the dial pad (with the client's number) on your mobile device, and the email link opens your default email application. Note on a PC, direct emailing only works with applications like Outlook, and not web-based email accounts like Gmail. 
+Appointment Form
+: The information entered on the appointment form when the appointment was booked. 
+For the default 
+appointment types
+, like phone calls and meetings at your offices, this is a summary of the legal issue, but appointment types that use custom 
+forms
+ may have additional information.    
+Client review
+: A review left by the client. 
+Only applies to past appointments for which your client has left a review. See
+ 
+Managing lawyer appointments on LawConnect as a client
+ for more. 
+Actions
+: Actions available for the appointment. 
+ 
+ 
+Confirming pending appointments
+If an 
+appointment type
+ requires a prior conflict check, you need to confirm 
+appointments booked directly by clients
+, before the appointment is finalized. The unconfirmed appointment is marked 
+Pending
+ until you do so. 
+ 
+The conflict check requirement is set in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+To confirm a pending appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Confirm
+ in the appointment detail page. 
+ 
+ 3.  Select 
+Confirm Appointment
+ 
+4.  A notification displays advising that the appointment is confirmed.
+ 
+Your client will receive a notification of the appointment confirmation by email and SMS
+. 
+ 
+ 
+ 
+Rescheduling appointments
+You can reschedule any appointment before the scheduled time. 
+ 
+Clients can also reschedule appointments, if this option is enabled in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ and 
+Managing your lawyer appointments on LawConnect as a client
+ for more. 
+ 
+To reschedule an appointment: 
+ 
+1.  Select 
+Reschedule
+ in the 
+Actions
+ column.
+ 
+ 2.  Select a new appointment date and time in your calendar in 
+Calendar Availability
+ or 
+Flexible Date/Time
+ mode.
+ 
+Calendar Availability
+ displays your normal availability and 
+Flexible Date/Time
+ allows you to schedule appointments for specific times and durations, which can be outside of your standard office hours. See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+Your client will receive an email and SMS notifying them of the rescheduled appointment. Any 
+reminder notifications
+ (email and SMS) set for the appointment type will also be sent automatically for the new date and time. 
+ 
+ 
+ 
+Cancelling appointments
+You can cancel any scheduled appointment. 
+ 
+To cancel an appointment: 
+ 
+1.  Select 
+Cancel 
+in the 
+Actions
+ column.
+ 
+2.  Select a reason and then select 
+Cancel Appointment
+. 
+Selecting 
+Other
+ activates a text box that allows you to enter a more specific reason.
+ 
+3.  The appointment is marked 
+Cancelled
+.
+ 
+Your 
+client is automatically advised of the cancellation by email and SMS.
+ 
+ 
+ 
+Labelling appointments as No Show
+If a client fails to attend an appointment, you can record this by marking the appointment 
+No Show
+.
+ 
+To record a client's failure to show up for an appointment:
+ 
+1.  Select 
+No Show
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Yes
+ in the 
+Are you sure?
+ dialog.
+ 
+3.  The appointment is marked 
+No Show
+.
+ 
+If you fail to attend a scheduled appointment, the client can mark the appointment 
+No Contact
+. See 
+Managing your lawyer appointments on LawConnect as a client
+ for more.
+ 
+LawConnect monitors 
+No Show
+ and 
+No Contact
+ appointments and takes appropriate action where necessary.
+ 
+ 
+Replying to client feedback
+You can reply to a client's review about a past appointment.
+ 
+To reply to client feedback:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  In the 
+Review
+ section, select 
+Reply
+.
+ 
+3.  Enter your reply and select 
+Continue
+.
+ 
+4.  You will receive confirmation that the reply has been added successfully. 
+Your reply is not subject to review by LawConnect and displays immediately in the 
+Verified Client Reviews
+ section of your profile.
+ 
+Client reviews are subject to prior review by LawConnect and only display on your profile after approval. See 
+Managing lawyer appointments on LawConnect as a client
+ for more.  
+ 
+ 
+ 
+Downloading appointments
+You can download all your appointments in a CSV (comma-separated values) file. 
+This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example. 
+ 
+To download your appointments:
+ 
+1.  Select 
+Download
+ (below the table).
+2.  The file downloads to your computer in CSV format. 
+The file is named 
+<Your Name> - LawConnect Appointments.csvLawConnect provides the functionality for lawyers to book appointments for their clients on LawConnect. 
+ 
+You can book appointments for both new and existing clients. The bookings include all the features and notifications set for the 
+appointment type
+, for example reminder notifications, rescheduling and client reviews. 
+ 
+In this article, we take you through the process of booking appointments for your clients on LawConnect as a lawyer.
+ 
+Client appointments can also be booked 
+directly by clients
+ and 
+by practice managers
+ on behalf of the lawyers in their firm.
+ 
+ 
+ 
+How to book appointments for your clients on LawConnect 
+To book appointments for your clients:
+ 
+1.  In 
+My Dashboard
+ select 
+Book Appointment
+. 
+ 
+2.  Select an appointment type in the 
+Appointment Type
+ pick list. 
+3.  For 
+Meeting at Court
+ appointment types, select the relevant court in the 
+Court
+ pick list.
+4.  Select an 
+Appointment Schedule 
+option:
+Calendar Availability
+: Select a date and time in your calendar.
+This option displays your standard availability in your calendar for the appointment type. See 
+Managing your availability for appointment types as a lawyer
+ for more. 
+Flexible Date/Time
+: 
+- Select the 
+Date
+ field and then select a date in the popup calendar.
+- Select a start and end time in the pick lists in 
+Start Time
+ and 
+End Time
+ fields. 
+ 
+Both fields allow you to select times in 15-minute intervals for a 24-hour period.
+This option allows you to schedule appointments outside of your standard calendar availability (including out-of-office hours), and for durations that are different from the 
+settings for the appointment type
+..
+5.  
+Client details
+: 
+New clients
+: Enter your client's first and last name, mobile number, email address and select a time zone, if necessary. 
+The 
+Client
+ field defaults to 
+-- New Client --
+ so you can ignore it for this option. 
+Existing clients
+: Enter the first few letters of your client's name or surname in the 
+Search
+ box and then select the client in the pick list. 
+As you enter content in the box, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields. 
+Note! The list of clients includes clients previously booked on LawConnect and those booked through any integrated practice-management software, for example 
+Clio
+ or 
+LEAP
+. 
+6.  Select 
+Continue
+.
+7.  Complete any 
+form fields
+.
+This example uses a default 
+appointment type
+, 
+Meeting as Lawyer's Office
+, to which the default 
+form
+ is assigned. Custom forms may have additional or different fields.
+ 
+8.  Select 
+Book Appointment Now
+. 
+ 
+See 
+Managing your client appointments on LawConnect as a lawyer
+ for how to manage client appointments after your have booked them. 
+ 
+ 
+ 
+ 
+Locking your timezone
+If you have a virtual receptionist in a different timezone (including Smith.ai) who books appointments for you, or you work in more than one timezone, it is useful to know how to lock your timezone to avoid booking conflicts.  
+ 
+You can lock your timezone by adding the timezone parameter to the URL of your 
+lawyer profile
+.
+ 
+To find your profile URL:
+ 
+1.  Select 
+My Dashboard
+ in the top bar. 
+2.  Select 
+My Profile
+ and then 
+Preview Profile
+.
+3.  Copy the URL from the address bar in your browser.
+Your profile URL will be similar to 
+https://lawconnect.com/<country
+ code>/lawyer/<your name>.html, for example 
+https://lawconnect.com/uk/lawyer/rachael-smith.html
+ 
+ 
+To add a timezone parameter:
+1.  Find the correct parameter in Google's list of 
+Supported Time Zone Values
+.
+Parameters have no spaces and have are typically in the <country name>/<city/region name> format, for example America/New_York, Europe/London, or Australia/Melbourne. 
+2. Add ?timezone=<your timezone parameter> at the end of your profile URL.
+For example, 
+https://lawconnect.com/uk/lawyer/rachael-smith.html?timezone=Europe/London
+.
+ 
+ 
+See 
+Changing your timezone section
+ in  
+Managing your LawConnect account as a lawyer
+ for more information about setting your timezone in LawConnect. As a lawyer, you can control your calendar availability for each appointment type assigned to you. For example, you can limit your availability for phone appointments to an hour on Monday mornings, and meetings with new clients to Friday's from 2 to 3 pm. 
+ 
+In LawConnect, appointment types are set up on a firm-wide level and then assigned to individual lawyers. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+In this article, we take you through the process of limiting your calendar availability for appointment types as a lawyer.
+ 
+Note! Practice managers can also set calendar availability on behalf of the lawyers in their firm. See the 
+Limiting appointment availability for individual lawyers
+ section of 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.
+ 
+ 
+ 
+Accessing your appointment types
+To access your appointment types:
+ 
+1.  Select 
+My Dashboard
+ in the top bar, if necessary.
+ 
+2.  Select the my appointment types icon.
+ 
+3.  Your 
+My Appointment Types
+ area opens.
+ 
+ 
+ 
+Setting your calendar availability for appointment types
+To set your calendar availability:
+ 
+1.  In 
+My Appointment Types
+, select 
+Edit
+ for an appointment type. 
+ 
+2.  In the 
+APPOINTMENT AVAILABILITY
+ section:
+Deselect any day checkbox to exclude the entire day.
+For selected (included) days, select a start and end time in the pick lists that you will be available for in your calendar for the appointment type.
+These are the time periods that will be included in your availability.
+3.  Save.
+ 
+All other configuration options for the appointment type are greyed out and inactive. These options are set on a firm-wide level in 
+Firm Dashboard > Firm Appointment Types
+. 
+The one exception is the 
+Skype Username
+ field, in which you should add your Skype username to ensure that the appointment type displays in the 
+Select Appointment Type
+ pick list in the booking widget. 
+ 
+Practice managers can also perform this function. See the 
+Limiting appointment availability for individual lawyers
+ section in 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.As a lawyer, you can manage your clients accounts on LawConnect in your 
+My Clients
+ area. 
+ 
+In this article, we take you through the process of managing your client accounts, including how to access, search, edit, delete and download client information, as well as book client appointments in the 
+My Clients
+ area. 
+ 
+ 
+ 
+Accessing your client accounts
+To access your client accounts:
+ 
+1.  Select 
+My Dashboard
+ in the top bar, if necessary. 
+ 
+2.  Select 
+Manage Clients
+ (below your appointment table).
+ 
+Your 
+My Clients
+ area includes: 
+Search and download functions.
+A table listing all your clients that includes each client's name, date of last appointment, total number of appointments, as well as actions to book appointments, and edit and delete their account.
+ 
+ 
+Searching for client accounts
+To search for a client account:
+ 
+1.  Enter the client's name, email address or mobile number (or the first few letters of any) in the search box.
+ 
+2.  Select the search icon.
+ 
+3.  The table reloads to show only clients that match the search term. .
+ 
+ 
+ 
+Booking client appointments 
+To book an appointment for a client:
+ 
+1.  Select 
+Book
+.
+ 
+2.  Select an appoint type, and a date and time, in 
+Calendar Availability
+ or 
+Flexible Date/Time
+ mode.  
+ 
+Calendar Availability
+ displays your normal availability and 
+Flexible Date/Time
+ allows you to schedule appointments for specific times and durations, which can be outside of your standard office hours. See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more.
+ 
+ 
+ 
+Editing client details
+To edit a client's details:
+ 
+1.  Select 
+Edit
+.
+ 
+2.  Update or add any details in the form.
+ 
+3.  Optionally, select 
+Yes
+ in 
+Add Client Address?
+ to add the client's location. 
+When you select this option, additional fields for the client's address become available. 
+ 
+4.  Save.
+ 
+ 
+ 
+Deleting client accounts
+To delete a client account.
+ 
+1.  Select 
+Delete
+.
+ 
+2.  Select 
+Delete Client
+.
+ 
+Warning! Deleted client accounts cannot be recovered.
+ 
+ 
+ 
+Downloading client accounts
+You can download your client account details in a CSV (comma-separated values) file. 
+This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example.
+ 
+To download your appointments:
+ 
+1.  Select Download (below the table).
+2. The file downloads to your computer in CSV format.
+The file is named 
+<Your Name> - LawConnect Contacts.csvYou created your LawConnect account during the sign-up process when you accepted your law firm's invitation to LawConnect. See 
+Accepting an invitation to sign up for LawConnect as a lawyer
+ for more. 
+ 
+The details you provided during the sign-up process are stored in your LawConnect account. You can edit all your personal details in the 
+Account
+ area of LawConnect.
+ 
+In this article, we take you through the process of signing in and out of LawConnect, accessing your LawConnect 
+Account
+ area, changing your email address, mobile number, timezone and password, and resetting your password when signed out of LawConnect. 
+ 
+ 
+ 
+Signing in to LawConnect
+To sign in to LawConnect:
+ 
+1.  Open 
+https://lawconnect.com
+ and select 
+Sign In
+ in the top bar.
+LawConnect 
+may automatically redirect to the 
+LawConnect 
+URL for your region, for example 
+https://lawconnect.com/uk/
+ 
+2.  Enter your email address and password, and select 
+Sign In
+.
+Select 
+Remember me
+ to autofill these fields in the future. 
+ 
+3.  Your 
+My Dashboard
+ area opens.
+ 
+Signing out of LawConnect
+To sign out of LawConnect:
+ 
+1.  Select the sign out icon in the top bar.
+ 
+ 2.  You are signed out of LawConnect.
+When you sign out, the 
+Sign In
+ link displays in the top bar. 
+ 
+ 
+ 
+ 
+Accessing your LawConnect account
+To access your LawConnect account:
+ 
+1.  Select the settings icon in the top bar. 
+ 
+2.  Your 
+Account
+ area opens.
+ 
+In the 
+Account Settings
+ section, you can change your personal details by selecting the corresponding edit (pencil) icon. This activates new fields and options that differ, depending on the field you are in. 
+ 
+ 
+ 
+Changing your email address
+To change your email address:
+ 
+1.  Select the pencil icon in the 
+Email
+ field.
+ 
+2.  Enter your new email address and select 
+Submit
+.
+Your old email is filled in automatically.
+ 
+3. Select 
+Update Email
+ in the email sent to your new email address to confirm it.
+ 
+ 
+ 
+Changing your mobile number
+To change your mobile number:
+ 
+1.  Select the pencil icon in the
+ Mobile 
+field.
+ 
+2.  Enter your new mobile number and select 
+Submit
+.
+Your old mobile is filled in automatically.
+ 
+3. Enter the confirmation code sent by SMS to your new mobile and select 
+Confirm
+.
+ 
+ 
+ 
+Changing your timezone
+Your timezone is important because it is used to display accurate appointment times and to send 
+appointment reminders
+.
+ 
+To change your timezone:
+ 
+1.  Select the pencil icon in the 
+Timezone
+ field.
+ 
+2.  Select a new timezone in the pick list and save. 
+ 
+ 
+ 
+ 
+Changing your password
+To change your password:
+ 
+1.  Select the pencil icon in the 
+Password
+ field.
+ 
+2.  Enter your current password, and then enter and repeat your new password.
+ 
+3.  Select 
+Save
+.
+ 
+ 
+ 
+ 
+Resetting your password when signed out of LawConnect
+The instructions in this section are helpful when you forget your password and cannot access 
+LawConnect
+. 
+ 
+ 
+To reset your password when signed out of LawConnect:
+ 
+1.  Select 
+Reset Password
+ in the 
+Sign In
+ form.
+ 
+2.  Enter your email address and select 
+Reset Password
+. 
+ 
+3.  A message displays advising your that a reset link will be emailed to you, if the email address you provided is found in the system. 
+ 
+4.  Select 
+Reset Password
+ in the email. 
+ 
+5.  Enter and repeat your new password, and select 
+Save
+.An online calendar allows you to effectively manage your availability. You can avoid double bookings, maximise your real-time availability and deliver a great client experience.
+ 
+LawConnectsupports Microsoft Exchange/Outlook/Hotmail, Microsoft 365, Google Calendar/G Suite and Apple iCloud calendars, by default.
+ 
+Connecting your calendar is typically the last step of the process when 
+signing up for a LawConnect Lawyer account
+ or when 
+accepting an invitation to LawConnect as a lawyer
+.
+ 
+In this article, we take you through the process of connecting to one or more calendar applications after sign-up, and provide instructions on how to manage calendar connections. 
+ 
+Note! If you have not connected your calendar, LawConnect still allows you to book appointments for your assigned 
+appointment types
+, but this may result in double bookings and a poor client experience, as it is not possible to establish your availability in real time.  
+ 
+ 
+ 
+How to connect your calendar
+To connect LawConnect to your calendar:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Calendars
+, select 
+Manage Calendars
+.
+Select 
+Connect My Calendar
+.
+Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application.
+When requested, enter the details you would ordinarily use to login to your Office365/Google/Apple iCloud. For Microsoft Exchange/Outlook, use the same settings as you used to connect your email on your smartphone.
+Connecting your calendar allows LawConnect to create and delete calendar events, and read your availability in your calendar app.
+ 
+Connecting additional calendars
+To connect an additional calendar:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Calendars
+, select 
+Manage Calendars
+.
+Select 
+Connect Another Calendar
+. 
+Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application.
+When requested, enter the details you would ordinarily use to login to your Office365/Google/Apple iCloud.
+ 
+ 
+Managing your calendars
+All connected calendars display in the 
+Manage Calendars
+ area that provides tools and actions to manage your calendars.
+Refresh
+:  Select the refresh icon to manually retrieve your availability from your calendars.
+Primary Calendar
+: Select your primary calendar in the pick list. 
+This is calendar that is used in the event of an availability conflict.
+Delete
+: Select the X icon for any calendar to disconnect it from LawConnect and delete it from the list.
+ 
+ 
+Related articles
+ 
+Getting started
+Accepting an invitation to sign up for LawConnect as a lawyer
+Creating your lawyer profile
+Creating your profile on LawConnect as a lawyer
+Managing your clients and their appointments
+Managing your client appointments on LawConnect as a lawyer
+Booking appointments for your clients on LawConnect as a lawyer
+Managing your client accounts on LawConnect as a lawyer
+Managing your LawConnect account
+Managing your LawConnect account as a lawyerLawConnect's sister website and Australia's #1 online legal community, 
+LawAnswers.com.au
+, promotes LawConnect to thousands of people who are looking for a lawyer every day. 
+ 
+As a registered LawConnect lawyer, you can engage with and promote your services to potential clients, showcase your knowledge in the 
+LawAnswers.com.au
+ forums and sign off your responses with a link to your 
+LawConnect profile
+ to let more potential clients know about you and contact you. This is exclusive to lawyers registered on LawConnect. 
+ 
+ 
+ 
+Signing up for LawAnswers.com.au
+To get started, create a free 
+LawAnswers.com.au
+ account at: 
+https://www.lawanswers.com.au/
+ 
+ 
+Let us know when you have signed up and we'll update your forum signature for you.
+ 
+If you are not yet a LawTap lawyer, you 
+can join now
+ and start accepting online client bookings in less than 10 minutes.
+ 
+ 
+Getting notified about questions posted in a specific forum
+To get notifications of activity in a specific forum: 
+Log in to 
+LawAnswers.com.au
+ 
+Select the forum you want to watch.
+Select 
+Watch Forum
+.
+Select how you would like to receive notifications.
+Select 
+Watch Forum
+.
+ 
+ Each law firm has a single LawConnect Lawyer account to manage the firm activity as a whole on LawConnect. You can invite as many lawyers and other legal professionals as necessary to 
+sign up for a linked LawConnect account
+. Their LawConnect accounts are managed within the main firm account. 
+ 
+In this article, we provide instructions on how to invite individual lawyers and other legal professionals in your firm to LawConnect as a practice manager. 
+ 
+Each lawyer has a dedicated area in LawConnect —
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and  
+appointments
+. Each professional signs in to LawConnect with their own credentials (email address and password), which they set during their 
+sign-up process
+. 
+ 
+For an overview of how LawConnect Lawyer accounts work and instructions on how to sign up for one, see 
+Signing up for a LawConnect Lawyer account as a practice manager
+.
+ 
+ 
+ 
+How to invite lawyers to LawConnect 
+To invite lawyers to your firm's LawConnect Lawyer account:
+ 
+1.  Select the 
+Account
+ link in the top bar to access your 
+Account
+ area.
+In this context, "your account" means the 
+account you created on behalf of your law firm
+.
+ 
+2.  In 
+Pending Members
+ select 
+Invite Members
+.
+ 
+3.  Create invitation emails for all lawyers and legal professionals simultaneously:
+Enter the first lawyer's email address, name and surname.
+Select 
+Add Member
+ to display an additional form.
+Repeat these steps until you have added all the members of your firm. 
+4.  Select 
+Send Invites
+.
+ 
+LawConnect automatically sends invitation emails to your invitees. The emails are personalized and sent from a LawConnect email address (
+support@lawconnect.com
+) on your behalf with the subject line: 
+<Your Name> invited you to join <Your Law Firm Name> on 
+LawConnect
+.
+ 
+You can invite new professionals at any time using the above steps.
+ 
+ 
+Managing pending invites
+The invited lawyers are listed in the 
+Pending Members
+ area and their status is marked 
+Pending
+ until they activate their accounts.
+ 
+You can use the actions in the 
+Actions
+ column to:
+Re-send
+ the invitation email.
+Cancel
+ the invitation. 
+This action does not send another email. When the invitee attempts to accept the invitation, the link results in a 404 (page not found) error.  
+ 
+ 
+Viewing legal professionals in your firm
+When the lawyers and other professionals 
+accept their invitations and sign up
+ to LawConnect, they are moved into the 
+Active Members
+ area and their status changes to 
+Fully Active
+. 
+ 
+This is a full list of all members of your firm on LawConnect. The links in the 
+Name
+ column open each 
+lawyer's profile
+ on LawConnect.Your law firm profile is your opportunity to showcase your law firm on LawConnect. 
+ 
+A few basic profile elements, for example the firm name, description and location, were added during the 
+sign-up process
+ for your firm's LawConnect Lawyer account. 
+ 
+In this article, we take you through the process of completing and editing all sections of you law firm profile and demonstrate how and where each element displays on LawConnect. 
+ 
+ 
+ 
+Accessing your firm profile
+The content of your firm profile is stored in the 
+Firm Profile
+ area of your 
+Firm Dashboard
+. 
+ 
+To access your firm profile:
+ 
+1.  Select
+ Firm Dashboard
+ in the top bar. 
+ 
+2.  Select
+ Firm Profile
+.
+ 
+ 
+ 
+Previewing your firm profile
+The 
+Preview Profile
+ action allows you to view your profile as it displays on the web. This is the version clients see in their browser on LawConnect.
+ 
+Use the 
+Preview Profile
+ action while completing your firm profile to make sure your changes display correctly. 
+ 
+To preview your firm profile:
+ 
+1.  Select 
+Preview Profile
+.
+ 
+2.  The preview opens in a new browser tab or window. 
+ 
+You can switch between the 
+Firm Profile
+ browser tab and the preview tab to tweak the profile as you go. Remember to save in the 
+Firm Profile
+ area and refresh in the preview tab to ensure that the changes display.
+ 
+ 
+ 
+Adding and editing firm profile content
+You can add or edit content in your firm profile at any time.
+ 
+The 
+Firm Profile
+ area is arranged in four tabs that group similar information together—
+About Firm
+, 
+Firm Locations
+, 
+Links
+ and 
+Settings
+.  
+ 
+ 
+ 
+ 
+About Firm
+The information in the 
+About Firm
+ tab describes your firm. 
+ 
+Your firm name, description and office phone number were added during the 
+sign-up process
+, but you can update these, if necessary.  
+ 
+Name
+: Enter the name of your law firm.
+This text displays as the header of your profile.
+Description
+: Enter your firm's description. 
+There is no character-length limitation and you can make the description as long as you like. The first few lines displays in the 
+About
+ section in the header box of your firm profile and the user can expand the text by selecting the 
+Read More
+ link.
+Complaints Handling
+: Enter text that describes how you handle complaints. 
+This text is limited to 500 characters. If longer, you will receive an error and will not be able to save the information. This displays at the bottom of your firm profile (above the footer). In many jurisdictions it is mandatory to publish this procedure on public web pages.
+Office Phone
+: Enter your main office telephone number. 
+This number is linked to the telephone icon at the bottom of the header box of your firm profile. When a user selects the icon, your office number is typically dialed automatically on their device. How, and if, this works, depends on the user's device and set up.
+Profile Photo
+: Select 
+Upload Profile Photo
+ and upload a file from your device.
+For best results, use a square image with a minimum resolution of 250 x 250 pixels. The system automatically resizes the image to display appropriately on different screen resolutions and devices. 
+Tip! You can resize the 
+Description
+ and 
+Complaints Handling
+ text areas by dragging the dots at the bottom right of the field either down or across. 
+ 
+This is how the 
+About Firm 
+information displays in your firm profile header.
+ 
+Your complaints procedure displays at the bottom of the page between the timezone selector and the footer.
+ 
+Note! Your timezone setting is in the 
+Account
+ area of your LawConnect Lawyer account. See 
+Managing your firm's LawConnect Lawyer account as a practice manager
+ for more.
+ 
+ 
+ 
+Firm Locations
+The 
+Firm Locations
+ tab displays the address you provided during the 
+sign-up process
+. This is set as your firm's primary location. 
+ 
+The red location marker indicates your location on the integrated Google Map that includes all the functionality to which users have become accustomed. 
+ 
+To edit your primary location, enter new information and then save. 
+When you save, the map updates automatically.
+ 
+ 
+Adding additional firm locations
+To add additional locations to your firm profile:
+ 
+1.  Select 
++
+ next to the 
+Primary
+ tab. 
+ 
+2.  Enter the address for your second firm location.
+ 
+3.  Repeat this procedure for all additional locations. 
+You can have a total of 10 locations.
+ 
+4.  Save.
+When you save, the map updates automatically.
+ 
+All locations display as links under your firm name in your firm profile header, in the same order of the sub-tabs in 
+Firm Locations
+ tab. These links open in Google Maps, where clients have many options, for example finding routes, directions or transport options.   
+ 
+ 
+Deleting firm locations
+To delete a firm location:
+ 
+1.  Select 
+X
+ in the header of the tab you want to delete.
+ 
+2  The tab and its content is deleted. 
+ 
+ 
+ 
+Links
+The 
+Links
+ tab allows you to enter URLs to your firm's website, social media accounts and a YouTube video.  
+Each link displays as a button below the 
+About Firm
+ information in the firm profile header and the video streams directly from YouTube below the links. 
+Firm Website
+: Enter the URL to your firm website.
+Firm Google My Business
+: Enter the URL of your Google My Business page. 
+Firm Facebook
+: Enter the URL of your firm's facebook page.
+Firm LinkedIn
+: Enter the URL of your firm's Linkedin profile. 
+Firm Twitter
+: Enter the URL of your firm's Twitter account.  
+Firm YouTube Video ID
+: Enter the video ID of a video published on YouTube . 
+To find the video ID, open the video on YouTube in your browser. In the address bar, copy the string of numbers after the "v=" part of the URL. The ID must be 11 characters long. If not, you will receive an error and will not be able to save the information. 
+This is what the links and video look like in your law firm profile header. 
+ 
+ 
+ 
+Settings
+The 
+Settings
+ tab allows you to set the 
+order
+ in which the individual lawyer profiles display in the law firm profile. 
+ 
+The 
+Select Appointment Type
+ field (in which clients can select their preferred appointment type) displays directly below the the firm profile header box. Below this,  
+there are white teaser boxes for each lawyer in the firm, together with their booking calendar. The lawyers who display, and the order in which they display, depends on two criteria:
+ 
+1.  Whether the lawyer has been assigned the selected appointment type. 
+Individual profiles only display in the list if the lawyer offers the selected appointment type. Some lawyers, for example, do not handle court proceedings or offer telephone consultations. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+2.  The option set in the 
+Sort Preferences
+ field in the 
+Settings
+ tab (see below) in the 
+Firm Profile
+ area.
+ 
+The content in each lawyer's teaser box is set in their individual profile. See 
+Creating a profile on LawConnect as a lawyer
+ for more. 
+ 
+To set the lawyer's sort order in the 
+Settings
+ tab:
+ 
+1.  Select an option in the 
+Sort Preference
+ pick list.
+Availability
+: Lawyers display by availability. This is the default option. 
+The lawyer with the first available appointment displays first, followed the the lawyer with the next available appointment, and so on. 
+First Name
+: Lawyers display alphabetically by first name.
+Last Name
+: Lawyers display alphabetically by last name.
+Seniority
+: Lawyers display by the length of time they have been admitted to practice, from longest to shortest.  
+The is calculated  using the information in the 
+Year First Admitted
+ field in the 
+Your Practice
+ tab of each lawyer's profile. See See 
+Creating a profile on LawConnect as a lawyer
+ for more. 
+ 
+2.  Save.
+ 
+This short clip demonstrates the difference between the 
+Last Name
+ (alphabetical) and 
+Seniority
+ setting.
+ 
+ 
+Related articles 
+Getting started
+Signing up for a LawConnect Lawyer account as a practice manager
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+Managing appointment types for your law firm
+Adding and managing appointment types for your law firm as a practice manager
+Adding and managing forms for your law firm as a practice manager
+Managing client appointments and accounts for your law firm
+Booking client appointments for lawyers in your firm as a practice manager
+Managing client appointments for the lawyers in your firm as a practice manager
+ 
+Managing your law firm's LawConnect account
+Managing your firm's LawConnect Lawyer account as a practice managerAppointment types are the kinds of appointments offered to clients by lawyers on LawConnect. The default types include phone calls and meetings at lawyer's offices and at court.   
+ 
+Appointment types clarify the appointment booking process for clients, who can see at a glance which appointment types are offered by each lawyer and law firm. The available types display in the 
+Select Appointment Type
+ pick list in the booking widget that displays in your firm profile and in each lawyer's profile. 
+ 
+Appointment types are set on a a firm-wide basis, typically by the practice manager, who assigns each type to individual lawyers. 
+ 
+You can use the default appointment types or create your custom types to suit your firm's precise requirements.
+ 
+In this article we cover how to access, manage, configure, assign and create new appointment types on behalf of your firm as a practice manager.
+ 
+ 
+ 
+Accessing firm appointment types
+To access your firm appointment types:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar, if necessary.
+2.  Select 
+Firm Appointment Types
+.
+ 
+ 
+Managing appointment types
+The 
+Firm appointment Types
+ area includes a table that lists current appointment types:
+Name
+: The name of the appointment type. 
+Type
+: The type of appointment, for example phone call or meeting. 
+Assigned Lawyers
+: The number of lawyers who have been assigned the appointment type. 
+Actions
+: Actions to edit, disable and delete each appointment type. 
+ 
+You can use the default appointment types, for example 
+Phone - 15 Mins
+ or 
+Meeting at Lawyer's Office
+, as they are, or as guidelines when creating new types. 
+ 
+ 
+ 
+Enabling and disabling appointment types
+The enable and disable actions allow you to switch appointment types on an off, without deleting them permanently. 
+ 
+Enabled appointment types display in the 
+Select Appointment Type
+ pick list in your firm and the individual lawyer profiles. When disabled, they are removed from this list and no longer available for selection by clients on LawConnect.
+ 
+Enabled appointment types display at the top of the 
+Firm Appointment Types
+ table in white table rows, and disabled types display below these types in grey rows. 
+ 
+You can edit and delete both disabled and enabled appointment types and your changes will be saved.  
+ 
+To enable or disable an appointment type:
+ 
+1.  Select the 
+Enable
+ or 
+Disable
+ action for an appointment type.
+ 
+2.  You will receive a notification that the type was successfully activated/deactivated.
+The action name for the appointment type changes to the opposite of what it was before selection. 
+ 
+ 
+ 
+Deleting appointment types
+Warning! The Delete action permanently deletes the appointment type and it cannot be restored. 
+ 
+To delete an appointment type:
+ 
+1.  Select 
+Delete 
+for the appointment type you want to delete.
+ 
+2.  Select 
+Yes
+ in the 
+Are you Sure?
+ dialog.  
+ 
+3.  You will receive a notification that the type has been deleted.
+ 
+On deletion, the appointment type is removed and no longer displays in the list.
+ 
+ 
+ 
+Sorting appointment types
+You can change the sort order of the appointment types in the table using drag & drop. Appointments display in 
+Select Appointment Type
+ pick list in your firm profile and the individual lawyer profiles in the same order as in the table. 
+ 
+To change the sort order of appointment types:
+ 
+1.  In the row you want to move, select the move icon (far left) and hold down your left mouse on a desktop or tap and hold it on a mobile device.
+Your pointer changes into a move icon when you do this. 
+ 
+2.  Drag the row to the new position.
+ 
+3.  Drop it by releasing your mouse or finger.
+ 
+ 
+ 
+Editing appointment types
+To edit an appointment type:
+ 
+1.  Select 
+Edit
+ for the appointment type you want to edit.
+ 
+2.  Change the information in any configuration section by adding new information or editing the current information.
+Each configuration section is dealt with in a separate section below.
+ 
+3.  Save.
+ 
+ 
+ 
+Adding appointment types
+Tip! There are many ways to organize your appointment types. For example, your can create a single type (15-minute phone call) and assign it to all lawyers, or an individualized appointment type for each  lawyer (Meeting at court with Joe J), or any combination of these. 
+ 
+To add a new appointment type:
+ 
+1.  Select 
+Add Appointment Type
+.
+ 
+2.  Select a type.
+Phone Calls
+ and 
+Meetings at Lawyer's Office
+/
+Client's Location
+ and 
+Court
+ are always available. Any additional available options depend on your device, operating system, and LawConnect integrations (see examples below).
+3.  Complete the fields in all configuration sections by adding new information or changing the default settings.
+Each configuration section is dealt with in a seperate section below.
+ 
+4.  Save.
+ 
+The available appointment types are rendered dynamically and depend on your set up. For example:
+FaceTime is available for MacOS users.
+Skype is available, if installed on your device.
+WhatsApp is available, if your mobile number is registered on the platform.
+Zoom is available, if your have 
+integrated Zoom and LawConnect
+. 
+ 
+ 
+Setting appointment type options
+Editing and adding appointment types involve the same configuration options. Many options are available that allow you to configure the appearance, behaviour, features, notifications and related actions of each type. 
+ 
+The configuration options are arranged in sections—
+APPOINTMENT INFORMATION
+,
+ ASSIGNED LAWYERS
+,
+ APPOINTMENT FORM
+,
+ APPOINTMENT FEE
+,
+ APPOINTMENT FEATURES
+ and
+ APPOINTMENT NOTIFICATIONS
+—that group similar and related settings together. 
+ 
+Select the 
+v
+ or 
+> 
+next to the section heading to expand and hide the options in each section.
+ 
+ 
+Default options
+When you add a new appointment type, defaults are set automatically to the most commonly-used setting for many configuration options. For example, all SMS and email notifications are automatically enabled, but you can disable them individually by deselecting the checkboxes. 
+ 
+Each configuration section is covered in the sections that follow. 
+ 
+ 
+ 
+Adding appointment information
+The 
+APPOINTMENT INFORMATION
+ section allows you to set the name, description and calendar padding for the appointment type.
+Appointment Name
+: Enter a name for the appointment type.
+The default is the name of the appointment type, for example 
+Phone Call
+, 
+Skype Call
+, 
+Meeting at Lawyer's Office
+ and so on. 
+Appointment Description
+:
+ 
+Enter a description for the appointment type.
+You can use this field for your own records. It does not display in the table or publicly anywhere.
+Gap Before
+:
+ 
+Select a time period in the pick list for the gap in your calendar before the appointment.
+The available range is 
+None
+ to 
+8 hours
+. This is the amount of time that the assigned lawyer will be unavailable for in their calendar prior to the appointment. This is to make allowance for meeting preparation or travel, for example. 
+Duration
+: Select a time period in the pick list to set the duration of the appointment. 
+The available range is 
+10 minutes
+ to 
+8 hours
+. The default times vary depending on the appointment type, for example for meetings the default is 
+1 hour
+ and for court appearances it is 
+4 hours
+.  
+Gap After
+: Select a time period in the pick list to set the gap after the appointment. 
+The available range is 
+None
+ to 
+8 hours
+. This is the amount of time the lawyer will be unavailable for in their calendar after the appointment, for example to travel back to the office. 
+No Earlier Than
+: Select a time period in the pick list to set the earliest available appointment time.
+The available range is 
+None
+ to 
+3 weeks
+. This is the minimum amount of time required between the client booking the appointment and the actual time of the appointment. The default times vary, depending on the appointment type. 
+No Later Than
+: Select a time period in the pick list to set the latest available appointment time.
+The available range is 
+1 week
+ to 
+90 day
+s. This is the maximum amount of time required between the client booking the appointment and the actual time of the appointment. The default times vary, depending on the appointment type. 
+When you save a new appointment type, it displays at the top of the table and is therefore also first in the pick list in the 
+Select Appointment Type
+ field in the firm and individual profiles. 
+ 
+This short clip demonstrates how appointment time gaps, duration and notice periods work. Note how availability in the calendar changes when switching appointment types. 
+The configuration options for the various appointment types are set at the defaults.
+ 
+Note! Most appointment types display in the 
+Select Appointment Type
+ field as soon as you assign them to one or more lawyers. The one exception is Skype appointments: this type only displays in the list after the individual lawyer's Skype username is provided. This can be added by you or by the individual lawyer. See 
+Limiting appointment availability for individual lawyers
+ below or 
+Managing your availability for appointment types as a lawyer
+ for more.
+ 
+ 
+ 
+Assigning appointment types to lawyers
+The  
+ASSIGNED LAWYERS
+ section allows you to assign the appointment type to one or more lawyers in your firm. 
+ 
+To assign an appointment types to lawyers :
+ 
+1  Select the checkbox next to each lawyer's name.
+ 
+2.  Save.
+ 
+In the 
+Firm Appointment Types
+ table:
+The number lawyers assigned the appointment type displays in the 
+Assigned Lawyers
+ column.
+The 
+Edit
+ action has a pick list that allows you to limit the availability for each lawyer for the appointment type. 
+See 
+Limiting appointment availability
+ 
+for individual lawyers
+ below for more.  
+When you assign an appointment type to one or more lawyers:
+The appointment type becomes available in the 
+Select Appointment Type
+ pick list in the firm profile and the profiles of the lawyer's assigned the type.  
+The lawyer's assigned the appointment type display in the firm profile when the appointment type is selected in the pick list. 
+Lawyer's who are NOT assigned the type are excluded when the type is selected in the list. 
+ 
+ 
+Limiting appointment availability for individual lawyers
+You can limit availability in the individual calendars of the lawyers in your firm using the individualized 
+Edit
+ actions that become available when appointment types are assigned. 
+ 
+This functionality allows you to offer phone call or meeting appointments, for example, only at specified times. 
+ 
+To limit the calendar availability for an individual lawyer:
+ 
+1.  Select 
+Edit > Edit for <
+Lawyer's Name
+>
+ for the appointment type. 
+ 
+2.  In 
+APPOINTMENT AVAILABILITY
+:
+Deselect any day checkbox to exclude the entire day.
+For selected (included) days, select a start and end time in the pick lists that the lawyer will be available for in their calendar for the appointment type.
+These are the time periods that will be included in the lawyer's availability.
+3.  Save.
+ 
+This function accesses the individual lawyer's calendar. Because appointment types are created and managed on a firm-wide level, all other configuration options for the appointment type are greyed out and inactive in this view. 
+The one exception is the 
+Skype Username
+ field, in which you should add the lawyer's Skype username to ensure that the appointment type displays in the 
+Select Appointment Type
+ pick list in the booking widget. 
+ 
+Individual lawyers can also perform this function in 
+My Dashboard > My Appointment Types
+. See 
+Managing your availability for appointment types as a lawyer
+ for more. 
+ 
+ 
+ 
+Assigning an appointment form
+The  
+APPOINTMENT FORM
+ section allows you to assign a form to an appointment type. 
+ 
+Note! An assigned appointment form IS REQUIRED for appointment type to function correctly. An appointment form is NOT assigned by default.
+ 
+Appointment forms are used to solicit the necessary information from clients. During the 
+booking process
+, clients enter and submit their details in a form. 
+ 
+LawConnect provides one pre-configured form—
+Default
+ form—that allows the client to enter their name, surname, mobile number, email address and a summary of their legal issue. This form is suitable for, and used by, all the default appointment types. 
+ 
+See 
+Adding and managing forms for your law firm as a practice manager
+ for more about how LawConnect forms work and how to create your own forms.
+ 
+To assign a form to an appointment type:
+ 
+1.
+ 
+In 
+APPOINTMENT FORM
+, select a form in the pick list. 
+ 
+2.  Save.
+ 
+ 
+ 
+Setting an appointment fee
+The 
+APPOINTMENT FEE
+ section allows you to set up prepayments for appointment types. 
+ 
+LawConnect offers two appointment payment options: 
+LawPay
+ (US and Canada) and 
+Stripe
+ (worldwide).
+ 
+Both options require integration with LawConnect. See the following articles for more about these organizations and how to integrate them: 
+Using LawPay for LawConnect Appointment Payments
+.
+Using Stripe for LawConnect Appointment Payments
+.
+ 
+Setting appointment features
+The  
+APPOINTMENT FEATURES
+ section allows you to set fine-grained appointment features for each appointment type.
+ 
+To set appointment features:
+1.  Select or deselect the checkbox for each option.
+ 
+2.  Save.
+ 
+Options:
+Publicly Displayed to Clients?
+: Select to display the appointment type in the 
+Select Appointment Type
+ pick list. .
+This option is enabled by default. When deselected, the appointment type it only available internally for 
+lawyers
+ or 
+practice managers
+ to book appointments 
+on behalf of 
+clients. 
+For Existing Clients Only?
+: Select to indicate to clients that the appointment type is only available if they are a previous client of the lawyer or law firm. 
+When enabled, the appointment type is marked 
+Existing Clients Only
+ and a confirmation checkbox (see screenshot below) is automatically added to the appointment booking form. The client cannot complete the booking process without checking the box to confirm that they are an existing client.
+Require Client Phone SMS Verification?
+: Select to require SMS verification before the appointment booking is finalized. 
+This option is enabled by default. The system sends a SMS verification code to the mobile number provided by the client. They are redirected to a verification form to enter the code before they can complete the booking. This mitigates against malicious or inaccurate client contact information. 
+Require Conflict Check?
+: Select to require prior confirmation of the appointment by the lawyer. 
+When enabled, a confirmatory checkbox (see screenshot below) is automatically added to the appointment booking form and the client cannot complete the booking process without with checking the box. The appointment is marked 
+Pending
+ until confirmed by the lawyer. 
+Offer Free First Appointment
+: Select to advertise an initial appointment for free.
+The appointment type is  marked 
+Free First Appointment
+ (see screenshot below). This is also offered as a search criteria in advanced searches on 
+LawConnect
+. See 
+Searching for a lawyer on LawConnect as a client
+ for more.
+ 
+Allow Client Reschedule?
+: Select to allow clients to reschedule the appointment after booking. 
+This option is enabled by default. When enabled, clients can reschedule the appointment in their 
+My Appointments
+ area. See 
+Managing lawyer appointments on LawConnect as a client
+ for more.
+Allow Post-Appointment Client Reviews?
+: Select to enable client reviews after the appointment.
+This option is enabled by default. Client reviews display in full in 
+lawyer profiles
+, and in the 
+law firm profile
+ header and individual lawyer teaser boxes. Lawyers with good reviews generally receive more bookings. When enabled, the client receives and email after the appointment asking them to review it. See 
+Managing lawyer appointments on LawConnect as a client
+ for more. 
+Redirect Client Post-Booking?
+: Select to redirect the client to an external web page after booking. When enabled, two additional fields display:
+ - 
+Post-Booking Redirection Link
+: The URL to which clients are sent after booking.
+ - 
+Post-Book Redirection Link Name
+: The name of the link. 
+This is a handy feature that you can use for a number of purposes. For example, you could redirect clients to a page that details the documentation they need to provide for a specific process. You can redirect to any web page, whether on your firm website or on a third-party site. 
+The 
+For Existing Clients Only?
+ and 
+Offer Free First Appointment?
+ feature options are highlighted in each lawyer's profile, when enabled.  
+These options are contradictory and this screenshot was created for demonstration purposes only.
+ 
+The 
+For Existing Clients Only?
+ and 
+Require Conflict Check?
+ feature options automatically each add relevant confirmatory checkboxes to the appointment form. 
+Clients cannot complete the booking process without confirming that they are an existing client or that they are aware the appointment is subject to a conflict check. 
+ 
+ 
+ 
+Setting appointment notifications
+The 
+APPOINTMENT NOTIFICATIONS
+ section allows you to set various email and SMS notifications for both lawyers and clients. 
+ 
+All notifications are enabled by default. The email address and mobile number in the 
+lawyer's
+ and 
+client's
+ LawConnect account are used for the notifications. 
+ 
+To set appointment notifications:
+1.  Select or deselect the checkbox for each option.
+ 
+2.  Save.
+ 
+Options:
+Lawyer SMS Confirmation
+: Select to send an SMS to the lawyer when 
+the client books an appointment
+.
+Lawyer Email Confirmation
+: Select to send an email to the lawyer when 
+the client books an appointment
+.
+Lawyer SMS Reminder
+: Select to send an SMS reminder to the lawyer prior to the appointment.
+Lawyer Email Reminder
+: Select to send an email reminder to the lawyer prior to the appointment.
+Client SMS Reminder
+: Select to send an SMS reminder to the client prior to the appointment.
+Client Email Reminder
+: Select to send an email reminder to the client prior to the appointment.
+Reminders (email and SMS) are sent:
+24 hours before the appointment, if the appointment is booked more than 24 hours in advance. 
+1 hour before the appointment, is the appointment is booked less that 24 hours in advance.
+ 
+ 
+Related articles 
+Getting started
+Signing up for a LawConnect Lawyer account as a practice manager
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+Creating your law firm profile
+Creating a profile for your law firm as a practice manager
+Managing appointment types for your law firm
+Adding and managing forms for your law firm as a practice manager
+Managing client appointments and accounts for your law firm
+Booking client appointments for lawyers in your firm as a practice manager
+Managing client appointments for the lawyers in your firm as a practice manager
+ 
+Managing your law firm's LawConnect account
+Managing your firm's LawConnect Lawyer account as a practice managerForms facilitate client bookings on LawConnect. When a 
+client books an appointment
+, they furnish their information by entering their details in a form that they then submit.  
+ 
+All 
+appointment types
+ need to be assigned a form to function correctly. LawConnect provides a default form that allows entry of basic information and is suitable for most appointment types. 
+ 
+In this article we explain how forms work in LawConnect, and provide instructions on how to create new forms and manage current forms in LawConnect as a practice manager. 
+ 
+ 
+ 
+Understanding Default form
+LawConnect provides one form—named 
+Default form
+—that is suitable for most basic appointment types. It allows the client to enter their first and last name, mobile number, email address and a summary of their legal issue. 
+ 
+Default form
+ is assigned to all default appointment types. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.
+ 
+ 
+ 
+How LawConnect forms work
+Forms are typically made up of one or more form fields and a submission button. Form behavior, and what happens to the information after submission, can be complex. LawConnect takes care of this complexity, while still allowing you to create complex forms.  
+ 
+The basic fields required to create a LawConnect account—first and last name, email address and mobile number—are included in all forms automatically. These fields either display or are hidden, depending on whether the user is signed in or signed out of LawConnect. 
+ 
+These screenshots compare 
+Default form
+ when a user is signed out (left) and signed in (right). 
+ 
+To configure a custom form, it is only necessary to edit or replace the last text (legal summary) field, and add additional fields. LawConnect takes care of the rest automatically. See 
+Adding forms
+ below for more. 
+ 
+ 
+ 
+Accessing forms
+Forms are available in your 
+Firm Dashboard
+. 
+ 
+To access forms:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar, if necessary.
+ 
+2.  Select 
+Firm Appointment Types
+.
+3.  Select 
+Manage Forms
+.
+ 
+ 
+ 
+Managing forms
+The 
+Manage Forms
+ area Includes the 
+Add Appointment Form
+ action (to add new forms) and a table listing all current forms that includes:
+Form
+:  The form name. 
+Form Fields
+: The names of each field in the form.
+Linked Appointment Types
+: Links to the appointment types that use the form. 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+Actions
+: 
+Edit
+ and 
+Delete
+ actions for each form.
+ 
+ 
+Editing forms
+To edit a form:
+ 
+ 1.  Select 
+Edit
+.
+2.  Edit any element of the form.
+See sections
+ 
+below for more.
+3.  Save. 
+ 
+ 
+ 
+Deleting forms
+ To delete a form:
+ 
+ 1.  Select 
+Delete
+.
+ 
+ 2.  Select 
+Yes
+ in the 
+Are you sure?
+ dialog. 
+Warning! Deleted forms cannot be recovered!
+ 
+ 
+ 
+Adding forms
+To create a new form:
+ 
+1.  Select 
+Add Appointment Form
+.
+ 
+2.
+ 
+Enter a form name.
+This name displays in the pick list in the 
+Appointment Form
+ field that allows you to assign the form to an appointment type. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more
+3.  Add fields:
+     3.1  Enter a field name, select a field type, and optionally check 
+Required?
+, and add      a tooltip and placeholder.
+ 
+These elements are covered in separate sections below.
+     3.2  Select 
+Add New Field
+.
+     3.3  Repeat this procedure for as many fields as you need.
+ 
+4. Save.
+ 
+ 
+ 
+Adding field names
+To add a field name, enter it in 
+Field Name
+ field.
+ 
+This is a required field. You will not be able to save the form without providing a valid field name. The maximum length is 250 characters You can use any alphanumeric or special character, as well as blank spaces. 
+The field name typically displays above the field. The one exception is the Checkbox field that displays the field name next to the box.
+See the 
+Adding field tooltips
+ section below for an example. 
+ 
+ 
+ 
+Selecting a field type
+To select a field type, select an option in the pick list in the 
+Field Type
+ field.
+This  is a required field. You will not be able to save the form without making a selection. 
+Text (One-Line)
+: A single-line text field in which the user can enter one line of text. 
+Use for shorter text input, for example names of people and cities.
+Text (Multi-Line)
+: A multi-line text field in which the user can enter multiple lines of text. 
+The user can drag the bottom right corner of the text box either down or right to expand the text area.
+Note to Client (Multi-line)
+: An note in static text that provides more information to the client. 
+This field cannot be edited in the form by the client. See the 
+Using Note to Client fields
+ section below for more. 
+Checkbox
+: A selection box for Yes/No type questions. 
+See the 
+Adding field tooltips
+ section 
+below for an example. 
+Pick List
+: A dropdown list of options in which the user can select a single option. 
+See the 
+Adding Pick List field options
+ section below for instructions on how to add options. 
+Field Type
+ itself is an example of a 
+Pick List
+ field.
+This screenshot compares one-line and multi-line (bottom) text fields.
+Note the diagonal dots in the bottom right of the multi-line text box that the user can drag to expand the field. 
+ 
+ 
+ 
+Setting a field as required
+To set a field as required, select the 
+Required?
+ checkbox. 
+The 
+Required?
+ field itself is an example of the 
+Checkbox
+ field type.
+ 
+When a field is set as required, if the user fails to provide valid content they receive an error on form submission and cannot complete their booking.
+ 
+ 
+ 
+Adding field tooltips
+To add a field tooltip, enter it in the 
+Field Tooltip
+ field.
+This is an optional field. Use it to provide additional information about the field and your requirements. 
+ 
+With one exception, the tooltip text displays when the user hovers over the field name. For checkboxes, it displays below the field name.
+ 
+This screenshot shows a tooltip in a single-line text field in the form.
+ 
+This screenshot shows a tooltip next to a checkbox field in the form. 
+The tooltip is "Select the checkbox to confirm......." text. 
+ 
+ 
+ 
+Adding a field placeholder
+To add a field placeholder, enter it in the 
+Field Placeholder
+ field.
+This is an optional field that is only available for text fields (one-line and multi-line). You can use it to prompt the user or clarify the field, for example.
+ 
+The placeholder text displays in the field and disappears as soon as the user starts typing. 
+ 
+ 
+ 
+Adding Pick List field options
+Pick List
+ fields have an additional configuration step: You need to add each option that you want to display in the pick list. 
+ 
+The other options—
+Field Name
+, 
+Required?
+ and 
+Field Tooltip
+—are used in exactly the same way as other field types.
+ 
+To add 
+Pick List
+ options:
+ 
+1.  Select 
+Pick List
+ in the 
+Field Type
+ field.
+ 
+2.  Select 
+Add Option
+:
+ 
+3.  Enter the text for the first option.
+ 
+4.  Repeat this procedure (steps 2 and 3) for each additional option you require.  
+Select 
+X
+ to delete an option. 
+ 
+Here is the pick list field in a form. 
+ 
+ 
+ 
+Using Note to Client fields
+Note to Client
+ fields are handy when you need to provide additional information. The text is static (the user cannot edit or change it). 
+ 
+To add a 
+Note to Client
+ field:
+ 
+1.  Select 
+Note to Client (Multi-Line)
+ in the 
+Field Type
+ field.
+ 
+2.  Enter your note in the 
+Your Note to Client
+ field
+ 
+The other options—
+Field Name
+, 
+Required?
+ and 
+Field Tooltip
+— are used in exactly the same way as for other field types.
+ 
+Here is the field in a form. 
+This note to client field integrates with the checkbox field that follows it. 
+ 
+ 
+ 
+Managing form fields
+The 
+Add/Edit Appointment Form
+ UI provides a number of actions to manage your form fields.
+Expand/Hide
+: Select 
+>
+ or 
+v 
+to display and hide the content for each form field.
+Delete
+: Select 
+X
+ to delete a form field. 
+Reorder
+: Select 
+↓
+ to move a form field down one position and 
+↑ 
+to move it up one position.
+ 
+ 
+Related articles 
+Getting started
+Signing up for a LawConnect Lawyer account as a practice manager
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+Creating your law firm profile
+Creating a profile for your law firm as a practice manager
+Managing appointment types for your law firm
+Adding and managing appointment types for your law firm as a practice manager
+Managing client appointments and accounts for your law firm
+Booking client appointments for lawyers in your firm as a practice manager
+Managing client appointments for the lawyers in your firm as a practice manager
+ 
+Managing your law firm's LawConnect account
+Managing your firm's LawConnect Lawyer account as a practice managerYou can set up automatic forwarding and redirection of all LawTap emails (that is, emails from 
+support@lawconnect.com
+) by following the instructions for your email client:
+ 
+Microsoft Outlook - 
+Manage email messages by using rules
+Google Gmail - 
+Only forward certain kinds of messagesLawConnect provides the functionality for practice managers to book client appointments on behalf of the lawyers in their law firm. This function allows direct access to the calendars of the individual lawyers. 
+ 
+You can book appointments for both new and existing clients. The bookings include all the features and notifications set for the 
+appointment type
+, for example reminder notifications, rescheduling and client reviews. 
+ 
+In this article we take you through the process of booking appointments for multiple lawyers in your firm on LawConnect.
+ 
+Client appointments can also be booked 
+directly by clients
+ and by 
+individual lawyers
+.
+ 
+ 
+ 
+How to book client appointments for the lawyers in your firm
+To book appointments on behalf of multiple lawyers in your firm:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar. 
+2.  Select 
+Book Appointment
+. 
+ 
+3.  Select an appointment type in the 
+Select Appointment Type
+ pick list.
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more about appointment types.
+ 
+4.  Select a date and time in any lawyer's calendar. 
+This view shows the normal availability in each lawyer's calendar. 
+ 
+5.  For 
+Meeting at Court
+ appointment types, select the relevant court in the 
+Court
+ pick list.
+6.  Optionally, select 
+Flexible Date/Time
+, and: 
+Select the 
+Date
+ field and then select a date in the popup calendar.
+Select a start and end time in the pick lists in the 
+Start Time
+ and 
+End Time
+ fields. 
+Both fields allow you to select times in 15-minute intervals over a 24-hour period.
+This option allows you to schedule appointments at times outside of the lawyer's normal office hours, for durations that are different from the 
+settings for the appointment type
+.
+ 
+7.  
+Client details
+: 
+New clients
+: Enter the client's first and last name, mobile number, email address and select a time zone, if necessary. 
+The 
+Client
+ field defaults to 
+-- New Client --
+ so you can ignore it for this option. 
+Existing clients
+: Enter the first few letters of the client's name or surname in the 
+Search
+ box and then select the client in the pick list. 
+As you enter content in the box, the pick list updates to offer more accurate matches. When you select the client in the list, their name, mobile number and email address automatically populate the corresponding fields. 
+Note! The list of clients includes clients previously booked on LawConnect and those booked through any integrated practice-management software, for example 
+Clio
+ or 
+LEAP
+.
+8.  Select 
+Continue
+.
+ 
+9.  Complete any 
+form fields
+ and then select 
+Book Appointment Now
+. 
+This example uses a default 
+appointment type
+, 
+Meeting as Lawyer's Office
+, to which the default 
+form
+ is assigned. Custom forms may include additional fields.
+ 
+10. Select 
+View Appointments
+ in the confirmation page to return to 
+Firm Dashboard
+. 
+ 
+11. Repeat this procedure (step 2 to 10) for every additional appointments you need to book. 
+ 
+See 
+Managing client appointments for the lawyers in your firm as a practice manager
+ for instructions on how to manage client appointments after your have booked them.Practice managers can manage client appointments on behalf of all lawyers in their law firm in the 
+Firm Dashboard
+ area. Appointments are updated in real time and you can see a comprehensive, up-to-date overview of all client appointments at any time.
+ 
+Changes made by practice managers have the same effect as 
+changes made by lawyers
+, both of which perpetuate throughout LawConnect to keep everyone up to date. 
+ 
+Appointments in the 
+Firm Dashboard
+ area can originate from three sources:
+Appointments booked directly by clients
+.
+Appointments booked by lawyers for clients
+.
+Appointments booked on behalf of lawyers by you (as a practice manager
+).
+ 
+In this article, we take you through the process of managing appointments for multiple lawyers in your firm. The instructions include how to access, filter, search, sort, view, reschedule, cancel, delete, confirm and download appointments, as well as how to reply to client feedback about an appointment.
+ 
+Lawyers can execute all the actions mentioned in this article on their own behalf in their 
+My Dashboard
+ area. See 
+Managing your client appointments on LawConnect as a lawyer
+ for more.
+ 
+ 
+ 
+ 
+Accessing client appointments
+To access your firm's client appointments, select 
+Firm Dashboard
+ in the top bar. 
+ 
+Your 
+Firm Dashboard
+ area includes an appointment summary for the last 30 days above the filtering and search options, and a table below that lists appointments for all lawyers. For each appointment, you can view:
+ID
+: The LawConnect appointment ID number. 
+Status
+: The appointment status. 
+Appointments are marked 
+Past
+, 
+Future
+, 
+Now 
+or 
+Cancelled
+, and can additionally be marked as 
+Pending
+ and 
+No Show
+, depending on the circumstances.  
+Date
+: The date and time of the appointment. 
+Appointment
+: The 
+appointment type
+. 
+Professional
+: The name of the lawyer. 
+Client
+: The name of the client. 
+Actions
+: Actions that can be executed for the appointment. 
+The actions available for each appointment typically depend on a number of factors, including when the table is viewed (past or future), the 
+settings for the appointment type
+ (for example, If rescheduling or reviews are enabled), and whether and when the appointment took place. 
+ 
+ 
+ 
+Filtering, sorting and searching appointments
+The filtering, searching and sorting functions in 
+Firm Dashboard
+ make it easier to manage appointments:
+Filtering
+: Allows you to filter appointments by 
+appointment type
+.
+Searching
+: Allows you to search for appointments by client name. 
+Sorting
+:  Allows you to sort appointments by date. 
+To filter appointments:
+1.  Select an appointment type in the pick list.
+ 
+2. The table reloads automatically to display only the selected appointment type.
+ 
+ 
+To search for appointments:
+1.  Enter a client's name or surname (or the first few letters of either) in the search box.
+ 
+ 
+2.  Select the search icon.
+ 
+3.  The table reloads to show only results that match the entered search term.
+ 
+ 
+To sort appointments by date:
+ 
+1.  Select the up or down arrow is the 
+Date
+ column.
+ 
+2.  The table reloads to display appointments in date order (latest first) or reverse date (latest last) order.
+After the reload the arrow switches to the opposite of what is was previously.
+ 
+ 
+ 
+Viewing appointments
+The 
+View
+ action allows you to view the full appointment details. 
+ 
+If applicable, additional actions, for example 
+Confirm
+, may be available when you view the details. 
+ 
+To view an appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2. Full details of the appointment display: 
+Summary
+: A summary that includes the status, type, and date and time of the appointment, as well as links to view the location (if applicable) on Google Maps, and to email and call the client directly. 
+Exactly how emailing and calling works depends on the setup on your device. For example, the client name link typically automatically opens the dial pad (with the client's number) on your mobile device, and the email link opens your default email application. Note! On a PC, direct emailing only works with applications like Outlook, and not web-based email accounts like Gmail. 
+Appointment Form
+: The information entered on the appointment form when the appointment was booked. 
+For the default 
+appointment types
+, like phone calls and meetings at your offices, this is a summary of the legal issue, but appointment types that use custom 
+forms
+ may have additional information.    
+Client review
+: A review left by the client. 
+Only applies to past appointments for which your client has left a review. See
+ 
+Managing lawyer appointments on LawConnect as a client
+ for more. 
+Actions
+: Actions available for the appointment. 
+ 
+ 
+Confirming pending appointments
+If an 
+appointment type
+ requires a conflict check, 
+appointments booked directly by clients
+ need to be confirmed, before the appointment is finalized. The unconfirmed appointment is marked 
+Pending
+ until this is done. 
+ 
+The conflict check requirement is set in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+To confirm a pending appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Confirm
+ in the appointment detail page. 
+ 
+3.  Select 
+Confirm Appointment
+ 
+4.  A notification displays advising that the appointment is confirmed.
+ 
+The client will receive a notification of the appointment confirmation by email and SMS
+. 
+ 
+ 
+ 
+Rescheduling appointments
+You can reschedule any appointment before the scheduled time. 
+ 
+Clients can also reschedule appointments, if this option is enabled in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ and 
+Managing your lawyer appointments on LawConnect as a client
+ for more. 
+ 
+To reschedule an appointment: 
+ 
+1.  Select 
+Reschedule
+ in the 
+Actions
+ column.
+ 
+2.  Select a new appointment date and time in the lawyer's calendar in 
+Calendar Availability
+ or 
+Flexible Date/Time
+ mode.
+ 
+Calendar Availability
+ displays the lawyer's normal availability and 
+Flexible Date/Time
+ allows you to schedule appointments for specific times and durations, which can be outside of their standard office hours. See 
+Booking client appointments for lawyers in your firm as a practice manager
+ for more. 
+ 
+The client will receive an email and SMS notifying them of the rescheduled appointment. Any reminder notifications (email and SMS) set for the appointment type will also be sent automatically for the new date and time. 
+ 
+ 
+ 
+Cancelling appointments
+You can cancel any scheduled appointment. 
+ 
+To cancel an appointment: 
+ 
+1.  Select 
+Cancel 
+in the 
+Actions
+ column.
+ 
+2.  Select a reason and then select 
+Cancel Appointment
+. 
+Selecting 
+Other
+ activates a text box that allows you to enter a more specific reason.
+ 
+3.  The appointment is marked 
+Cancelled
+.
+ 
+The client is automatically advised of the cancellation by email and SMS.
+ 
+ 
+ 
+Labelling appointments as No Show
+If a client fails to attend an appointment, you can record this by marking the appointment 
+No Show
+.
+ 
+To record a client's failure to show up for an appointment:
+ 
+1.  Select 
+No Show
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Yes
+ in the 
+Are you sure?
+ dialog.
+ 
+3.  The appointment is marked 
+No Show
+.
+ 
+If you fail to attend a scheduled appointment, the client can mark the appointment 
+No Contact
+. See 
+Managing your lawyer appointments on LawConnect as a client
+ for more.
+ 
+LawConnect monitors 
+No Show
+ and 
+No Contact
+ appointments and takes appropriate action, where necessary.
+ 
+ 
+Replying to client feedback
+You can reply to a client's review about a lawyer's  past appointment.
+ 
+To reply to client feedback:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  In the 
+Review
+ section, select 
+Reply
+.
+ 
+3.  Enter a reply on behalf of the lawyer and select 
+Continue
+.
+ 
+4.  You will receive confirmation that the reply has been added successfully. 
+ 
+Review replies are not subject to approval by LawConnect and display immediately in the 
+Verified Client Reviews
+ section of the lawyer's profile.
+ 
+Client reviews are subject to review by LawConnect and only display publicly after approval. See 
+Managing lawyer appointments on LawConnect as a client
+ for more.  
+ 
+ 
+ 
+Downloading appointments
+You can download all lawyer appointments in a CSV (comma-separated values) file. This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example. 
+ 
+To download your appointments:
+ 
+1.  Select 
+Download
+ (below the table).
+2.  The file downloads to your system in CSV format. 
+The file is named 
+<Your Law Firm Name> - LawConnect Appointments.csvYour LawConnect Lawyer account was created during the sign-up process. This account is the main law firm account and the personal account details are typically those of a practice manager. After signup, all lawyers in the firm are invited to LawConnect by this account holder and their LawConnect accounts are sub-accounts of, and linked to, the main LawConnect Lawyer account. 
+ 
+See the following articles for more details about these procedures:
+Signing up for a LawConnect Lawyer account as a practice manager
+.
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+.
+Accepting an invitation to sign up for LawConnect as a lawyer
+. 
+In this article, we take you through the process of managing your LawConnect subscription, accessing your LawConnect invoices, and changing your LawConnect payment details.
+ 
+ 
+ 
+Managing your personal details
+You can access and manage the LawConnect Lawyer account, and the personal details associated with it, in the same way as any LawConnect account held by a lawyer in your firm.
+ 
+For instructions on how to sign in and out of 
+LawConnect
+, access your 
+LawConnect 
+Lawyer 
+Account
+ area, change your email address, mobile number, timezone and password in LawTap, and reset your password when signed out, see 
+Managing your LawConnect account as a lawyer
+.  
+ 
+ 
+ 
+Managing your LawConnect subscription
+The 
+Subscription Plan
+ section of the 
+Account
+ area includes details of your LawConnect subscription, including your law firm name, price plan, promo code (if any), renewal date, status and the number of lawyers linked to your firm.
+ 
+Accessing your LawConnect invoices
+To access your LawConnect invoices:
+ 
+1.  Select 
+View Invoices
+ in the 
+Subscription Plan
+ area.
+ 
+2.  In the 
+Invoices
+ area, select a link in the 
+Invoice ID
+ column to view any individual tax invoice. 
+The 
+Invoices
+ area contains a table that lists all 
+LawConnect 
+invoices and includes the ID, plan, amount, invoice and payment date, payment attempts, number of lawyers and status of each invoice.
+ 
+3.  Each tax invoice contains all the details that are typically necessary for official purposes..
+ 
+Managing your LawConnect payment settings
+The 
+Payment Settings
+ section of the 
+Account
+ area includes the credit card details used to 
+sign up for your firm's LawConnect Lawyer account
+.
+ 
+You can add and remove credit cards in this area.  
+ 
+Managing LawConnect firm members
+The 
+Firm Members
+ area of the 
+Account
+ area includes:
+Active Members
+: A list of lawyers in your firm with 
+active LawConnect accounts
+.
+Pending Members
+: A list of lawyers who have been 
+invited
+, but have not yet 
+signed up to LawConnect
+. 
+See 
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+ for 
+instructions on inviting lawyers to 
+LawConnect 
+and managing pending members.
+ 
+ 
+Related articles 
+Getting started
+Signing up for a LawConnect Lawyer account as a practice manager
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+Creating your law firm profile
+Creating a profile for your law firm as a practice manager
+Managing appointment types for your law firm
+Adding and managing appointment types for your law firm as a practice manager
+Adding and managing forms for your law firm as a practice manager
+Managing client appointments and accounts for your law firm
+Booking client appointments for lawyers in your firm as a practice manager
+Managing client appointments for the lawyers in your firm as a practice manager
+ This article provides details about cancelling your LawConnect subscription, including the recommended steps prior to cancellation and the procedure for cancellation.
+ 
+ 
+ 
+Before you cancel
+Our main focus at LawConnect is to support all law firms—from single practitioners to firms with thousands of lawyers. We are committed to innovation and we add new features and integrations (at no additional cost) on a regular basis,
+ 
+If we have not lived up to our challenge in any way, please let use know and give us the opportunity to remedy the situation. 
+ 
+Before you decide to cancel your LawConnect subscription, we encourage you to contact us so that we can fully understand your firm's circumstances, review your firm's LawConnect use and make sure that you're getting the maximum benefit from your LawConnect subscription. This type of review often benefits everyone in unforeseen ways: we may enhance a feature to include your unique circumstance, while you may discover a better way to perform a task or satisfy a requirement.  
+ 
+If your firm is experiencing temporary cash flow issues or other financial hardship, we encourage you to contact us at your earliest opportunity so that we can find a way to best support your firm.
+ 
+If we're unable to persuade you to contact us before giving notice to cancel your subscription, we remain ready to support your firm in the future if you wish to, among other things, re-activate online appointment booking for your clients.
+ 
+ 
+ 
+Cancellation of subscriptions purchased directly from LawConnect
+If you purchased your subscription directly from LawConnect, please see the 
+LawConnect Subscription Agreement for Lawyers, Law Firms and Other Subscribers
+, which is part of the 
+LawConnect Terms of Use
+ that governs LawConnect 
+subscriptions.
+ 
+LawConnect subscriptions auto-renew either monthly (for 
+Pay Monthly
+ subscriptions) or yearly (for 
+Pay Yearly
+ subscriptions) until your subscription is cancelled. The required notice period for cancellation is a 45 days. 
+ 
+In accordance with the above-mentioned LawConnect Terms of Use, you may cancel the auto-renewal of your LawConnect subscription by providing not less than 45 days' written notice to 
+support@lawconnect.com
+ before the end of your then-current subscription term.
+ 
+Fees already paid will not be refunded, except where required by law.
+ 
+ 
+ 
+Cancellation of subscriptions purchased from LEAP Legal Software
+If you purchased your subscription from LEAP, please contact your LEAP Client Success/Account Manager regarding cancellation.
+ 
+ 
+ LawConnect search is powerful. You can find the right lawyer for your unique legal issue and personal circumstances. 
+ 
+LawConnect includes three distinct search functions:
+Basic
+: Search by location, areas of law and appointment type.
+Advanced
+: Drill down into basic search results using language, price and appointment features, as additional search criteria.. 
+Name
+: Search for a lawyer by their personal or law firm name.
+You can search for a lawyer without 
+creating a LawConnect account
+ or 
+signing in to LawConnect
+. 
+ 
+In this article, we explain how the LawConnect basic, advanced and name search functions work and take you through the process of finding your lawyer using each function. 
+ 
+ 
+ 
+Performing a basic search for lawyers on LawConnect 
+The basic search function is located at the top of the home page. You can access this page at any time by selecting the LawConnect logo in the header on the left. 
+ 
+The search boxes allow you to do a basic search, by combining three search criteria—location, areas of law and appointment type—to narrow your search results. 
+ 
+These criteria are optional. It is not necessary to use all the boxes—you can use only one, combine any two, or use all three. 
+ 
+Search is cumulative: only lawyers who satisfy ALL criteria are included.
+ 
+To perform a basic search:
+ 
+1.  Enter a geographic location by typing the first few letters of the place and then selecting it in the pick list. 
+As you enter text, the available options refine to provide more accurate potential matches
+. 
+This is powered by Google Maps and will return any registered place, including a specific street, shopping mall or building.  
+ 
+2.  Select an area of law in the pick list. 
+The list contains all areas or branches of law. Scroll through the list or use the search box to find what you are looking for. As you enter text in the box, the available options refine to display more accurate potential matches. 
+ 
+3.  Select an appointment type in the pick list. 
+Options include a phone call and a meeting at either the lawyer's or your location. Selecting 
+Meeting at My Location
+, for example, excludes all lawyers who do not offer this type of appointment. 
+ 
+4.  Select 
+Find
+.
+ 
+5.  A list of lawyers who meet your search criteria displays.
+ 
+ 
+ 
+Performing an advanced search for lawyers on LawConnect
+LawConnect 's advanced search function allows you to refine your basic search results by adding language, price and appointment feature as search criteria. 
+ 
+The advanced search options display above the basic search results. You can access these options at any time by selecting 
+Find a Lawyer
+ in the top bar.  
+ 
+The additional search criteria (and basic search criteria) are optional. It is not necessary to use all the boxes: you can combine any appropriate options and ignore those that are not applicable in your circumstances. 
+ 
+Search is cumulative: only lawyers who satisfy ALL criteria are included.
+ 
+To perform an advanced search:
+ 
+1.  Insert a location, area of law and appointment type, if necessary.
+These are the basic search criteria that are covered in the previous section. 
+ 
+2. Select one or more languages in the pick list. 
+You can use the search box to refine results. As you type, the options update to display more accurate potential matches
+.
+You can select multiple options by holding down the Ctrl/Command key and selecting options sequentially. To deselect, select the option a second time. 
+ 
+ 3.  Select an hourly-rate range. 
+This option allows you to tailor your search to your budget. 
+ 
+4. Select one or more appointment features:
+Free First Appointment
+: Includes only lawyers who offer an initial appointment for free.
+Fixed Cost
+: Include only lawyers who offer fixed-cost services, for example, a set fee for a consultation or a specific type of legal process.
+No Win, No Fee
+: Include only lawyers who charge only if your claim succeeds. 
+This type of arrangement is typically used in personal injury and similar compensation claims.
+Accepts Legal Aid
+: Include only lawyers who accept payment financed by legal aid. 
+5.  Select 
+Find
+.
+ 
+6.  A list of lawyers who meet your search criteria displays.
+ 
+ 
+ 
+Searching lawyers by name on LawConnect 
+The 
+Find a Lawyer by Name
+ search function allows you to find lawyers by their personal or law firm name.
+ 
+To find a lawyer by name:
+ 
+1.  Select the LawConnect logo in the top bar to open the home page.
+ 
+2.  Scroll to the bottom to locate the 
+Find a Lawyer by Name
+ search function. 
+ 
+3.  Type the lawyer's or law firm's name (or the first few letters of either).
+Possible matches for lawyers display in the first section and for law firms in the second section of the pick list.
+. 
+As you type, the options refine to show more accurate potential matches. 
+ 
+4.  Select an entry in the pick list. 
+ 
+5.  The profile of the selected lawyer or law firm opens. You can book an appointment with a lawyer on LawConnect in minutes. All you typically need is a mobile number and email address. 
+ 
+In this article, we take you through the process of booking your first appointment with your lawyer. Your LawConnect account is created during this process.
+ 
+See 
+Searching for a lawyer on LawConnect as a client
+ for instructions on how to find a lawyer.
+ 
+ 
+ 
+About appointment bookings
+Individual lawyers and law firms set different requirements for their booking process. 
+ 
+There are general requirements that apply to all bookings. Many law firms also require:
+Authentication of you mobile number, and/or
+Confirmation of the appointment by the individual lawyer before the booking is finalized. 
+General requirements and these common, additional requirements are taken into account in the instructions in the following section. 
+ 
+Further requirements are also possible, but these are less common. For example:
+The appointment type may only be available to existing clients, in which case you are required to confirm that you are already a client of the lawyer.
+You could be redirected to a page on the lawyer's website during the booking process to answer a questionnaire or read the prerequisites for your particular issue.  
+These requirements are not taken into account in the instructions in the following section. 
+ 
+ 
+ 
+How to book your first appointment on LawConnect 
+You will need access to your email to complete the booking process. In addition, you may need access to your mobile phone to authenticate your identity.  
+ 
+To book an appointment with a lawyer:
+ 
+1.  Select the appointment type in the pick list.
+The blue (appointment type) widget is available in the firm and individual lawyer profiles. If an appointment type is marked 
+Existing Clients Only
+ you cannot book it as your first appointment.
+ 
+ 
+2.  Select a date in the lawyer's calendar.
+You can use the controls
+ 
+to scroll forward ( 
+>
+ )
+ 
+and backward ( 
+< 
+).
+ 
+3.  Fill in your details and select 
+Continue.
+First
+ and 
+Last Name
+: Enter your name.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address.
+The above are required fields and you will not be able to submit the form without providing valid information.
+Summary
+: Briefly describe why you are making the appointment.
+Conflict check
+: Select this checkbox if it displays before the 
+Continue
+ button.
+This is a required field and you will not be able to submit the form selecting this checkbox. The conflict check gives the lawyer time to check if there is any reason to not go ahead with the appointment. 
+4.  If requested, open the SMS message sent to your mobile number, enter the confirmation code, and then select 
+Book Appointment Now
+.
+You will only be requested to do this if the lawyer has set this as a requirement. 
+ 
+ 
+5.  An notification confirming your appointment displays (unless the appointment needs confirmation).
+ 
+If your appointment requires confirmation, a notification advising that your request is pending review displays.
+ 
+6.  Open your Welcome email and select 
+Set My Password
+.  
+Note! For security reasons, this link is only valid for 24 hours.
+ 
+7.  Set and confirm your password and select 
+Save
+.
+This activates your LawConnect account. 
+ 
+You will receive an email containing full details of your appointment as soon as it is confirmed, that is, either directly after booking or when you lawyer confirms it. This email also contains links to manage your 
+appointment
+ and 
+reminder notifications
+. When you book a second or subsequent appointment on LawConnect, the booking process is streamlined. This is because your LawConnect account was created when 
+booking your first appointment
+. You use this account (and login credentials) for all appointments, regardless of whether they are with your original lawyer or another lawyer.
+ 
+In this article, we take you through the process of booking second and subsequent appointments on LawConnect. 
+ 
+Like 
+first appointments
+, the exact booking process depends on the requirements set by each lawyer. The instructions in the following section cover the most likely scenario, but you may encounter variations. 
+ 
+ 
+ 
+How to book a second or subsequent appointment on LawConnect 
+To book a second (or subsequent) appointment:
+ 
+1.  
+Sign in to your LawConnect account
+. 
+ 
+2.  In 
+My Appointments
+, open the lawyer's profile: 
+For a previous lawyer, select their name in the 
+Professional
+ column.
+For a new lawyer, select 
+Find a Lawyer
+ (in the top bar), 
+search for a lawyer
+, and then select the lawyer's name in the white teaser box in the search results. 
+3.  Select the appointment type in the pick list and then select a suitable date and time in their calendar. 
+ 
+4.  Enter a brief summary of your reasons for booking the appointment, select the checkbox to confirm you are an existing client (if necessary), and then select 
+Continue
+.  
+ 
+You may also need to confirm that you are aware that the appointment is subject to confirmation by the lawyer before selecting 
+Continue
+.
+ 
+Note! The name, mobile number and email address fields do not display in the booking form, because you are signed in to LawConnect. If you are not, select 
+Sign In
+ (at the top of the form) to do this first. If you enter an email address that is already registered in LawConnect in the booking form, the system will not allow you to proceed. See 
+Resolving email issues on LawTap as a client
+ for more.  
+ 
+5. An notification confirming your appointment displays (unless the appointment is subject to confirmation).
+ 
+If your appointment requires confirmation, a notification advising that your request is pending review displays.
+ My Appointments
+ is your dedicated area in LawConnect to manage all your appointments with lawyers. 
+ 
+There are individual actions for each appointment that allow you to view, cancel, reschedule, review appointments and more. 
+ 
+In this article we provide instructions on how to manage your appointments and demonstrate how to use each action. 
+ 
+ 
+ 
+Accessing My Appointments
+Your 
+My Appointments
+ area opens when you 
+sign in to LawConnect
+. You can access it at any time by selecting 
+My Appointments
+ in the top bar. 
+ 
+My Appointments
+ displays a summary of your appointments with lawyers on LawConnect in a table. The ID, status, date and time, appointment type and lawyer's name are included for each appointment, as well as actions that allow you to perform available tasks.
+The actions available for each appointment vary, depending on the appointment type and date (and time) of the appointment. Future appointments all have a 
+Cancel
+ action, and many, but not all, past appointments have a 
+Review
+ action. The features for each appointment type are set by individual lawyers and firms. 
+ 
+Each appointment confirmation email, as well as all email and SMS notifications, contain links to execute the same actions that are available in 
+My Appointments
+.
+ 
+ 
+ 
+ 
+Sorting appointments
+You can sort your appointments by date using the controls in the 
+Date
+ column header. 
+ 
+To sort appointments by date:
+ 
+1.  Select the up or down arrow is the 
+Date
+ column header.
+ 
+2.  The table reloads to display appointments in date order (latest first)  or reverse date order (latest last).
+After reload, the arrow switches to the opposite of what is was previously.
+ 
+ 
+ 
+Viewing appointment details
+To view appointment details:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Full details of the appointment display: 
+Summary
+: A summary of the status, type and date and time, as well as direct links to the appointment location, lawyer's profile and lawyer's email address. 
+How the direct links work depends on the setup on your device. The location link typically opens Google Maps in a browser or mobile application. The email link opens an email (addressed to the lawyer) in the email application configured on your device. Direct emailing only works on a PC with applications like Outlook, not browser-based email accounts, like Gmail and Yahoo. 
+Appointment Form
+: The information you entered on the appointment form. 
+Client review
+: Your review of the appointment, if any.
+This section 
+o
+nly displays for past appointments for which you have let a review. See the 
+Reviewing appointments
+ section below for more. 
+Actions
+: Actions available for the appointment. 
+ 
+ 
+Rescheduling appointments
+Many lawyers allow you to reschedule a booked appointment before the time. 
+ 
+To reschedule an appointment:
+ 
+1.  Select 
+Reschedule
+ in the 
+Actions
+ column.
+ 
+2.  Select a new appointment date and time in the lawyer's calendar.
+ 
+Any 
+appointment reminders
+ (email and SMS) set for the appointment type are sent automatically for the rescheduled date and time.
+ 
+ 
+ 
+Cancelling appointments
+You can cancel any booked appointment before the scheduled time.
+ 
+To cancel an appointment:
+ 
+1.  Select 
+Cancel 
+in the 
+Actions
+ column.
+ 
+2.  Select a reason and then select 
+Cancel Appointment
+.
+Selecting 
+Other
+ activates a text box that allows you to enter a more specific reason.
+ 
+3. The appointment is marked as cancelled.
+ 
+ 
+ 
+Labelling appointments as No Contact
+If the lawyer fails to attend an appointment, you can mark it as 
+No Contact
+.
+ 
+To mark an appointment 
+No Contact
+:
+ 
+1.  Select 
+No Contact?
+ in the 
+Actions
+ column.
+ 
+2. The appointment is marked 
+No Contact
+.
+ 
+If you fail to attend a scheduled appointment, the lawyer can mark the appointment 
+No Show
+. LawConnect monitors 
+No Show
+ and 
+No Contact
+ appointments and takes appropriate action when necessary.
+ 
+ 
+ 
+Reviewing appointments
+You can rate your lawyer and provide feedback about your appointment, if the lawyer has enabled this option.  
+ 
+You will also receive an email with a link to review your appointment, if reviews are enabled
+. 
+ 
+Ratings are moderated and only display publicly on LawConnect after review. Please be polite and keep it professional. Lawyers can reply to client reviews.  
+ 
+Ratings display in the lawyer's profile and lawyer's who receive 5-star ratings may be featured on the home page.
+ 
+To review an appointment:
+ 
+1.  Select 
+Review
+.
+ 
+2.  Complete the options:
+Trustworthy
+: Select the star that represents your  rating for trustworthiness. 
+Client Service
+: Select the star that represents your rating for client service.
+You only need to select the highest star, for example, the last star for a 5-star rating and the middle star of a 3-star rating.
+Review
+: Enter a review.
+3.  Save. 
+ 
+ 
+ 
+Downloading appointments
+You can download all your appointments is a CSV (comma-separated values) file. This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example.
+ 
+To download your appointments:
+ 
+1. Select Download (below the table).
+2. The file downloads to your system in CSV format.
+The file is named 
+<Your Name> - LawConnect Appointments.csv
+.LawConnect can be configured to send appointment-reminder notifications to clients by either, or both, email and SMS. 
+ 
+In this article we provide an explanation of how, why and when appointment reminders are sent, as well as instructions on how to disable them, if you prefer. 
+ 
+ 
+ 
+About appointment reminders
+Each lawyer or law firm optionally enables (or disables) either, or both, email and SMS appoint reminders for each appointment type. This means that whether you receive notifications, and the type you receive (email and/or SMS), is not directly within your control. 
+ 
+Most calendar applications also offer appointment reminders that you can enable (and disable) in the application settings. These notifications, together with LawConnect notifications, can result in you receiving reminders from more than one source about the same appointment. 
+ 
+You can easily disable LawConnect notifications. See the 
+Disabling appointment reminders
+ section
+ 
+below for instructions. 
+ 
+ 
+ 
+When will you receive notifications?
+If enabled, LawConnect sends both email and SMS reminders at the same time. They are sent:
+24 hours before your appointment, if the appointment was booked more than 24 hours before the scheduled time, or 
+1 hour before your appointment, if the appointment was booked less than 24 hours before the scheduled time. 
+For example, if you book an appointment for 2 hours from now, you will receive notifications in 1 hour, and if you book for 2 days from now, you will receive them 1 day (24 hours) from now.
+ 
+ 
+ 
+Disabling reminder notifications
+You need to disable appointment reminders on an appointment-for-appointment basis, that is, for each appointment you book. Disabling for a phone call appointment type, does NOT automatically disable reminders for a consultation with the same lawyer, or a phone call with a different lawyer, for example.   
+ 
+You can disable notifications via email or SMS. Either method disables BOTH notification types. 
+ 
+Warning! Once disabled, reminder notifications cannot be re-enabled.
+ 
+ 
+To disable appointment-reminders notifications via email::
+ 
+1.  Open the confirmation email you received after booking the appointment.
+2.  Select 
+Stop Appointment Reminders 
+(at the bottom).
+ 
+3.  
+Sign in to your LawConnect account
+, if necessary.
+ 
+4.  A notification advising that appointment notifications are disabled displays.
+ 
+To disable appointment-reminder notifications via SMS.
+ 
+1.  Open the confirmation SMS you received after booking the appointment.
+2.  Scroll to 
+Stop Reminders 
+(at the bottom) and select the LawConnect link.
+ 
+3.  Enter the SMS verification code sent to your mobile number in a separate SMS.
+ 
+4.  A notification advising that appointment notifications are disabled displays.Accessing your LawConnect account allows you to enjoy the many features available to registered clients on LawConnect, for example 
+managing your appointments
+.
+ 
+In this article, we provide instructions on how to sign in to your LawConnect account, and how to reset your password, if necessary. 
+ 
+ 
+ 
+ 
+Signing in to LawConnect 
+To sign in to your LawConnect account:
+ 
+1.  Select 
+Sign In
+ in the top bar.
+2.  Enter your email address and password and then select 
+Sign In
+.
+Select 
+Remember me
+ to autofill these fields in the future. 
+ 
+ 
+Resetting your password
+The instructions in this section are helpful when you forget your password and cannot access LawConnect. 
+ 
+You can also reset your password when you are signed in to LawConnect. See 
+Changing your LawConnect account details as a client
+ for more. 
+ 
+To reset your password when signed out of LawConnect:
+ 
+1.  Select 
+Reset Password
+ in the 
+Sign In
+ form.
+ 
+2.  Enter your email address and select 
+Reset Password
+. 
+ 
+3.  A message advising you that a reset link will be sent to the email address you provided, if it is found in the system, displays. 
+ 
+4.  Select 
+Reset Password
+ in the email. 
+ 
+5.  Enter and repeat your new password, and then select 
+Save
+.
+ 
+See 
+Resolving email issues on LawConnect as a client
+ for more on how to use this procedure if you encounter email-related issues while 
+booking second and subsequent appointments on LawTap
+.Your LawConnect account is typically created during the booking process when you 
+book your first appointment
+ with a lawyer. However, if you prefer, or if your circumstances require, you can create a LawConnect account separately, that is, without booking an appointment.  
+ 
+In this article, we provide instructions on how to create a LawConnect following a process that does not include booking an appointment with a lawyer. 
+ 
+You can 
+search for a lawyer
+ and 
+book your first appointment on LawConnect
+ WITHOUT separately creating a LawTap account.
+ 
+ 
+ 
+How to create a LawConnect account
+You need access to your mobile and email address to complete this process.
+ 
+To create your LawConnect account:
+ 
+1.  Select 
+Sign Up
+ in the 
+Sign In
+ form.
+ 
+2.  Fill in your details and then select 
+Sign Up
+.
+All fields (except 
+Timezone
+) are required fields. You will not be able to submit the form unless you provide valid information.
+First
+ and 
+Last Name
+: Enter your name.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address.
+Password
+: Enter and confirm your password. 
+Timezone
+: Select a new time zone in the pick list, if necessary.
+When you select 
+Sign Up
+, a message advising that you need to verify your email address displays on the page. 
+ 
+3.  Open your Welcome email and select 
+Find a Lawyer
+.
+ 
+4.  Enter the confirmation code sent by SMS to your mobile number and select 
+Confirm
+.
+ 
+5.  Optionally, enter your address (location) in the fields provided, or select 
+Skip this Step
+, and then select 
+Save
+. 
+ 
+When you select 
+Save
+, you are automatically signed in to your LawTap account.
+ 
+6.  Your 
+My Appointments
+ area displays. One of the most common issues clients encounter during the booking process relates to their email address.
+ 
+In this article, we explain the cause of the issue and provide instructions on how to resolve email-related issues on LawConnect. 
+ 
+ 
+ 
+About the existing-email error
+If you attempt to book an appointment or create an account using an email address that is already registered in LawConnect , the system prevents you from proceeding. You receive an "
+Email is linked to an existing LawConnect account
+" error and cannot submit your information to complete your booking. 
+ 
+The existing account may have been created by you (perhaps during a previous booking that you cannot recall) or by a lawyer on your behalf.
+ 
+ 
+ 
+How to resolve email errors 
+To resolve an email error during the booking process:
+ 
+1.  Select 
+Sign In
+ in the booking form or in the top bar.
+ 
+2.  Either:
+Sign in to your account
+ directly, if you know your password.
+Follow the steps in the 
+Resetting your password
+ section of 
+Accessing your LawConnect account as a client
+ to create a new password.
+3.  Continue with your booking following the steps in 
+Booking a second or subsequent appointment on LawConnect as a client
+. You can change all your LawConnect account information at any time. The information stored in your account includes your first and last name, timezone, email address and password (access credentials), mobile number and location. 
+ 
+In this article we provide instructions on how to access your LawConnect account and demonstrate how to change each detail. 
+ 
+ 
+ 
+Updating your account details
+To update your account details:
+ 
+1.  Select 
+Account
+ in the top bar.
+2.  Change or add information in the 
+About You
+ and 
+Your Location
+ tabs.
+The fields are covered individually in the sections that follow. 
+ 
+3.  Select 
+Save
+.
+ 
+ 
+ 
+Changing your first and last name
+To change your first or last name:
+ 
+1.  In the 
+About You
+ tab, enter your new details in the 
+First Name
+ and 
+Last Name
+ fields.
+ 
+2.  Select 
+Save
+.
+ 
+ 
+Changing your timezone 
+Your timezone is important because it is used to display accurate appointment times and to send 
+appointment reminders
+. 
+ 
+To change your timezone:
+ 
+1.  In the 
+About You
+ tab, select a new timezone in the pick list in the 
+Timezone
+ field.
+ 
+2.  Select 
+Save
+.
+ 
+ 
+ 
+Changing your email address
+To change your email address:
+ 
+1.  In the 
+About You
+ tab, select 
+Change
+ in the 
+Email
+ field.
+ 
+2.  Enter your new email address and select 
+Submit
+.
+Your old email is filled in automatically.
+ 
+3.  Select 
+Update Email
+ in the email sent to your new email address to confirm it.
+ 
+ 
+ 
+Changing your mobile number
+To change your mobile number:
+ 
+1.  In the 
+About You
+ tab, select 
+Change 
+in the 
+Mobile 
+field.
+ 
+2.  Enter your new mobile number and select 
+Submit
+.
+Your old mobile is filled in automatically.
+ 
+3.  Enter the confirmation code sent by SMS to your new mobile number and select 
+Confirm
+.
+ 
+ 
+ 
+Changing your password
+To change your password:
+ 
+1.  In the 
+About You
+ tab, select 
+Change
+ in the 
+Password
+ field.
+ 
+2.  Enter your current password, and then enter and repeat your new password.
+ 
+3.  Select 
+Save
+.  
+ 
+See the 
+Resetting your password
+ section in 
+Accessing your LawConnect account as a client
+ for how to reset your password when signed out of LawConnect.
+ 
+ 
+ 
+Adding or changing your location
+Adding a location is important if you need documents delivered to you or have arranged a meeting at your address, for example. Your information is synced with Google Maps that provides directions and many other features.
+ 
+To add or change your location:
+ 
+1.  In the 
+Your Location
+ tab, add or change the information in the address fields. 
+ 
+2.  Select 
+Save
+.You can delete your LawConnect account at any time.
+ 
+Warning! When you delete your account is deleted permanently and cannot be restored.
+ 
+In this article, we provide instructions on how to delete your LawConnect account in your 
+Account
+ area in LawConnect. 
+ 
+ 
+ 
+How to delete your LawConnect account
+To delete your LawConnect account: 
+ 
+1.  Select 
+Account
+ in the top bar.
+2.  Select 
+Delete Account
+. 
+ 
+ 3.  Provide a reason, enter "DELETE" (all capitals), and then select 
+Delete Account
+.Law firms can configure their Google My Business account to allow clients to book appointments directly from their Google My Business profile, which is displayed in Google Search results and Google Maps.
+ 
+Verified LawConnect appointment reviews are syndicated to Google automatically and display in your Google By Business profile to boost your firm's visibility. 
+ 
+In this article, we take you through the process of adding your LawConnect booking links (URLs) to your Google My Business account.
+ 
+ 
+ 
+Accessing direct booking links on LawConnect 
+URLs suitable for direct booking from your Google My Business profile are generated automatically and available in the 
+Integrations
+ area on LawConnect.
+ 
+To access your Google My Business Links:
+Select 
+Integrations
+ in the top bar. 
+In 
+Google Appointments
+, copy the URLs for your lawyer and/or law firm profile.
+Note! The links open the 
+lawyer's
+ and 
+law firm's
+ profile, which includes the booking widget. 
+ 
+ 
+ 
+Adding direct booking links in Google My Business
+Note! If you list multiple locations in your Google My Business Account, you need to open each location before adding your direct LawConnect booking links. See following section for how to do this.
+ 
+To add your links to Google My Business:
+Sign into your 
+Google My Business
+ account.
+Select 
+Info
+ in the left navigation menu.
+In 
+Appointment Links
+, select the pencil icon.
+Enter the lawyer or law firm URL you copied in the previous section and select 
+Apply
+.
+- To add additional URLs, select 
+Add Link
+ and enter the next URL in the new box that is activated. Repeat this procedure for each additional link. 
+- Select the star icon, to set a link as the 
+Preferred Link 
+(displays first in your profile).
+Note! Google reviews most changes to your Google My Business account and it can take up to 3 days for edits to be approved and display on the web. 
+ 
+Note! Google frequently changes their Google My Business user interface. These instructions are correct as at October 2020.
+ 
+ 
+ 
+Managing multiple locations in Google My Business
+If you have multiple locations listed in your Google My Business account, you need to open each location before adding your direct LawConnect appointment booking URLs. 
+ 
+To open a location in Google My Business: 
+Select 
+Manage Locations
+ in the left navigation menu.
+Select the checkbox next to the location you want to work with.
+Select 
+Open
+ in the Actions menu.
+See 
+Local Business Links
+ in Google My Business Help for more.
+ 
+ 
+ 
+Viewing LawConnect reviews in your Google My Business profile
+Verified reviews in LawConnect are now also automatically syndicated to Google for most law firms. Reviews display under the header (that is typically your name or law firm name) in star format, with a links to page containing the full reviews.
+ 
+Note! It may take up to four weeks for reviews to be syndicated and display in the Google Search results and Google Maps.
+ 
+See 
+Reviewing appointments
+ in 
+Managing lawyer appointments on LawConnect as a client
+ for more about LawConnect reviews. Lawyers and law firms can add a Facebook 
+Book Now
+ button to their Facebook business pages. This allows clients to access LawConnect appointment booking functionality directly from Facebook. LawConnect automatically generates the booking links for each lawyer and their law firm.
+ 
+In this article we cover how to add a booking button to a Facebook business page.
+ 
+ 
+ 
+Accessing your email booking button on LawConnect
+To access your booking links for Facebook:
+Select 
+Integrations
+ in the top bar.
+In 
+Facebook Page Appointments
+, copy the links to your lawyer and/or law firm profile. 
+ 
+Adding your booking button to Facebook
+ To add your LawConnect booking button to Facebook:
+Sign in to Facebook
+Open your Facebook business page.
+Select 
++ Add a Button
+ below the header on the right.
+Select 
+Book Now
+.
+Select 
+Link to website
+.
+Paste either of the links that you copied in the previous section and select 
+Save
+.
+Use the 
+Preview as Visitor
+ action to view and test the 
+Book Now
+ button.
+ Lawyers can add a LawConnect booking button to their email signature appended to outgoing emails. This allows clients to access appointment booking functionality on LawConnect directly from emails received from their lawyer. LawConnect automatically generates a selection of booking buttons for each lawyer to choose from.
+ 
+In this article we cover how to add a booking button to Gmail in the browser-based email application. All email applications offer similar functionality and you can adapt these instructions to suit your circumstances. 
+ 
+ 
+Accessing your email booking button on LawConnect 
+LawConnect automatically generates the HTML code for a number of variations of your booking button. The code is available in the 
+Integrations
+ area. 
+ 
+To access your booking button as a lawyer:
+Select 
+Integrations
+ in the top bar.
+In LawConnect 
+Booking Button
+, select 
+Add Booking Button.
+ 
+Select your preferred button by selecting the circle to the left of it. 
+On selection, the HTML code updates in the code box.
+Select 
+Copy to Clipboard
+. 
+ 
+Adding your booking button to your email 
+All email applications allow you to add an email signature that can be appended to your emails. This is typically done in your email settings by entering text or HTML code in the provided editor. 
+ 
+The instructions below demonstrate the procedure in the browser-based Gmail application. 
+ 
+To add your booking button in an email signature in Gmail:
+Open your Gmail account (mail.gmail.com).
+Select the gear icon in the top right corner.
+Select 
+See all settings
+ to open the 
+Settings
+ detail page.
+Scroll to the 
+Signature
+ section and select 
+Create New
+.
+Provide a signature name and select 
+Create
+.
+Add your email signature text and then paste the HTML code your copied n the previous section.
+The button image displays immediately and you can mouse over the image to view the LawConnect link. 
+Define your 
+Signature Defaults
+.
+Gmail allows your to use a different signature on new and reply/forwarded email.
+Select 
+Save Changes
+ at the bottom of the page.
+Depending on your settings, the email signature (that includes the booking button) displays automatically when you compose a new email, and the image link opens your profile on LawConnect.
+ Lawyers can add a LawConnect booking button on their website. This allows your clients to access appointment booking functionality on LawConnect directly from a page of your site. LawConnect automatically generates a selection of booking buttons for each lawyer to choose from.
+ 
+In this article we cover how to add a booking button to your website and use WordPress to demonstrate.
+ 
+You can adapt these instructions for any website content management system or other website software. 
+ 
+ 
+Accessing your booking button on LawConnect
+LawConnect automatically generates the HTML code for a number of variations of your booking button. The code is available in the 
+Integrations
+ area. 
+ 
+To access your booking button as a lawyer:
+Select 
+Integrations
+ in the top bar.
+In LawConnect 
+Booking Button
+, select 
+Add Booking Button.
+ 
+Select your preferred button by selecting the circle to the left of it. 
+On selection, the HTML code updates in the code box.
+Select 
+Copy to Clipboard
+.
+ 
+Adding your booking button to your website
+You can add your booking button to any post or page, or other area of your site that allows you to add HTML code. 
+ 
+If possible, add your booking button to a sidebar or footer widget area, so that it displays on every post in your site. Whether, and how, you do this depends on your theme and plugins. 
+ 
+To keep things simple, the instructions below demonstrate how to add the button to a post.
+ 
+To add your booking button to a WordPress post:
+Add a new post, or open a current one.
+Add content as well, if you like. 
+ 
+In the kebab menu (three vertical dots in the top right hand corner), select 
+Editor > Code editor
+.
+This allows you to access the HTML (source) code of the page or post.
+Paste the code you copied in the previous section into the code editor.
+In the top bar, select 
+Preview > Preview in new tab
+ to preview the results.
+Save.
+ 
+Here is the selected booking button on a new post. When the client selects the button, your 
+lawyer profile
+ opens on LawConnect
+ You can add a LawConnect booking widget to any website. The widget allows clients to book LawConnect appointments directly on your website. The entire booking process takes place on your site.
+ 
+LawConnect provides the widget code for your lawyer profile and your law firm profile. 
+ 
+In this article we cover how to add a booking widget to a website and use WordPress to demonstrate. 
+ 
+You can adapt these instructions for any website content management system or other website software. All you need is access to the HTML source code. 
+ 
+ 
+ 
+Accessing your widget code on LawConnect 
+LawConnect automatically generates the HTML widget code for your lawyer profile and law firm profile. The code is available in the 
+Integrations
+ area. 
+ 
+To access your widget code:
+Select 
+Integrations
+ in the top bar.
+In 
+LawConnect Booking Widget
+, select either:
+- 
+Add Booking Widget for <
+Lawyer Name
+>
+.
+- 
+Add Booking Widget for <
+Law Firm Name
+>.
+Select 
+Copy to Clipboard
+. 
+ 
+Adding your booking widget to your website 
+The booking widget code is in HTML In simple terms, it imports a JavaScript file that adds in an iFrame and defines a few parameter, like your details and the widget size and colour. 
+See 
+Customising your booking widget
+ below for instructions how to modify certain aspects of the widget.  
+ 
+The instructions below demonstrate the procedure in WordPress (version 5.5.1), but you should be able to adapt them for most website software applications. 
+ 
+To add your booking widget to WordPress:
+Add a new page or post, or open a current one.
+You can also add introductory text, if you like.
+In the kebab menu (three vertical dots in the top right hand corner), select 
+Editor > Code editor
+.
+This allows you to access the HTML (source) code of the page or post.
+Paste the code you copied in the previous section into the code editor.
+In the top bar, select 
+Preview > Preview in new tab
+ to preview the results. 
+Save.
+ 
+ 
+Customising your booking widget
+This is example code for a widget for a single lawyer's profile. 
+ 
+<!-- LawTap Lawyer Booking Widget start. See the LawTap Help Portal for further information: https://help.lawtap.com/en/articles/1763373 -->
+<div class="lawtap-widget" data-country="UK" data-mode="lawyer" data-key="rachael-smith" data-width="800px" data-height="600px" data-theme="darkblue"></div>
+<script type="text/javascript" src="https://cdn.lawtap.com/widget.js"></script>
+<!-- LawTap Lawyer Widget end -->
+ 
+The code for the law firm widget is very similar and the same principles and instructions (below) apply.
+ 
+Here is the default widget in a post in WordPress.
+ 
+If you are comfortable doing so, you can tweak the code in the code editor to ensure that it renders and displays as you would like it to. 
+ 
+We recommend that you only change the size and theme and leave the rest of the code as is.
+ 
+To change basic parameters: 
+data-width="800px": Change 
+800
+ to a smaller or larger pixel size. 
+ 
+data-height="600px": Change 
+600
+ to a smaller or larger pixel size. 
+ 
+This parameter is sometimes disregarded. 
+data-theme="darkblue": You can change 
+darkblue
+ to 
+grey
+, 
+lightblue
+, 
+green
+ and 
+black
+. 
+Note! Parameter values cannot contain spaces.
+If these options are not sufficient, you can fully customize the colour scheme:
+Set a custom primary colour using the 
+hex value
+ of the colour. 
+For example, data-theme="AA0114" (dark red). 
+You can also set a secondary colour and different font as follow using the data-theme-settings sub-parameters
+For example, 
+data-theme="ff0000" data-theme-settings="secondary_color:#ff00ff | font:open-sans".
+ 
+Here is the lawyer booking widget in the 
+lightblue
+ data-theme, resized to a width of 400 pixels.
+ 
+ Actionstep is a popular practice management system used by thousands of law firms in 
+Australia
+, 
+Canada
+, 
+New Zealand
+, the 
+UK
+ and the 
+USA
+.
+ 
+The LawConnect Actionstep connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Actionstep contacts become available in LawConnect . 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Actionstep contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Actionstep clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to existing Actionstep Matters.
+This allows law firms to automatically generate time-entry Tasks in Actionstep for 
+LawConnect 
+appointments. These are used to automatically bill clients in Actionstep.
+ Learn more at 
+https://lawconnect.com/integrations/actionstep
+ 
+ 
+ 
+Requirements
+LawConnect subscription in AU, CA, NZ, UK or US.
+Practice Pro or higher Actionstep subscription
+ that includes API integration 
+Note! Actionstep Express subscriptions do not include API integration.
+ 
+ 
+Connecting LawConnect to Actionstep
+Note! This is a one-time process.
+ 
+To connect LawConnect to Actionstep:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Actionstep
+, select 
+Connect to Actionstep
+.
+Enter your Actionstep email and password, and then select 
+Log in
+. 
+Select 
+Grant access 
+in the Actionstep access confirmation screen
+.
+This gives LawConnect necessary (but limited) access to your Actionstep data. Access is limited to 
+Matters
+ (a.k.a. Actions), 
+Contacts
+ (a.k.a. Participants) and 
+Tasks
+ API scopes.
+Actionstep redirects you to LawConnect , where the "Successfully connected to Actionstep" notification displays.
+ 
+ 
+Updating You Actionstep User
+Your Actionstep User
+ is the user account (email and password) you used to connect LawConnect to Actionstep. 
+ 
+It is important to keep this user up to date, because the user is assigned to any Actionstep tasks created from LawConnect.  
+"up to date" in this context means the access credentials are both valid and active in Actionstep.
+ 
+To update 
+Your Actionstep User
+:
+In LawConnect, select 
+Integrations
+ in the top bar.
+In 
+Actionstep
+ > 
+Your Actionstep User
+, select 
+Update
+. 
+Enter a new email address and password.
+ 
+ 
+Syncing Contacts in Actionstep and LawConnect
+Contacts are synced automatically in both LawConnect and Actionstep and there is no need to take any manual action in this regard. Specifically:
+Contacts created when 
+new clients book appointments directly
+ on LawConnect are automatically added as Actionstep 
+Contacts
+ (if the contact does not already exist in Actionstep). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Actionstep contacts every two (2) hours.
+This is a two-way sync that checks that contacts in each system is a mirror of the other. 
+ 
+ 
+ 
+Sending LawConnect Appointments to Actionstep
+Lawyers can link all LawConnect client appointments (past and future) to Actionstep 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to an Actionstep 
+Matter
+: 
+In LawConnect, select 
+My Dashboard
+ in the top bar. if necessary.
+Select the 
+Send to Actionstep
+ action for an appointment.
+In 
+Link to Matter
+, select the existing Actionstep 
+Matter
+ to link to, and then select 
+Send to Actionstep
+.
+The appointment is automatically created as an Actionstep 
+Task
+ for the selected Actionstep 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's Actionstep 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+ 
+Disconnecting LawConnect from Actionstep
+To disconnect LawConnect from Actionstep:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In the Actionstep block, select 
+Disconnect
+.More than 150,000 legal professionals in 90 countries trust 
+Clio
+ legal practice management software to manage their law firms. LawConnect is an 
+Official Clio Integration Partner
+.
+ 
+The LawConnect Clio connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Clio contacts become available in LawConnect. 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Clio contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Clio clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to existing Clio Matters.
+This allows law firms to automatically generate 
+Activities
+ in Clio for LawConnect appointments. These are used to automatically bill clients .
+Lawyers can choose to connect to a Clio calendar or to a third-party calendar to eliminate double booking.  
+Learn more at 
+https://lawconnect.com/integrations/clio
+ 
+ 
+ 
+Requirements
+LawConnect subscription.
+A Clio Manage subscription.
+ 
+ 
+Connecting LawConnect to Clio
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Connect to Clio
+.
+Enter your Clio login information and then select 
+Sign in
+. 
+Select 
+Allow Access 
+in the Clio access confirmation screen
+.
+This gives LawConnect necessary (but limited) access to your Clio System.
+Clio redirects you to LawConnect, where the "Successfully connected to Actionstep" notification displays.
+ 
+ 
+Connecting LawConnect to your calendar/s
+Note! These connections must be done by, or on behalf of, all lawyers in your law firm. In other words, each lawyer needs to connect to one or more of their own calendars.
+ 
+LawConnect is flexible: you can connect to third-party online calendars, like Google or Outlook, or to one (or more) Clio calendars.
+ 
+Your calendar is used to:
+Set your 
+availability
+ for LawConnect 
+appointment types
+.
+Schedule new appointments, 
+booked by you
+ (as a lawyer) for Clio contacts, and those booked by Clio contacts and 
+new clients directly on LawConnect
+. 
+Connecting LawConnect to third-party calendars
+You can connect LawConnect to a number of online third-party calendars, including Microsoft Exchange/Outlook, Office365, Google, Apple iCloud or Outlook.com/Hotmail. 
+ 
+See 
+How do I connect my calendar to LawConnect?
+ for instructions on how to do this. 
+ 
+ 
+Connecting LawConnect to Clio Calendars
+To connect LawConnect to your Clio calendar/s:
+Sign In to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Manage Calendars
+.
+In 
+Primary Calendar
+, select the Clio calendar you want to use. 
+Save.
+ 
+Overriding your primary calendar
+You can override your primary calendar directly in your 
+My Dashboard
+ area in LawConnect. 
+ 
+To override your primary calendar:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar.
+Select 
+My Appointment Types
+.
+In 
+Appointment Information
+, select your preferred Clio calendar in the 
+Linked Clio Calendar
+ pick list.
+Save.
+ 
+ 
+Syncing contacts in Clio and LawConnect
+Contacts are synced automatically in both LawConnect and Clio and there is no need to take any manual action in this regard. Specifically:
+Contacts created when 
+new clients book appointments directly
+ on LawConnect are automatically added as Clio 
+Contacts
+ (if the contact does not already exist in Clio). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Clio contacts every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other.
+ 
+Booking an appointment on LawConnect for a Clio contact
+To book an appointment for an existing Clio contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the Clio contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more.
+ 
+ 
+ 
+Changing LawConnect appointments
+Changes to LawConnect appointments are automatically synced and the up-to-date position reflects in both systems. There is no need for any manual action in this regard. Specifically, if an appointment is:
+Cancelled in LawConnect, the Clio 
+Activity
+ is automatically removed/deleted.
+Rescheduled in LawConnect, the Clio 
+Activity 
+is updated automatically with the new information.
+See 
+Managing your client appointments on LawConnect as a lawyer
+ for more about the 
+Cancel
+ and 
+Reschedule
+ actions in 
+LawConnect
+.
+ 
+ 
+ 
+Sending LawConnect appointments to Clio
+Lawyers can link all LawConnect client appointments (past and future) to Clio 
+Matters
+ from 
+My Dashboard
+ in LawConnect.
+ 
+To link a LawConnect appointment to a Clio 
+Matter
+:
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to Clio
+ action for an appointment.
+In 
+Link to Matter
+, create a new matter or select an existing Clio 
+Matter
+ to link to, and then select 
+Send to Clio
+.
+The appointment is automatically created as a Clio 
+Activity
+ for the selected Clio 
+Matter
+ and can be used for billing purposes.  
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+ 
+Disconnecting LawConnect from Clio
+To disconnect LawConnect from Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Disconnect
+.13,000 law firms across Australia, Ireland, the UK and USA trust LEAP legal practice management software. LawConnect is an Official LEAP Integration Partner.
+ 
+You can integrate LawConnect and LEAP using the LawConnect connector (instructions below) or the LEAP Add-in. LawConnect is also available as part of the 
+LEAP Web Portal
+.
+ 
+The main benefits of the integration are:
+Lawyers can book appointments for clients with a LEAP card, using automated email and SMS/text message reminders available. in the LEAP Add-in or the LawConnect Firm Dashboard.
+LawConnect appointments can be linked to existing LEAP Matters in the LEAP Add-in or the LawConnect Firm Dashboard..
+Learn more at 
+https://lawconnect.com/integrations/leap
+.
+ 
+Requirements
+LawConnect subscription
+LEAP Cloud subscription
+ 
+ 
+Connecting LawConnect to LEAP
+Note! This is a one-time connection that needs to be completed for 
+every
+ lawyer in your firm.
+ 
+To connect LawConnect to LEAP:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LEAP
+, select 
+Connect to LEAP
+.
+Enter your LEAP login information and then select 
+SIGN IN
+. 
+Follow the LEAP prompts to connect to LawConnect.
+When the connection is established, LEAP redirects you to LawConnect, where the "Successfully connected to LEAP" notification displays.
+ 
+ 
+Syncing contacts in LEAP and LawConnect 
+Contacts are synced automatically in both LawConnect and LEAP and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a LEAP Card (if the contact does not already exist in LEAP). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with LEAP every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+Booking an appointment on LawConnect for a LEAP contact
+To book an appointment on LawConnect for an existing LEAP contact:
+Select 
+My Dashboard
+ in the top bar.
+Select 
+Book Appointment
+.
+Select the existing LEAP contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+ 
+Sending LawConnect appointments to LEAP
+Lawyers can link all LawConnect client appointments (past and future) to LEAP 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a LEAP 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to LEAP 
+action for an appointment.
+In 
+Link to Matter
+, select an existing LEAP 
+Matter
+ to link to, and then select 
+Send to LEAP
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+Known Limitation
+Law Firm Manager users cannot use the 
+Send to LEAP
+ at this time. LawConnect users must be signed in as a 
+Lawyer
+ user to use this action.
+ 
+ 
+ 
+Disconnecting LawConnect from LEAP
+To disconnect LawConnect from Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LEAP
+, select 
+Disconnect
+.Over 100,000 legal professionals in 170 countries trust 
+PracticePanther
+ legal practice management software.
+ 
+The LawConnect PracticePanther connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+PracticePanther contacts become available in LawConnect. 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their PracticePanther contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current PracticePanther clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to new or existing PracticePanther 
+Matters
+.
+This allows law firms to automatically generate time-entry 
+Events
+ in PracticePanther for 
+LawConnect 
+appointments. These are used to automatically bill clients in PracticePanther.
+Learn more at 
+https://lawconnect.com/integrations/practicepanther
+ 
+ 
+ 
+Requirements
+LawConnect subscription in CA or US.
+Business or higher PracticePanther subscription
+.
+ 
+ 
+Connecting LawConnect to PracticePanther
+Note! This is a one-time process.
+ 
+To connect LawConnect to PracticePanther:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+PracticePanther
+, select 
+Connect to PracticePanther
+.
+Enter your PracticePanther login information and then select 
+Login
+. 
+Select 
+Grant access 
+in the confirmation screen
+.
+This gives 
+LawConnect 
+necessary (but limited) access to your PracticePanther data. 
+PracticePanther redirects you to LawConnect, where the "Successfully connected to PracticePanther" notification displays.
+ 
+ 
+Syncing contacts in PracticePanther and LawConnect
+Contacts are synced automatically in both LawConnect and PracticePanther and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a PracticePanther contact (if the contact does not already exist in PracticePanther). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with PracticePanther every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+ 
+Booking an appointment on LawConnect for a PracticePanther contact
+To book an appointment for an existing PracticePanther contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the existing PracticePanther contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+Sending LawConnect appointments to PracticePanther
+Lawyers can link all LawConnect client appointments (past and future) to PracticePanther 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a PracticePanther 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to PracticePanther 
+action for an appointment.
+In 
+Link to Matter
+, create a new or select an existing PracticePanther 
+Matter
+ to link to, and then select 
+Send to PracticePanther
+.
+The appointment is automatically created as an PracticePanther 
+Event
+ for the selected PracticePanther 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's PracticePanther 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+Disconnecting LawConnect from PracticePanther
+To disconnect LawConnect from PracticePanther:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+PracticePanther
+, select 
+Disconnect
+.Thousands of law firms across the USA trust 
+Rocket Matter
+ legal practice management software.
+ 
+The LawConnect Rocket Matter connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Rocket Matter contacts become available in LawConnect . 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Rocket Matter contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Rocket Matter clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to new or existing Rocket Matter 
+Matters
+.
+This allows law firms to automatically generate time-entry 
+Tasks
+ in Rocket Matter for 
+LawConnect 
+appointments. These are used to automatically bill clients in Rocket Matter.
+Learn more at 
+https://lawconnect.com/integrations/rocket-matter
+ 
+ 
+ 
+Requirements
+LawConnect subscription in CA or US.
+Pro or higher Rocket Matter subscription
+.
+ 
+ 
+Connecting LawConnect to Rocket Matter
+Note! This is a one-time process.
+ 
+To connect LawConnect to Rocket Matter:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Rocket Matter
+, select 
+Connect to Rocket Matter
+.
+Enter your Rocket Matter login information and then select 
+Login
+. 
+Select 
+Allow 
+in the confirmation screen
+.
+This gives 
+LawConnect 
+necessary (but limited) access to your Rocket Matter data. 
+Rocket Matter redirects you to LawConnect, where the "Successfully connected to Actionstep" notification displays.
+ 
+Syncing contacts in Rocket Matter and LawConnect
+Contacts are synced automatically in both LawConnect and Rocket Matter and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a Rocket Matter contact (if the contact does not already exist in Rocket Matter). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Rocket Matter every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+ 
+Booking an appointment on LawConnect for a Rocket Matter contact
+To book an appointment for an existing Rocket Matter contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the existing Rocket Matter contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+Sending LawConnect appointments to Rocket Matter
+Lawyers can link all LawConnect client appointments (past and future) to Rocket Matter 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a Rocket Matter 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to Rocket Matter 
+action for an appointment.
+In 
+Link to Matter
+, create a new or select an existing Rocket Matter 
+Matter
+ to link to, and then select 
+Send to Rocket Matter
+.
+The appointment is automatically created as an Rocket Matter 
+Task 
+for the selected Rocket Matter 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's Rocket Matter 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+Disconnecting LawConnect from Rocket Matter
+To disconnect LawConnect from Rocket Matter:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Rocket Matter
+, select 
+Disconnect
+.
+ 
+ 
+Known Limitations
+Rocket Matter does not support the E.164 international phone numbering plan format. This means that all phone numbers are assumed to be North American  (USA and Canada) numbers.
+Rocket Matter does not support ISO 3166 for international country names. This means if LawConnect cannot automatically match a contact's country, the U.S.A. is used as the default.
+Rocket Matter Task Due Dates may automatically be set as the previous day to the appointment for some time zones.60,000 legal professionals across the USA and Canada trust  
+Time Matters
+ legal practice management software. LawConnect is an Official Time Matters Integration Partner.
+ 
+Learn more at 
+https://lawconnect.com/integrations/time-matters
+.
+ 
+ 
+ 
+Requirements
+LawConnect subscription in USA or Canada;
+Time Matters access with an active annual maintenance plan (AMP); and
+The latest version 
+of the Time Matters Go manager app.
+ 
+ 
+Connecting LawConnect to Time Matters
+Note! This is a one-time process that needs to be completed 
+for each lawyer in the law firm
+.
+ 
+To connect LawConnect to Time Matters:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Time Matters
+, select 
+Connect to Time Matters
+.
+Enter the email and password associated with your Time Matters account and then select 
+Submit
+. 
+Note! If you use Time Matters Go, these are the same credentials. If you are unsure, please contact Time Matters Support.
+You will be returned to LawConnect, where the "Successfully connected to Time Matters" notification displays.
+ 
+ 
+Disconnecting LawConnect from Time Matters
+To disconnect LawConnect from Time Matters:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Time Matters
+, select 
+Disconnect
+.
+ 
+ 
+Known limitations and workarounds of the Time Matters integration (Beta)
+LawConnect cannot synchronize (read or write) contacts between LawConnect and Time Matters. 
+Workaround
+: No workaround is available at this time.
+LawConnect does not know the timezone for each event made available in the Time Matters API. 
+Workaround
+: LawConnect assumes the timezone used is the same as that set for the lawyer in their LawConnect account in 
+Account > Account Settings > Timezone
+.  
+LawConnect only checks for availability changes in Time Matters every two (2) hours and only for 500 events in advance. This means that double bookings are possible if the 
+APPOINTMENT INFORMATION >
+ 
+No Earlier Than
+ field for the 
+appointment type
+ in LawConnect is set to less than 2 hours AND the lawyer updates Time Matters with a conflicting event in the upcoming 2 hours. 
+Workaround
+: If this scenario is likely, set the 
+No Earlier Than
+ field to 2 hours or more, to mitigate the risk of double booking. Zoom is the market leader for online video meetings. It is used daily by 200+ million participants. 
+ 
+The LawConnect Zoom connecter automates Zoom Video appointments from start to finish, and allows you to access Zoom directly from you LawConnect Dashboard. 
+ 
+In this article, we take you through the process of using Zoom in LawConnect and provide instructions on how to connect to Zoom, create 
+Zoom Video
+ appointment types, book 
+Zoom Video
+ appointments, connect to a Zoom appointment (as a lawyer and a client), access your Zoom dashboard and disconnect from Zoom.
+ 
+To learn more about the benefits of connecting LawConnect to Zoom, see 
+https://lawconnect.com/integrations/zoom
+ and 
+Zoom's privacy and security controls
+.
+ 
+ 
+Requirements
+LawConnect Lawyer account; and
+Zoom Meetings account
+ (Basic or higher).
+Note! Each lawyer needs their own Zoom account.
+ 
+ 
+Connecting LawConnect to Zoom Video
+Note! This is a one-time process that needs to be done by, or on behalf of, each lawyer in the firm. Zoom accounts cannot be shared by multiple lawyers!
+ 
+To connect LawConnect to Zoom:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Zoom
+, select 
+Connect to Zoom
+.
+Enter your Zoom email and password, select the 
+I'm not a robot
+ checkbox, and then select 
+Sign in
+. 
+Follow the prompts on the Zoom site to pre-approve and then authorize the Zoom app.
+Zoom redirects you to LawConnect, where the "Successfully connected to Zoom" notification displays.
+ 
+ 
+Creating Zoom Video appointment types
+After you have connected LawConnect to Zoom, the 
+Zoom Video
+ appointment type is automatically available for selection as 
+appointment type
+..
+ 
+Zoom Video
+ appointments are created in the same way as any other appointment type
+. 
+ 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for full instructions on how to add new appointment types.
+ 
+Note
+! 
+The 
+Zoom Video
+ appointment type will only display in the 
+Select Appointment Type
+ pick list in the 
+firm
+ and individual 
+lawyer
+ profiles after the lawyer has connected LawConnect
+ 
+to their personal Zoom account. 
+ 
+ 
+ 
+Booking Zoom Video appointments
+Zoom Video
+ appointments are booked in exactly the same way as other appointment types. See these articles for full instructions on how different personas book appointments on LawConnect:
+Booking your first appointment on LawConnect as a client
+.
+Booking appointments for your clients on LawConnect as a lawyer
+.
+Booking client appointments for lawyers in your firm as a practice manager
+.
+ 
+ 
+Connecting to Zoom Video appointments
+LawConnect automatically generates a unique Zoom Video ID for each appointment, as well as links to start (lawyer) and join (client) the video meeting. This information (plus the meeting passcode) is sent to the sent to both parties in the appointment confirmation email and is also available in LawConnect in 
+My Dashboard
+ (lawyer) and 
+My Appointments
+ (client). 
+ 
+Starting a Zoom appointment as a lawyer
+To start a Zoom Video appointment as a lawyer:
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+View
+ for the Zoom Video appointment. 
+In 
+Zoom Meeting
+, select 
+Open in Zoom
+.
+Alternatively, open the appointment confirmation email and select the 
+Click to Start
+ link. 
+ 
+For more about working in 
+My Dashboard
+, see 
+Managing your client appointments on LawConnect as a lawyer
+. 
+ 
+Connecting to a Zoom appointment as a client
+To connect to a Zoom Video appointment as a client:
+Select 
+My Appointments
+ in the top bar, if necessary.
+Select 
+View
+ for the Zoom Video appointment. 
+In 
+Zoom Meeting
+, select 
+Open in Zoom
+.
+Alternatively, open the appointment confirmation email and select the 
+Click to Join
+ link. 
+ 
+For more about working in 
+My Appointments
+, see 
+Managing lawyer appointments on LawConnect as a client
+.
+ 
+ 
+ 
+Accessing your Zoom dashboard as a lawyer
+As a lawyer, you can access your Zoom dashboard directly from LawConnect to manage all your Zoom Video meetings in the same place.
+ 
+To access your Zoom Dashboard as a lawyer,
+Select 
+Integrations
+ in the top bar.
+In the 
+Zoom
+, select 
+Disconnect
+.
+ 
+ 
+Disconnecting LawConnect and Zoom
+To disconnect LawConnect from Zoom:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In the 
+Zoom
+, select 
+Disconnect
+.Microsoft Teams is a business leader in online/video meetings and is used daily by 75+ million users. Teams is included with all Microsoft 365 Business Plans and LawConnect is a Microsoft Partner.
+ 
+The LawConnect Microsoft Teams (MT) connecter automates booking Microsoft Teams video appointments on LawConnect from start to finish. LawConnect automatically generates unique Microsoft Teams meeting details for each appointment.
+ 
+In this article, we take you through the process of using Microsoft Teams in LawConnect and provide instructions on how to connect to Teams, add 
+Microsoft Teams Video
+ appointment types, book 
+Microsoft Teams Video
+ appointments and disconnect from Microsoft Teams.
+ 
+To learn more about the benefits of connecting LawConnect to Microsoft Teams, see  
+https://lawconnect.com/integrations/microsoft-teams
+.
+ 
+ 
+Requirements
+LawConnect Lawyer account; and
+Microsoft Office 365 Business or Enterprise subscription with Microsoft Teams enabled.
+Note! Each lawyer needs their own Microsoft Teams account.
+ 
+ 
+Connecting LawConnect to Microsoft Teams Video
+Note! This is a one-time process that needs to be done by, or on behalf of, each lawyer in the firm. Microsoft Teams accounts cannot be shared by multiple lawyers!
+ 
+To connect LawConnect to Microsoft Teams:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Microsoft Teams Video
+, select 
+Connect to Microsoft Teams
+.
+Follow the instructions on the Microsoft website to finalize the connection.
+You will be returned to LawConnect, where the "Successfully connected to Microsoft Teams" notification displays.
+ 
+ 
+Adding Microsoft Teams Video appointment types
+After you have connected LawConnect to Microsoft Teams, the 
+Microsoft Teams Video
+ appointment type is automatically available for selection as 
+appointment type
+..
+ 
+Microsoft Teams Video
+ appointments are created in the same way as any other appointment type
+.
+ 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for full instructions on how to add new appointment types.
+ 
+Note
+! 
+The 
+Microsoft Teams Video
+ 
+appointment type will only display in the 
+Select Appointment Type
+ pick list in the 
+firm
+ and individual 
+lawyer
+ profiles after the lawyer has connected 
+LawConnect 
+to their personal Microsoft Teams account.
+ 
+ 
+ 
+ 
+Booking Microsoft Teams Video appointments
+Microsoft Teams Video
+ appointments are booked in exactly the same way as other appointment types. See these articles for full instructions on how different personas book appointments on LawConnect:
+Booking your first appointment on LawConnect as a client
+.
+Booking appointments for your clients on LawConnect as a lawyer
+.
+Booking client appointments for lawyers in your firm as a practice manager
+.
+ 
+ 
+Disconnecting LawConnect and Microsoft Teams
+To disconnect LawConnect from Microsoft Teams:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Microsoft Teams Video
+, select 
+Disconnect
+.Stripe is a leading payment processor used by millions of businesses in more than 40 
+countries
+ around the world. LawConnect is a 
+Stripe Verified Partner
+.
+ 
+The LawConnect Stripe connector allows law firms to receive secure credit card payments for client appointments that comply with regulations relating to legal trust accounting.
+ 
+In this article, we take you through the process of connecting and using Stripe on LawConnect. 
+ 
+ 
+Requirements
+LawConnect subscription; and
+Stripe account.
+If you do not have a Stripe account, you can one during the connection process. 
+ 
+ 
+How the LawConnect integration with Stripe works
+Payments for appointments are completely automated and require no manual intervention. This is the typical payment flow: 
+Client books appointment
+: LawConnect sets a time-limited 
+pre-authorisation
+ for the amount of the appointment fee on the client's credit or debit card.
+This pre-authorisation remains active until the scheduled end time of the appointment or until the appointment is cancelled. Pre-authorisation is also known as a "preauth" or "authorisation hold". 
+Client attends appointment
+: At the appointment end time, LawConnect automatically authorises the appointment fee from the client's card and transfers it to the bank account linked to your law firm's Stripe account, after deducting any LawTap appointment processing fee and Stripe card processing fee.
+The authorisation process is also known as "capture" or "settlement".
+If an appointment is cancelled before the scheduled appointment start time, the pre-authorisation is automatically cancelled and the fee becomes available to the client as soon as it is processed by their bank.
+ 
+Compliance with legal trust accounting regulations
+LawConnect's integration with Stripe was designed and developed to comply with the majority of legal trust accounting best practices and client accounting laws/regulations. It is compliant because:
+Payment card pre-authorisations do not fall within the definition of "trust money", as defined by relevant laws/regulations; and
+The appointment payment is only processed at the appointment end time (that is, after the lawyer has delivered the legal service to the client).
+If the lawyer or client cancels the appointment before the appointment time, a full "refund" (also know as a "reversal of the pre-authorisation") is processed automatically .
+ 
+ 
+Connecting LawConnect to Stripe
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to Stripe:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Stripe
+, select 
+Connect to Stripe
+.
+Enter your Stripe login information and then select 
+Continue
+.
+If you do not have a Stripe account, follow the instructions to create a free Stripe account. 
+Follow the instructions on the Stripe website to finalize the connection
+.
+Stripe redirects you to LawConnect, where the "Successfully connected to Stripe" notification displays. 
+ 
+ 
+Setting fees for appointment types
+Each lawyer can set their own appointment fee for each 
+appointment type
+ that is assigned to them.
+ 
+To set appointment fees as a lawyer:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+My Appointment Types
+.
+Select 
+Edit
+ for an appointment type.
+Add your fee for the appointment in the 
+APPOINTMENT FEE
+ section.
+Repeat this procedure (step 4 and 5) for all appointment types. 
+Save.
+Note! Practice managers can set and update appointment fees for multiple lawyers in their firm using the 
+Edit as <Lawyer Name>
+ action in 
+Firm Dashboard > Firm Appointment Types
+. 
+ 
+ 
+ 
+Requesting client payment information
+Clients provide their payment information at different times, depending on who books the appointment. For appointments booked by:
+Lawyers
+ or 
+practice managers
+: The client receives an email and/or SMS notification requesting them to provide their payment information.
+Clients
+: For self-booking, the client is automatically prompted to enter their payment information as part of the booking process.
+Handling appointment changes
+This is how appointment changes are, or should be, handled: 
+Cancelled appointments
+:
+ 
+When an appointment is cancelled, the Stripe pre-authorisation is automatically cancelled. 
+LawConnect appointments can only be cancelled before the scheduled appointment start time. If the appointment did not take place through no fault of the client, your options are to reschedule the appointment or refund the fee.
+Rescheduled appointments
+:
+ 
+When an appointment is rescheduled, LawConnect uses uses its best efforts to automatically transfer any existing payment or payment details to the new appointment.
+Appointment refunds
+: Partial or full refunds can be issued after the appointment in your Stripe Dashboard.More than 150,000 legal professionals in the U.S. and Canada trust their payments to LawPay. LawConnect is an 
+Official LawPay Integration Partner
+.
+ 
+The LawConnect - LawPay integration makes it simple for lawyers to accept credit card and eCheck payments online for client bookings on LawConnect . 
+ 
+Learn more at 
+https://lawconnect.com/integrations/lawpay
+.
+ 
+In this article, we take you through the process of connecting and using LawPay on LawConnect.
+ 
+ 
+ 
+Requirements
+LawConnect subscription in the USA or Canada; and
+LawPay account.
+ 
+ 
+Connecting LawConnect to LawPay
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to LawPay:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LawPay
+, select 
+Connect to LawPay
+.
+Enter your LawPay login information and then select 
+Continue
+.
+Follow the instructions on the LawPay website to finalize the connection
+.
+LawPay redirects you to LawConnect, where the "Successfully connected to LawPay" notification displays. 
+ 
+ 
+Setting LawPay Accounts
+The LawConnect - LawPay integration supports card and ACH/eCheck payments.
+ 
+To set your bank account details for LawPay:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LawPay
+, select your Card Deposit Account and/or eCheck Deposit Account.
+ 
+ 
+Setting fees for appointment types
+Each lawyer can set their own appointment fee for each 
+appointment type
+ that is assigned to them.
+ 
+To set appointment fees as a lawyer:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+My Appointment Types
+.
+Select 
+Edit
+ for an appointment type.
+Add your fee for the appointment in the 
+APPOINTMENT FEE
+ section.
+Repeat this procedure (step 4 and 5) for all appointment types. 
+Save.
+Note! Practice managers can set and update appointment fees for multiple lawyers in their firm using the 
+Edit as <Lawyer Name>
+ action in 
+Firm Dashboard > Firm Appointment Types
+. 
+ 
+ 
+ 
+Requesting client payment information
+Clients provide their payment information at different times, depending on who books the appointment. For appointments booked by:
+Lawyers
+ or 
+practice managers
+: The client receives an email and/or SMS notification requesting them to provide their payment information.
+Clients
+: For self-booking, the client is automatically prompted to enter their payment information as part of the booking process.
+ 
+Handling appointment changes
+This is how appointment changes are, or should be, handled: 
+Cancelled appointments
+:
+ 
+When an appointment is cancelled, the LawPay payment is automatically refunded in full. 
+Rescheduled appointments
+:
+ 
+When an appointment is rescheduled, LawConnect uses uses its best efforts to automatically transfer any existing payment or payment details to the new appointment.
+Appointment refunds
+: Partial or full refunds can be issued after the appointment in your LawPay Dashboard. 
+The LawConnect Zapier connector facilitates seamless integration between the LawConnect and Zapier. Once connected, you can connect LawConnect to other popular apps, like MailChimp, Google Docs, Hubspot, Campaign Monitor and more.  
+ 
+In this article, we cover how to connect LawConnect to Zapier. 
+ 
+ 
+ 
+Connecting LawConnect to Zapier
+To connect LawConnect to Zapier:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Zapier
+, select 
+Connect to Zapier
+.
+Login to Zapier.
+You can use you Zapier email and password, or login using your Google, Facebook or Microsoft credentials, or create a new Zapier account.
+Follow the instructions on Zapier.

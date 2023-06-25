@@ -1,0 +1,141 @@
+Thousands of law firms across the USA trust 
+Rocket Matter
+ legal practice management software.
+ 
+The LawConnect Rocket Matter connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Rocket Matter contacts become available in LawConnect . 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Rocket Matter contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Rocket Matter clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to new or existing Rocket Matter 
+Matters
+.
+This allows law firms to automatically generate time-entry 
+Tasks
+ in Rocket Matter for 
+LawConnect 
+appointments. These are used to automatically bill clients in Rocket Matter.
+Learn more at 
+https://lawconnect.com/integrations/rocket-matter
+ 
+ 
+ 
+Requirements
+LawConnect subscription in CA or US.
+Pro or higher Rocket Matter subscription
+.
+ 
+ 
+Connecting LawConnect to Rocket Matter
+Note! This is a one-time process.
+ 
+To connect LawConnect to Rocket Matter:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Rocket Matter
+, select 
+Connect to Rocket Matter
+.
+Enter your Rocket Matter login information and then select 
+Login
+. 
+Select 
+Allow 
+in the confirmation screen
+.
+This gives 
+LawConnect 
+necessary (but limited) access to your Rocket Matter data. 
+Rocket Matter redirects you to LawConnect, where the "Successfully connected to Actionstep" notification displays.
+ 
+Syncing contacts in Rocket Matter and LawConnect
+Contacts are synced automatically in both LawConnect and Rocket Matter and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a Rocket Matter contact (if the contact does not already exist in Rocket Matter). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Rocket Matter every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+ 
+Booking an appointment on LawConnect for a Rocket Matter contact
+To book an appointment for an existing Rocket Matter contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the existing Rocket Matter contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+Sending LawConnect appointments to Rocket Matter
+Lawyers can link all LawConnect client appointments (past and future) to Rocket Matter 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a Rocket Matter 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to Rocket Matter 
+action for an appointment.
+In 
+Link to Matter
+, create a new or select an existing Rocket Matter 
+Matter
+ to link to, and then select 
+Send to Rocket Matter
+.
+The appointment is automatically created as an Rocket Matter 
+Task 
+for the selected Rocket Matter 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's Rocket Matter 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+Disconnecting LawConnect from Rocket Matter
+To disconnect LawConnect from Rocket Matter:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Rocket Matter
+, select 
+Disconnect
+.
+ 
+ 
+Known Limitations
+Rocket Matter does not support the E.164 international phone numbering plan format. This means that all phone numbers are assumed to be North American  (USA and Canada) numbers.
+Rocket Matter does not support ISO 3166 for international country names. This means if LawConnect cannot automatically match a contact's country, the U.S.A. is used as the default.
+Rocket Matter Task Due Dates may automatically be set as the previous day to the appointment for some time zones.

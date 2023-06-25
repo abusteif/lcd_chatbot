@@ -1,0 +1,152 @@
+Actionstep is a popular practice management system used by thousands of law firms in 
+Australia
+, 
+Canada
+, 
+New Zealand
+, the 
+UK
+ and the 
+USA
+.
+ 
+The LawConnect Actionstep connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Actionstep contacts become available in LawConnect . 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Actionstep contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Actionstep clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to existing Actionstep Matters.
+This allows law firms to automatically generate time-entry Tasks in Actionstep for 
+LawConnect 
+appointments. These are used to automatically bill clients in Actionstep.
+ Learn more at 
+https://lawconnect.com/integrations/actionstep
+ 
+ 
+ 
+Requirements
+LawConnect subscription in AU, CA, NZ, UK or US.
+Practice Pro or higher Actionstep subscription
+ that includes API integration 
+Note! Actionstep Express subscriptions do not include API integration.
+ 
+ 
+Connecting LawConnect to Actionstep
+Note! This is a one-time process.
+ 
+To connect LawConnect to Actionstep:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Actionstep
+, select 
+Connect to Actionstep
+.
+Enter your Actionstep email and password, and then select 
+Log in
+. 
+Select 
+Grant access 
+in the Actionstep access confirmation screen
+.
+This gives LawConnect necessary (but limited) access to your Actionstep data. Access is limited to 
+Matters
+ (a.k.a. Actions), 
+Contacts
+ (a.k.a. Participants) and 
+Tasks
+ API scopes.
+Actionstep redirects you to LawConnect , where the "Successfully connected to Actionstep" notification displays.
+ 
+ 
+Updating You Actionstep User
+Your Actionstep User
+ is the user account (email and password) you used to connect LawConnect to Actionstep. 
+ 
+It is important to keep this user up to date, because the user is assigned to any Actionstep tasks created from LawConnect.  
+"up to date" in this context means the access credentials are both valid and active in Actionstep.
+ 
+To update 
+Your Actionstep User
+:
+In LawConnect, select 
+Integrations
+ in the top bar.
+In 
+Actionstep
+ > 
+Your Actionstep User
+, select 
+Update
+. 
+Enter a new email address and password.
+ 
+ 
+Syncing Contacts in Actionstep and LawConnect
+Contacts are synced automatically in both LawConnect and Actionstep and there is no need to take any manual action in this regard. Specifically:
+Contacts created when 
+new clients book appointments directly
+ on LawConnect are automatically added as Actionstep 
+Contacts
+ (if the contact does not already exist in Actionstep). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Actionstep contacts every two (2) hours.
+This is a two-way sync that checks that contacts in each system is a mirror of the other. 
+ 
+ 
+ 
+Sending LawConnect Appointments to Actionstep
+Lawyers can link all LawConnect client appointments (past and future) to Actionstep 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to an Actionstep 
+Matter
+: 
+In LawConnect, select 
+My Dashboard
+ in the top bar. if necessary.
+Select the 
+Send to Actionstep
+ action for an appointment.
+In 
+Link to Matter
+, select the existing Actionstep 
+Matter
+ to link to, and then select 
+Send to Actionstep
+.
+The appointment is automatically created as an Actionstep 
+Task
+ for the selected Actionstep 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's Actionstep 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+ 
+Disconnecting LawConnect from Actionstep
+To disconnect LawConnect from Actionstep:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In the Actionstep block, select 
+Disconnect
+.

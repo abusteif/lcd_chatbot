@@ -1,0 +1,143 @@
+You can change all your LawConnect account information at any time. The information stored in your account includes your first and last name, timezone, email address and password (access credentials), mobile number and location. 
+ 
+In this article we provide instructions on how to access your LawConnect account and demonstrate how to change each detail. 
+ 
+ 
+ 
+Updating your account details
+To update your account details:
+ 
+1.  Select 
+Account
+ in the top bar.
+2.  Change or add information in the 
+About You
+ and 
+Your Location
+ tabs.
+The fields are covered individually in the sections that follow. 
+ 
+3.  Select 
+Save
+.
+ 
+ 
+ 
+Changing your first and last name
+To change your first or last name:
+ 
+1.  In the 
+About You
+ tab, enter your new details in the 
+First Name
+ and 
+Last Name
+ fields.
+ 
+2.  Select 
+Save
+.
+ 
+ 
+Changing your timezone 
+Your timezone is important because it is used to display accurate appointment times and to send 
+appointment reminders
+. 
+ 
+To change your timezone:
+ 
+1.  In the 
+About You
+ tab, select a new timezone in the pick list in the 
+Timezone
+ field.
+ 
+2.  Select 
+Save
+.
+ 
+ 
+ 
+Changing your email address
+To change your email address:
+ 
+1.  In the 
+About You
+ tab, select 
+Change
+ in the 
+Email
+ field.
+ 
+2.  Enter your new email address and select 
+Submit
+.
+Your old email is filled in automatically.
+ 
+3.  Select 
+Update Email
+ in the email sent to your new email address to confirm it.
+ 
+ 
+ 
+Changing your mobile number
+To change your mobile number:
+ 
+1.  In the 
+About You
+ tab, select 
+Change 
+in the 
+Mobile 
+field.
+ 
+2.  Enter your new mobile number and select 
+Submit
+.
+Your old mobile is filled in automatically.
+ 
+3.  Enter the confirmation code sent by SMS to your new mobile number and select 
+Confirm
+.
+ 
+ 
+ 
+Changing your password
+To change your password:
+ 
+1.  In the 
+About You
+ tab, select 
+Change
+ in the 
+Password
+ field.
+ 
+2.  Enter your current password, and then enter and repeat your new password.
+ 
+3.  Select 
+Save
+.  
+ 
+See the 
+Resetting your password
+ section in 
+Accessing your LawConnect account as a client
+ for how to reset your password when signed out of LawConnect.
+ 
+ 
+ 
+Adding or changing your location
+Adding a location is important if you need documents delivered to you or have arranged a meeting at your address, for example. Your information is synced with Google Maps that provides directions and many other features.
+ 
+To add or change your location:
+ 
+1.  In the 
+Your Location
+ tab, add or change the information in the address fields. 
+ 
+2.  Select 
+Save
+.
+ 
+ 

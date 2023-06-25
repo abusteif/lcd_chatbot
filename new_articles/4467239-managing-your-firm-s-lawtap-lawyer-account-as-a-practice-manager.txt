@@ -1,0 +1,91 @@
+Your LawConnect Lawyer account was created during the sign-up process. This account is the main law firm account and the personal account details are typically those of a practice manager. After signup, all lawyers in the firm are invited to LawConnect by this account holder and their LawConnect accounts are sub-accounts of, and linked to, the main LawConnect Lawyer account. 
+ 
+See the following articles for more details about these procedures:
+Signing up for a LawConnect Lawyer account as a practice manager
+.
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+.
+Accepting an invitation to sign up for LawConnect as a lawyer
+. 
+In this article, we take you through the process of managing your LawConnect subscription, accessing your LawConnect invoices, and changing your LawConnect payment details.
+ 
+ 
+ 
+Managing your personal details
+You can access and manage the LawConnect Lawyer account, and the personal details associated with it, in the same way as any LawConnect account held by a lawyer in your firm.
+ 
+For instructions on how to sign in and out of 
+LawConnect
+, access your 
+LawConnect 
+Lawyer 
+Account
+ area, change your email address, mobile number, timezone and password in LawTap, and reset your password when signed out, see 
+Managing your LawConnect account as a lawyer
+.  
+ 
+ 
+ 
+Managing your LawConnect subscription
+The 
+Subscription Plan
+ section of the 
+Account
+ area includes details of your LawConnect subscription, including your law firm name, price plan, promo code (if any), renewal date, status and the number of lawyers linked to your firm.
+ 
+Accessing your LawConnect invoices
+To access your LawConnect invoices:
+ 
+1.  Select 
+View Invoices
+ in the 
+Subscription Plan
+ area.
+ 
+2.  In the 
+Invoices
+ area, select a link in the 
+Invoice ID
+ column to view any individual tax invoice. 
+The 
+Invoices
+ area contains a table that lists all 
+LawConnect 
+invoices and includes the ID, plan, amount, invoice and payment date, payment attempts, number of lawyers and status of each invoice.
+ 
+3.  Each tax invoice contains all the details that are typically necessary for official purposes..
+ 
+Managing your LawConnect payment settings
+The 
+Payment Settings
+ section of the 
+Account
+ area includes the credit card details used to 
+sign up for your firm's LawConnect Lawyer account
+.
+ 
+You can add and remove credit cards in this area.  
+ 
+Managing LawConnect firm members
+The 
+Firm Members
+ area of the 
+Account
+ area includes:
+Active Members
+: A list of lawyers in your firm with 
+active LawConnect accounts
+.
+Pending Members
+: A list of lawyers who have been 
+invited
+, but have not yet 
+signed up to LawConnect
+. 
+See 
+Inviting lawyers to LawConnect on behalf of your law firm as a practice manager
+ for 
+instructions on inviting lawyers to 
+LawConnect 
+and managing pending members.
+ 

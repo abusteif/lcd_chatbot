@@ -1,0 +1,504 @@
+Appointment types are the kinds of appointments offered to clients by lawyers on LawConnect. The default types include phone calls and meetings at lawyer's offices and at court.   
+ 
+Appointment types clarify the appointment booking process for clients, who can see at a glance which appointment types are offered by each lawyer and law firm. The available types display in the 
+Select Appointment Type
+ pick list in the booking widget that displays in your firm profile and in each lawyer's profile. 
+ 
+Appointment types are set on a a firm-wide basis, typically by the practice manager, who assigns each type to individual lawyers. 
+ 
+You can use the default appointment types or create your custom types to suit your firm's precise requirements.
+ 
+In this article we cover how to access, manage, configure, assign and create new appointment types on behalf of your firm as a practice manager.
+ 
+ 
+ 
+Accessing firm appointment types
+To access your firm appointment types:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar, if necessary.
+2.  Select 
+Firm Appointment Types
+.
+ 
+ 
+Managing appointment types
+The 
+Firm appointment Types
+ area includes a table that lists current appointment types:
+Name
+: The name of the appointment type. 
+Type
+: The type of appointment, for example phone call or meeting. 
+Assigned Lawyers
+: The number of lawyers who have been assigned the appointment type. 
+Actions
+: Actions to edit, disable and delete each appointment type. 
+ 
+You can use the default appointment types, for example 
+Phone - 15 Mins
+ or 
+Meeting at Lawyer's Office
+, as they are, or as guidelines when creating new types. 
+ 
+ 
+ 
+Enabling and disabling appointment types
+The enable and disable actions allow you to switch appointment types on an off, without deleting them permanently. 
+ 
+Enabled appointment types display in the 
+Select Appointment Type
+ pick list in your firm and the individual lawyer profiles. When disabled, they are removed from this list and no longer available for selection by clients on LawConnect.
+ 
+Enabled appointment types display at the top of the 
+Firm Appointment Types
+ table in white table rows, and disabled types display below these types in grey rows. 
+ 
+You can edit and delete both disabled and enabled appointment types and your changes will be saved.  
+ 
+To enable or disable an appointment type:
+ 
+1.  Select the 
+Enable
+ or 
+Disable
+ action for an appointment type.
+ 
+2.  You will receive a notification that the type was successfully activated/deactivated.
+The action name for the appointment type changes to the opposite of what it was before selection. 
+ 
+ 
+ 
+Deleting appointment types
+Warning! The Delete action permanently deletes the appointment type and it cannot be restored. 
+ 
+To delete an appointment type:
+ 
+1.  Select 
+Delete 
+for the appointment type you want to delete.
+ 
+2.  Select 
+Yes
+ in the 
+Are you Sure?
+ dialog.  
+ 
+3.  You will receive a notification that the type has been deleted.
+ 
+On deletion, the appointment type is removed and no longer displays in the list.
+ 
+ 
+ 
+Sorting appointment types
+You can change the sort order of the appointment types in the table using drag & drop. Appointments display in 
+Select Appointment Type
+ pick list in your firm profile and the individual lawyer profiles in the same order as in the table. 
+ 
+To change the sort order of appointment types:
+ 
+1.  In the row you want to move, select the move icon (far left) and hold down your left mouse on a desktop or tap and hold it on a mobile device.
+Your pointer changes into a move icon when you do this. 
+ 
+2.  Drag the row to the new position.
+ 
+3.  Drop it by releasing your mouse or finger.
+ 
+ 
+ 
+Editing appointment types
+To edit an appointment type:
+ 
+1.  Select 
+Edit
+ for the appointment type you want to edit.
+ 
+2.  Change the information in any configuration section by adding new information or editing the current information.
+Each configuration section is dealt with in a separate section below.
+ 
+3.  Save.
+ 
+ 
+ 
+Adding appointment types
+Tip! There are many ways to organize your appointment types. For example, your can create a single type (15-minute phone call) and assign it to all lawyers, or an individualized appointment type for each  lawyer (Meeting at court with Joe J), or any combination of these. 
+ 
+To add a new appointment type:
+ 
+1.  Select 
+Add Appointment Type
+.
+ 
+2.  Select a type.
+Phone Calls
+ and 
+Meetings at Lawyer's Office
+/
+Client's Location
+ and 
+Court
+ are always available. Any additional available options depend on your device, operating system, and LawConnect integrations (see examples below).
+3.  Complete the fields in all configuration sections by adding new information or changing the default settings.
+Each configuration section is dealt with in a seperate section below.
+ 
+4.  Save.
+ 
+The available appointment types are rendered dynamically and depend on your set up. For example:
+FaceTime is available for MacOS users.
+Skype is available, if installed on your device.
+WhatsApp is available, if your mobile number is registered on the platform.
+Zoom is available, if your have 
+integrated Zoom and LawConnect
+. 
+ 
+ 
+Setting appointment type options
+Editing and adding appointment types involve the same configuration options. Many options are available that allow you to configure the appearance, behaviour, features, notifications and related actions of each type. 
+ 
+The configuration options are arranged in sections—
+APPOINTMENT INFORMATION
+,
+ ASSIGNED LAWYERS
+,
+ APPOINTMENT FORM
+,
+ APPOINTMENT FEE
+,
+ APPOINTMENT FEATURES
+ and
+ APPOINTMENT NOTIFICATIONS
+—that group similar and related settings together. 
+ 
+Select the 
+v
+ or 
+> 
+next to the section heading to expand and hide the options in each section.
+ 
+ 
+Default options
+When you add a new appointment type, defaults are set automatically to the most commonly-used setting for many configuration options. For example, all SMS and email notifications are automatically enabled, but you can disable them individually by deselecting the checkboxes. 
+ 
+Each configuration section is covered in the sections that follow. 
+ 
+ 
+ 
+Adding appointment information
+The 
+APPOINTMENT INFORMATION
+ section allows you to set the name, description and calendar padding for the appointment type.
+Appointment Name
+: Enter a name for the appointment type.
+The default is the name of the appointment type, for example 
+Phone Call
+, 
+Skype Call
+, 
+Meeting at Lawyer's Office
+ and so on. 
+Appointment Description
+:
+ 
+Enter a description for the appointment type.
+You can use this field for your own records. It does not display in the table or publicly anywhere.
+Gap Before
+:
+ 
+Select a time period in the pick list for the gap in your calendar before the appointment.
+The available range is 
+None
+ to 
+8 hours
+. This is the amount of time that the assigned lawyer will be unavailable for in their calendar prior to the appointment. This is to make allowance for meeting preparation or travel, for example. 
+Duration
+: Select a time period in the pick list to set the duration of the appointment. 
+The available range is 
+10 minutes
+ to 
+8 hours
+. The default times vary depending on the appointment type, for example for meetings the default is 
+1 hour
+ and for court appearances it is 
+4 hours
+.  
+Gap After
+: Select a time period in the pick list to set the gap after the appointment. 
+The available range is 
+None
+ to 
+8 hours
+. This is the amount of time the lawyer will be unavailable for in their calendar after the appointment, for example to travel back to the office. 
+No Earlier Than
+: Select a time period in the pick list to set the earliest available appointment time.
+The available range is 
+None
+ to 
+3 weeks
+. This is the minimum amount of time required between the client booking the appointment and the actual time of the appointment. The default times vary, depending on the appointment type. 
+No Later Than
+: Select a time period in the pick list to set the latest available appointment time.
+The available range is 
+1 week
+ to 
+90 day
+s. This is the maximum amount of time required between the client booking the appointment and the actual time of the appointment. The default times vary, depending on the appointment type. 
+When you save a new appointment type, it displays at the top of the table and is therefore also first in the pick list in the 
+Select Appointment Type
+ field in the firm and individual profiles. 
+ 
+This short clip demonstrates how appointment time gaps, duration and notice periods work. Note how availability in the calendar changes when switching appointment types. 
+The configuration options for the various appointment types are set at the defaults.
+ 
+Note! Most appointment types display in the 
+Select Appointment Type
+ field as soon as you assign them to one or more lawyers. The one exception is Skype appointments: this type only displays in the list after the individual lawyer's Skype username is provided. This can be added by you or by the individual lawyer. See 
+Limiting appointment availability for individual lawyers
+ below or 
+Managing your availability for appointment types as a lawyer
+ for more.
+ 
+ 
+ 
+Assigning appointment types to lawyers
+The  
+ASSIGNED LAWYERS
+ section allows you to assign the appointment type to one or more lawyers in your firm. 
+ 
+To assign an appointment types to lawyers :
+ 
+1  Select the checkbox next to each lawyer's name.
+ 
+2.  Save.
+ 
+In the 
+Firm Appointment Types
+ table:
+The number lawyers assigned the appointment type displays in the 
+Assigned Lawyers
+ column.
+The 
+Edit
+ action has a pick list that allows you to limit the availability for each lawyer for the appointment type. 
+See 
+Limiting appointment availability
+ 
+for individual lawyers
+ below for more.  
+When you assign an appointment type to one or more lawyers:
+The appointment type becomes available in the 
+Select Appointment Type
+ pick list in the firm profile and the profiles of the lawyer's assigned the type.  
+The lawyer's assigned the appointment type display in the firm profile when the appointment type is selected in the pick list. 
+Lawyer's who are NOT assigned the type are excluded when the type is selected in the list. 
+ 
+ 
+Limiting appointment availability for individual lawyers
+You can limit availability in the individual calendars of the lawyers in your firm using the individualized 
+Edit
+ actions that become available when appointment types are assigned. 
+ 
+This functionality allows you to offer phone call or meeting appointments, for example, only at specified times. 
+ 
+To limit the calendar availability for an individual lawyer:
+ 
+1.  Select 
+Edit > Edit for <
+Lawyer's Name
+>
+ for the appointment type. 
+ 
+2.  In 
+APPOINTMENT AVAILABILITY
+:
+Deselect any day checkbox to exclude the entire day.
+For selected (included) days, select a start and end time in the pick lists that the lawyer will be available for in their calendar for the appointment type.
+These are the time periods that will be included in the lawyer's availability.
+3.  Save.
+ 
+This function accesses the individual lawyer's calendar. Because appointment types are created and managed on a firm-wide level, all other configuration options for the appointment type are greyed out and inactive in this view. 
+The one exception is the 
+Skype Username
+ field, in which you should add the lawyer's Skype username to ensure that the appointment type displays in the 
+Select Appointment Type
+ pick list in the booking widget. 
+ 
+Individual lawyers can also perform this function in 
+My Dashboard > My Appointment Types
+. See 
+Managing your availability for appointment types as a lawyer
+ for more. 
+ 
+ 
+ 
+Assigning an appointment form
+The  
+APPOINTMENT FORM
+ section allows you to assign a form to an appointment type. 
+ 
+Note! An assigned appointment form IS REQUIRED for appointment type to function correctly. An appointment form is NOT assigned by default.
+ 
+Appointment forms are used to solicit the necessary information from clients. During the 
+booking process
+, clients enter and submit their details in a form. 
+ 
+LawConnect provides one pre-configured form—
+Default
+ form—that allows the client to enter their name, surname, mobile number, email address and a summary of their legal issue. This form is suitable for, and used by, all the default appointment types. 
+ 
+See 
+Adding and managing forms for your law firm as a practice manager
+ for more about how LawConnect forms work and how to create your own forms.
+ 
+To assign a form to an appointment type:
+ 
+1.
+ 
+In 
+APPOINTMENT FORM
+, select a form in the pick list. 
+ 
+2.  Save.
+ 
+ 
+ 
+Setting an appointment fee
+The 
+APPOINTMENT FEE
+ section allows you to set up prepayments for appointment types. 
+ 
+LawConnect offers two appointment payment options: 
+LawPay
+ (US and Canada) and 
+Stripe
+ (worldwide).
+ 
+Both options require integration with LawConnect. See the following articles for more about these organizations and how to integrate them: 
+Using LawPay for LawConnect Appointment Payments
+.
+Using Stripe for LawConnect Appointment Payments
+.
+ 
+Setting appointment features
+The  
+APPOINTMENT FEATURES
+ section allows you to set fine-grained appointment features for each appointment type.
+ 
+To set appointment features:
+1.  Select or deselect the checkbox for each option.
+ 
+2.  Save.
+ 
+Options:
+Publicly Displayed to Clients?
+: Select to display the appointment type in the 
+Select Appointment Type
+ pick list. .
+This option is enabled by default. When deselected, the appointment type it only available internally for 
+lawyers
+ or 
+practice managers
+ to book appointments 
+on behalf of 
+clients. 
+For Existing Clients Only?
+: Select to indicate to clients that the appointment type is only available if they are a previous client of the lawyer or law firm. 
+When enabled, the appointment type is marked 
+Existing Clients Only
+ and a confirmation checkbox (see screenshot below) is automatically added to the appointment booking form. The client cannot complete the booking process without checking the box to confirm that they are an existing client.
+Require Client Phone SMS Verification?
+: Select to require SMS verification before the appointment booking is finalized. 
+This option is enabled by default. The system sends a SMS verification code to the mobile number provided by the client. They are redirected to a verification form to enter the code before they can complete the booking. This mitigates against malicious or inaccurate client contact information. 
+Require Conflict Check?
+: Select to require prior confirmation of the appointment by the lawyer. 
+When enabled, a confirmatory checkbox (see screenshot below) is automatically added to the appointment booking form and the client cannot complete the booking process without with checking the box. The appointment is marked 
+Pending
+ until confirmed by the lawyer. 
+Offer Free First Appointment
+: Select to advertise an initial appointment for free.
+The appointment type is  marked 
+Free First Appointment
+ (see screenshot below). This is also offered as a search criteria in advanced searches on 
+LawConnect
+. See 
+Searching for a lawyer on LawConnect as a client
+ for more.
+ 
+Allow Client Reschedule?
+: Select to allow clients to reschedule the appointment after booking. 
+This option is enabled by default. When enabled, clients can reschedule the appointment in their 
+My Appointments
+ area. See 
+Managing lawyer appointments on LawConnect as a client
+ for more.
+Allow Post-Appointment Client Reviews?
+: Select to enable client reviews after the appointment.
+This option is enabled by default. Client reviews display in full in 
+lawyer profiles
+, and in the 
+law firm profile
+ header and individual lawyer teaser boxes. Lawyers with good reviews generally receive more bookings. When enabled, the client receives and email after the appointment asking them to review it. See 
+Managing lawyer appointments on LawConnect as a client
+ for more. 
+Redirect Client Post-Booking?
+: Select to redirect the client to an external web page after booking. When enabled, two additional fields display:
+ - 
+Post-Booking Redirection Link
+: The URL to which clients are sent after booking.
+ - 
+Post-Book Redirection Link Name
+: The name of the link. 
+This is a handy feature that you can use for a number of purposes. For example, you could redirect clients to a page that details the documentation they need to provide for a specific process. You can redirect to any web page, whether on your firm website or on a third-party site. 
+The 
+For Existing Clients Only?
+ and 
+Offer Free First Appointment?
+ feature options are highlighted in each lawyer's profile, when enabled.  
+These options are contradictory and this screenshot was created for demonstration purposes only.
+ 
+The 
+For Existing Clients Only?
+ and 
+Require Conflict Check?
+ feature options automatically each add relevant confirmatory checkboxes to the appointment form. 
+Clients cannot complete the booking process without confirming that they are an existing client or that they are aware the appointment is subject to a conflict check. 
+ 
+ 
+ 
+Setting appointment notifications
+The 
+APPOINTMENT NOTIFICATIONS
+ section allows you to set various email and SMS notifications for both lawyers and clients. 
+ 
+All notifications are enabled by default. The email address and mobile number in the 
+lawyer's
+ and 
+client's
+ LawConnect account are used for the notifications. 
+ 
+To set appointment notifications:
+1.  Select or deselect the checkbox for each option.
+ 
+2.  Save.
+ 
+Options:
+Lawyer SMS Confirmation
+: Select to send an SMS to the lawyer when 
+the client books an appointment
+.
+Lawyer Email Confirmation
+: Select to send an email to the lawyer when 
+the client books an appointment
+.
+Lawyer SMS Reminder
+: Select to send an SMS reminder to the lawyer prior to the appointment.
+Lawyer Email Reminder
+: Select to send an email reminder to the lawyer prior to the appointment.
+Client SMS Reminder
+: Select to send an SMS reminder to the client prior to the appointment.
+Client Email Reminder
+: Select to send an email reminder to the client prior to the appointment.
+Reminders (email and SMS) are sent:
+24 hours before the appointment, if the appointment is booked more than 24 hours in advance. 
+1 hour before the appointment, is the appointment is booked less that 24 hours in advance.
+ 

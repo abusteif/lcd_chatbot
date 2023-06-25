@@ -1,0 +1,64 @@
+As a lawyer, you can control your calendar availability for each appointment type assigned to you. For example, you can limit your availability for phone appointments to an hour on Monday mornings, and meetings with new clients to Friday's from 2 to 3 pm. 
+ 
+In LawConnect, appointment types are set up on a firm-wide level and then assigned to individual lawyers. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+In this article, we take you through the process of limiting your calendar availability for appointment types as a lawyer.
+ 
+Note! Practice managers can also set calendar availability on behalf of the lawyers in their firm. See the 
+Limiting appointment availability for individual lawyers
+ section of 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.
+ 
+ 
+ 
+Accessing your appointment types
+To access your appointment types:
+ 
+1.  Select 
+My Dashboard
+ in the top bar, if necessary.
+ 
+2.  Select the my appointment types icon.
+ 
+3.  Your 
+My Appointment Types
+ area opens.
+ 
+ 
+ 
+Setting your calendar availability for appointment types
+To set your calendar availability:
+ 
+1.  In 
+My Appointment Types
+, select 
+Edit
+ for an appointment type. 
+ 
+2.  In the 
+APPOINTMENT AVAILABILITY
+ section:
+Deselect any day checkbox to exclude the entire day.
+For selected (included) days, select a start and end time in the pick lists that you will be available for in your calendar for the appointment type.
+These are the time periods that will be included in your availability.
+3.  Save.
+ 
+All other configuration options for the appointment type are greyed out and inactive. These options are set on a firm-wide level in 
+Firm Dashboard > Firm Appointment Types
+. 
+The one exception is the 
+Skype Username
+ field, in which you should add your Skype username to ensure that the appointment type displays in the 
+Select Appointment Type
+ pick list in the booking widget. 
+ 
+Practice managers can also perform this function. See the 
+Limiting appointment availability for individual lawyers
+ section in 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.
+ 
+ 

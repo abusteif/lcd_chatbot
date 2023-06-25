@@ -1,0 +1,106 @@
+More than 150,000 legal professionals in the U.S. and Canada trust their payments to LawPay. LawConnect is an 
+Official LawPay Integration Partner
+.
+ 
+The LawConnect - LawPay integration makes it simple for lawyers to accept credit card and eCheck payments online for client bookings on LawConnect . 
+ 
+Learn more at 
+https://lawconnect.com/integrations/lawpay
+.
+ 
+In this article, we take you through the process of connecting and using LawPay on LawConnect.
+ 
+ 
+ 
+Requirements
+LawConnect subscription in the USA or Canada; and
+LawPay account.
+ 
+ 
+Connecting LawConnect to LawPay
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to LawPay:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LawPay
+, select 
+Connect to LawPay
+.
+Enter your LawPay login information and then select 
+Continue
+.
+Follow the instructions on the LawPay website to finalize the connection
+.
+LawPay redirects you to LawConnect, where the "Successfully connected to LawPay" notification displays. 
+ 
+ 
+Setting LawPay Accounts
+The LawConnect - LawPay integration supports card and ACH/eCheck payments.
+ 
+To set your bank account details for LawPay:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+LawPay
+, select your Card Deposit Account and/or eCheck Deposit Account.
+ 
+ 
+Setting fees for appointment types
+Each lawyer can set their own appointment fee for each 
+appointment type
+ that is assigned to them.
+ 
+To set appointment fees as a lawyer:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+My Appointment Types
+.
+Select 
+Edit
+ for an appointment type.
+Add your fee for the appointment in the 
+APPOINTMENT FEE
+ section.
+Repeat this procedure (step 4 and 5) for all appointment types. 
+Save.
+Note! Practice managers can set and update appointment fees for multiple lawyers in their firm using the 
+Edit as <Lawyer Name>
+ action in 
+Firm Dashboard > Firm Appointment Types
+. 
+ 
+ 
+ 
+Requesting client payment information
+Clients provide their payment information at different times, depending on who books the appointment. For appointments booked by:
+Lawyers
+ or 
+practice managers
+: The client receives an email and/or SMS notification requesting them to provide their payment information.
+Clients
+: For self-booking, the client is automatically prompted to enter their payment information as part of the booking process.
+ 
+Handling appointment changes
+This is how appointment changes are, or should be, handled: 
+Cancelled appointments
+:
+ 
+When an appointment is cancelled, the LawPay payment is automatically refunded in full. 
+Rescheduled appointments
+:
+ 
+When an appointment is rescheduled, LawConnect uses uses its best efforts to automatically transfer any existing payment or payment details to the new appointment.
+Appointment refunds
+: Partial or full refunds can be issued after the appointment in your LawPay Dashboard.

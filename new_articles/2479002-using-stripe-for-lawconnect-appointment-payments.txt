@@ -1,0 +1,110 @@
+Stripe is a leading payment processor used by millions of businesses in more than 40 
+countries
+ around the world. LawConnect is a 
+Stripe Verified Partner
+.
+ 
+The LawConnect Stripe connector allows law firms to receive secure credit card payments for client appointments that comply with regulations relating to legal trust accounting.
+ 
+In this article, we take you through the process of connecting and using Stripe on LawConnect. 
+ 
+ 
+Requirements
+LawConnect subscription; and
+Stripe account.
+If you do not have a Stripe account, you can one during the connection process. 
+ 
+ 
+How the LawConnect integration with Stripe works
+Payments for appointments are completely automated and require no manual intervention. This is the typical payment flow: 
+Client books appointment
+: LawConnect sets a time-limited 
+pre-authorisation
+ for the amount of the appointment fee on the client's credit or debit card.
+This pre-authorisation remains active until the scheduled end time of the appointment or until the appointment is cancelled. Pre-authorisation is also known as a "preauth" or "authorisation hold". 
+Client attends appointment
+: At the appointment end time, LawConnect automatically authorises the appointment fee from the client's card and transfers it to the bank account linked to your law firm's Stripe account, after deducting any LawTap appointment processing fee and Stripe card processing fee.
+The authorisation process is also known as "capture" or "settlement".
+If an appointment is cancelled before the scheduled appointment start time, the pre-authorisation is automatically cancelled and the fee becomes available to the client as soon as it is processed by their bank.
+ 
+Compliance with legal trust accounting regulations
+LawConnect's integration with Stripe was designed and developed to comply with the majority of legal trust accounting best practices and client accounting laws/regulations. It is compliant because:
+Payment card pre-authorisations do not fall within the definition of "trust money", as defined by relevant laws/regulations; and
+The appointment payment is only processed at the appointment end time (that is, after the lawyer has delivered the legal service to the client).
+If the lawyer or client cancels the appointment before the appointment time, a full "refund" (also know as a "reversal of the pre-authorisation") is processed automatically .
+ 
+ 
+Connecting LawConnect to Stripe
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to Stripe:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Stripe
+, select 
+Connect to Stripe
+.
+Enter your Stripe login information and then select 
+Continue
+.
+If you do not have a Stripe account, follow the instructions to create a free Stripe account. 
+Follow the instructions on the Stripe website to finalize the connection
+.
+Stripe redirects you to LawConnect, where the "Successfully connected to Stripe" notification displays. 
+ 
+ 
+Setting fees for appointment types
+Each lawyer can set their own appointment fee for each 
+appointment type
+ that is assigned to them.
+ 
+To set appointment fees as a lawyer:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar, if necessary.
+Select 
+My Appointment Types
+.
+Select 
+Edit
+ for an appointment type.
+Add your fee for the appointment in the 
+APPOINTMENT FEE
+ section.
+Repeat this procedure (step 4 and 5) for all appointment types. 
+Save.
+Note! Practice managers can set and update appointment fees for multiple lawyers in their firm using the 
+Edit as <Lawyer Name>
+ action in 
+Firm Dashboard > Firm Appointment Types
+. 
+ 
+ 
+ 
+Requesting client payment information
+Clients provide their payment information at different times, depending on who books the appointment. For appointments booked by:
+Lawyers
+ or 
+practice managers
+: The client receives an email and/or SMS notification requesting them to provide their payment information.
+Clients
+: For self-booking, the client is automatically prompted to enter their payment information as part of the booking process.
+Handling appointment changes
+This is how appointment changes are, or should be, handled: 
+Cancelled appointments
+:
+ 
+When an appointment is cancelled, the Stripe pre-authorisation is automatically cancelled. 
+LawConnect appointments can only be cancelled before the scheduled appointment start time. If the appointment did not take place through no fault of the client, your options are to reschedule the appointment or refund the fee.
+Rescheduled appointments
+:
+ 
+When an appointment is rescheduled, LawConnect uses uses its best efforts to automatically transfer any existing payment or payment details to the new appointment.
+Appointment refunds
+: Partial or full refunds can be issued after the appointment in your Stripe Dashboard.

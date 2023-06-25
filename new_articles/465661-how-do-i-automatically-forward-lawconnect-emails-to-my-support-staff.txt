@@ -1,0 +1,8 @@
+You can set up automatic forwarding and redirection of all LawTap emails (that is, emails from 
+support@lawconnect.com
+) by following the instructions for your email client:
+ 
+Microsoft Outlook - 
+Manage email messages by using rules
+Google Gmail - 
+Only forward certain kinds of messages

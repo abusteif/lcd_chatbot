@@ -1,0 +1,39 @@
+Lawyers and law firms can add a Facebook 
+Book Now
+ button to their Facebook business pages. This allows clients to access LawConnect appointment booking functionality directly from Facebook. LawConnect automatically generates the booking links for each lawyer and their law firm.
+ 
+In this article we cover how to add a booking button to a Facebook business page.
+ 
+ 
+ 
+Accessing your email booking button on LawConnect
+To access your booking links for Facebook:
+Select 
+Integrations
+ in the top bar.
+In 
+Facebook Page Appointments
+, copy the links to your lawyer and/or law firm profile. 
+ 
+Adding your booking button to Facebook
+ To add your LawConnect booking button to Facebook:
+Sign in to Facebook
+Open your Facebook business page.
+Select 
++ Add a Button
+ below the header on the right.
+Select 
+Book Now
+.
+Select 
+Link to website
+.
+Paste either of the links that you copied in the previous section and select 
+Save
+.
+Use the 
+Preview as Visitor
+ action to view and test the 
+Book Now
+ button.
+ 

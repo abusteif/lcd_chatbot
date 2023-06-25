@@ -1,0 +1,57 @@
+Lawyers can add a LawConnect booking button to their email signature appended to outgoing emails. This allows clients to access appointment booking functionality on LawConnect directly from emails received from their lawyer. LawConnect automatically generates a selection of booking buttons for each lawyer to choose from.
+ 
+In this article we cover how to add a booking button to Gmail in the browser-based email application. All email applications offer similar functionality and you can adapt these instructions to suit your circumstances. 
+ 
+ 
+Accessing your email booking button on LawConnect 
+LawConnect automatically generates the HTML code for a number of variations of your booking button. The code is available in the 
+Integrations
+ area. 
+ 
+To access your booking button as a lawyer:
+Select 
+Integrations
+ in the top bar.
+In LawConnect 
+Booking Button
+, select 
+Add Booking Button.
+ 
+Select your preferred button by selecting the circle to the left of it. 
+On selection, the HTML code updates in the code box.
+Select 
+Copy to Clipboard
+. 
+ 
+Adding your booking button to your email 
+All email applications allow you to add an email signature that can be appended to your emails. This is typically done in your email settings by entering text or HTML code in the provided editor. 
+ 
+The instructions below demonstrate the procedure in the browser-based Gmail application. 
+ 
+To add your booking button in an email signature in Gmail:
+Open your Gmail account (mail.gmail.com).
+Select the gear icon in the top right corner.
+Select 
+See all settings
+ to open the 
+Settings
+ detail page.
+Scroll to the 
+Signature
+ section and select 
+Create New
+.
+Provide a signature name and select 
+Create
+.
+Add your email signature text and then paste the HTML code your copied n the previous section.
+The button image displays immediately and you can mouse over the image to view the LawConnect link. 
+Define your 
+Signature Defaults
+.
+Gmail allows your to use a different signature on new and reply/forwarded email.
+Select 
+Save Changes
+ at the bottom of the page.
+Depending on your settings, the email signature (that includes the booking button) displays automatically when you compose a new email, and the image link opens your profile on LawConnect.
+ 

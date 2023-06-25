@@ -1,0 +1,70 @@
+Your LawConnect account is typically created during the booking process when you 
+book your first appointment
+ with a lawyer. However, if you prefer, or if your circumstances require, you can create a LawConnect account separately, that is, without booking an appointment.  
+ 
+In this article, we provide instructions on how to create a LawConnect following a process that does not include booking an appointment with a lawyer. 
+ 
+You can 
+search for a lawyer
+ and 
+book your first appointment on LawConnect
+ WITHOUT separately creating a LawTap account.
+ 
+ 
+ 
+How to create a LawConnect account
+You need access to your mobile and email address to complete this process.
+ 
+To create your LawConnect account:
+ 
+1.  Select 
+Sign Up
+ in the 
+Sign In
+ form.
+ 
+2.  Fill in your details and then select 
+Sign Up
+.
+All fields (except 
+Timezone
+) are required fields. You will not be able to submit the form unless you provide valid information.
+First
+ and 
+Last Name
+: Enter your name.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address.
+Password
+: Enter and confirm your password. 
+Timezone
+: Select a new time zone in the pick list, if necessary.
+When you select 
+Sign Up
+, a message advising that you need to verify your email address displays on the page. 
+ 
+3.  Open your Welcome email and select 
+Find a Lawyer
+.
+ 
+4.  Enter the confirmation code sent by SMS to your mobile number and select 
+Confirm
+.
+ 
+5.  Optionally, enter your address (location) in the fields provided, or select 
+Skip this Step
+, and then select 
+Save
+. 
+ 
+When you select 
+Save
+, you are automatically signed in to your LawTap account.
+ 
+6.  Your 
+My Appointments
+ area displays. 
+ 
+ 

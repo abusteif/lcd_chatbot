@@ -1,0 +1,108 @@
+As a lawyer, you can manage your clients accounts on LawConnect in your 
+My Clients
+ area. 
+ 
+In this article, we take you through the process of managing your client accounts, including how to access, search, edit, delete and download client information, as well as book client appointments in the 
+My Clients
+ area. 
+ 
+ 
+ 
+Accessing your client accounts
+To access your client accounts:
+ 
+1.  Select 
+My Dashboard
+ in the top bar, if necessary. 
+ 
+2.  Select 
+Manage Clients
+ (below your appointment table).
+ 
+Your 
+My Clients
+ area includes: 
+Search and download functions.
+A table listing all your clients that includes each client's name, date of last appointment, total number of appointments, as well as actions to book appointments, and edit and delete their account.
+ 
+ 
+Searching for client accounts
+To search for a client account:
+ 
+1.  Enter the client's name, email address or mobile number (or the first few letters of any) in the search box.
+ 
+2.  Select the search icon.
+ 
+3.  The table reloads to show only clients that match the search term. .
+ 
+ 
+ 
+Booking client appointments 
+To book an appointment for a client:
+ 
+1.  Select 
+Book
+.
+ 
+2.  Select an appoint type, and a date and time, in 
+Calendar Availability
+ or 
+Flexible Date/Time
+ mode.  
+ 
+Calendar Availability
+ displays your normal availability and 
+Flexible Date/Time
+ allows you to schedule appointments for specific times and durations, which can be outside of your standard office hours. See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more.
+ 
+ 
+ 
+Editing client details
+To edit a client's details:
+ 
+1.  Select 
+Edit
+.
+ 
+2.  Update or add any details in the form.
+ 
+3.  Optionally, select 
+Yes
+ in 
+Add Client Address?
+ to add the client's location. 
+When you select this option, additional fields for the client's address become available. 
+ 
+4.  Save.
+ 
+ 
+ 
+Deleting client accounts
+To delete a client account.
+ 
+1.  Select 
+Delete
+.
+ 
+2.  Select 
+Delete Client
+.
+ 
+Warning! Deleted client accounts cannot be recovered.
+ 
+ 
+ 
+Downloading client accounts
+You can download your client account details in a CSV (comma-separated values) file. 
+This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example.
+ 
+To download your appointments:
+ 
+1.  Select Download (below the table).
+2. The file downloads to your computer in CSV format.
+The file is named 
+<Your Name> - LawConnect Contacts.csv
+ 
+ 

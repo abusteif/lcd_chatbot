@@ -1,0 +1,107 @@
+LawConnect provides the functionality for practice managers to book client appointments on behalf of the lawyers in their law firm. This function allows direct access to the calendars of the individual lawyers. 
+ 
+You can book appointments for both new and existing clients. The bookings include all the features and notifications set for the 
+appointment type
+, for example reminder notifications, rescheduling and client reviews. 
+ 
+In this article we take you through the process of booking appointments for multiple lawyers in your firm on LawConnect.
+ 
+Client appointments can also be booked 
+directly by clients
+ and by 
+individual lawyers
+.
+ 
+ 
+ 
+How to book client appointments for the lawyers in your firm
+To book appointments on behalf of multiple lawyers in your firm:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar. 
+2.  Select 
+Book Appointment
+. 
+ 
+3.  Select an appointment type in the 
+Select Appointment Type
+ pick list.
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more about appointment types.
+ 
+4.  Select a date and time in any lawyer's calendar. 
+This view shows the normal availability in each lawyer's calendar. 
+ 
+5.  For 
+Meeting at Court
+ appointment types, select the relevant court in the 
+Court
+ pick list.
+6.  Optionally, select 
+Flexible Date/Time
+, and: 
+Select the 
+Date
+ field and then select a date in the popup calendar.
+Select a start and end time in the pick lists in the 
+Start Time
+ and 
+End Time
+ fields. 
+Both fields allow you to select times in 15-minute intervals over a 24-hour period.
+This option allows you to schedule appointments at times outside of the lawyer's normal office hours, for durations that are different from the 
+settings for the appointment type
+.
+ 
+7.  
+Client details
+: 
+New clients
+: Enter the client's first and last name, mobile number, email address and select a time zone, if necessary. 
+The 
+Client
+ field defaults to 
+-- New Client --
+ so you can ignore it for this option. 
+Existing clients
+: Enter the first few letters of the client's name or surname in the 
+Search
+ box and then select the client in the pick list. 
+As you enter content in the box, the pick list updates to offer more accurate matches. When you select the client in the list, their name, mobile number and email address automatically populate the corresponding fields. 
+Note! The list of clients includes clients previously booked on LawConnect and those booked through any integrated practice-management software, for example 
+Clio
+ or 
+LEAP
+.
+8.  Select 
+Continue
+.
+ 
+9.  Complete any 
+form fields
+ and then select 
+Book Appointment Now
+. 
+This example uses a default 
+appointment type
+, 
+Meeting as Lawyer's Office
+, to which the default 
+form
+ is assigned. Custom forms may include additional fields.
+ 
+10. Select 
+View Appointments
+ in the confirmation page to return to 
+Firm Dashboard
+. 
+ 
+11. Repeat this procedure (step 2 to 10) for every additional appointments you need to book. 
+ 
+See 
+Managing client appointments for the lawyers in your firm as a practice manager
+ for instructions on how to manage client appointments after your have booked them.
+ 
+ 

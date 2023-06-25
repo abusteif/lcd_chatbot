@@ -1,0 +1,35 @@
+One of the most common issues clients encounter during the booking process relates to their email address.
+ 
+In this article, we explain the cause of the issue and provide instructions on how to resolve email-related issues on LawConnect. 
+ 
+ 
+ 
+About the existing-email error
+If you attempt to book an appointment or create an account using an email address that is already registered in LawConnect , the system prevents you from proceeding. You receive an "
+Email is linked to an existing LawConnect account
+" error and cannot submit your information to complete your booking. 
+ 
+The existing account may have been created by you (perhaps during a previous booking that you cannot recall) or by a lawyer on your behalf.
+ 
+ 
+ 
+How to resolve email errors 
+To resolve an email error during the booking process:
+ 
+1.  Select 
+Sign In
+ in the booking form or in the top bar.
+ 
+2.  Either:
+Sign in to your account
+ directly, if you know your password.
+Follow the steps in the 
+Resetting your password
+ section of 
+Accessing your LawConnect account as a client
+ to create a new password.
+3.  Continue with your booking following the steps in 
+Booking a second or subsequent appointment on LawConnect as a client
+. 
+ 
+ 

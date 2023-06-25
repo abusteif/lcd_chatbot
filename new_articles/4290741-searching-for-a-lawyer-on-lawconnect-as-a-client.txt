@@ -1,0 +1,116 @@
+LawConnect search is powerful. You can find the right lawyer for your unique legal issue and personal circumstances. 
+ 
+LawConnect includes three distinct search functions:
+Basic
+: Search by location, areas of law and appointment type.
+Advanced
+: Drill down into basic search results using language, price and appointment features, as additional search criteria.. 
+Name
+: Search for a lawyer by their personal or law firm name.
+You can search for a lawyer without 
+creating a LawConnect account
+ or 
+signing in to LawConnect
+. 
+ 
+In this article, we explain how the LawConnect basic, advanced and name search functions work and take you through the process of finding your lawyer using each function. 
+ 
+ 
+ 
+Performing a basic search for lawyers on LawConnect 
+The basic search function is located at the top of the home page. You can access this page at any time by selecting the LawConnect logo in the header on the left. 
+ 
+The search boxes allow you to do a basic search, by combining three search criteria—location, areas of law and appointment type—to narrow your search results. 
+ 
+These criteria are optional. It is not necessary to use all the boxes—you can use only one, combine any two, or use all three. 
+ 
+Search is cumulative: only lawyers who satisfy ALL criteria are included.
+ 
+To perform a basic search:
+ 
+1.  Enter a geographic location by typing the first few letters of the place and then selecting it in the pick list. 
+As you enter text, the available options refine to provide more accurate potential matches
+. 
+This is powered by Google Maps and will return any registered place, including a specific street, shopping mall or building.  
+ 
+2.  Select an area of law in the pick list. 
+The list contains all areas or branches of law. Scroll through the list or use the search box to find what you are looking for. As you enter text in the box, the available options refine to display more accurate potential matches. 
+ 
+3.  Select an appointment type in the pick list. 
+Options include a phone call and a meeting at either the lawyer's or your location. Selecting 
+Meeting at My Location
+, for example, excludes all lawyers who do not offer this type of appointment. 
+ 
+4.  Select 
+Find
+.
+ 
+5.  A list of lawyers who meet your search criteria displays.
+ 
+ 
+ 
+Performing an advanced search for lawyers on LawConnect
+LawConnect 's advanced search function allows you to refine your basic search results by adding language, price and appointment feature as search criteria. 
+ 
+The advanced search options display above the basic search results. You can access these options at any time by selecting 
+Find a Lawyer
+ in the top bar.  
+ 
+The additional search criteria (and basic search criteria) are optional. It is not necessary to use all the boxes: you can combine any appropriate options and ignore those that are not applicable in your circumstances. 
+ 
+Search is cumulative: only lawyers who satisfy ALL criteria are included.
+ 
+To perform an advanced search:
+ 
+1.  Insert a location, area of law and appointment type, if necessary.
+These are the basic search criteria that are covered in the previous section. 
+ 
+2. Select one or more languages in the pick list. 
+You can use the search box to refine results. As you type, the options update to display more accurate potential matches
+.
+You can select multiple options by holding down the Ctrl/Command key and selecting options sequentially. To deselect, select the option a second time. 
+ 
+ 3.  Select an hourly-rate range. 
+This option allows you to tailor your search to your budget. 
+ 
+4. Select one or more appointment features:
+Free First Appointment
+: Includes only lawyers who offer an initial appointment for free.
+Fixed Cost
+: Include only lawyers who offer fixed-cost services, for example, a set fee for a consultation or a specific type of legal process.
+No Win, No Fee
+: Include only lawyers who charge only if your claim succeeds. 
+This type of arrangement is typically used in personal injury and similar compensation claims.
+Accepts Legal Aid
+: Include only lawyers who accept payment financed by legal aid. 
+5.  Select 
+Find
+.
+ 
+6.  A list of lawyers who meet your search criteria displays.
+ 
+ 
+ 
+Searching lawyers by name on LawConnect 
+The 
+Find a Lawyer by Name
+ search function allows you to find lawyers by their personal or law firm name.
+ 
+To find a lawyer by name:
+ 
+1.  Select the LawConnect logo in the top bar to open the home page.
+ 
+2.  Scroll to the bottom to locate the 
+Find a Lawyer by Name
+ search function. 
+ 
+3.  Type the lawyer's or law firm's name (or the first few letters of either).
+Possible matches for lawyers display in the first section and for law firms in the second section of the pick list.
+. 
+As you type, the options refine to show more accurate potential matches. 
+ 
+4.  Select an entry in the pick list. 
+ 
+5.  The profile of the selected lawyer or law firm opens. 
+ 
+ 

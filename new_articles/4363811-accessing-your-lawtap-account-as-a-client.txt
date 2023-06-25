@@ -1,0 +1,59 @@
+Accessing your LawConnect account allows you to enjoy the many features available to registered clients on LawConnect, for example 
+managing your appointments
+.
+ 
+In this article, we provide instructions on how to sign in to your LawConnect account, and how to reset your password, if necessary. 
+ 
+ 
+ 
+ 
+Signing in to LawConnect 
+To sign in to your LawConnect account:
+ 
+1.  Select 
+Sign In
+ in the top bar.
+2.  Enter your email address and password and then select 
+Sign In
+.
+Select 
+Remember me
+ to autofill these fields in the future. 
+ 
+ 
+Resetting your password
+The instructions in this section are helpful when you forget your password and cannot access LawConnect. 
+ 
+You can also reset your password when you are signed in to LawConnect. See 
+Changing your LawConnect account details as a client
+ for more. 
+ 
+To reset your password when signed out of LawConnect:
+ 
+1.  Select 
+Reset Password
+ in the 
+Sign In
+ form.
+ 
+2.  Enter your email address and select 
+Reset Password
+. 
+ 
+3.  A message advising you that a reset link will be sent to the email address you provided, if it is found in the system, displays. 
+ 
+4.  Select 
+Reset Password
+ in the email. 
+ 
+5.  Enter and repeat your new password, and then select 
+Save
+.
+ 
+See 
+Resolving email issues on LawConnect as a client
+ for more on how to use this procedure if you encounter email-related issues while 
+booking second and subsequent appointments on LawTap
+.
+ 
+ 

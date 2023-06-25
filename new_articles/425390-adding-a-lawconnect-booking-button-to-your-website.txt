@@ -1,0 +1,52 @@
+Lawyers can add a LawConnect booking button on their website. This allows your clients to access appointment booking functionality on LawConnect directly from a page of your site. LawConnect automatically generates a selection of booking buttons for each lawyer to choose from.
+ 
+In this article we cover how to add a booking button to your website and use WordPress to demonstrate.
+ 
+You can adapt these instructions for any website content management system or other website software. 
+ 
+ 
+Accessing your booking button on LawConnect
+LawConnect automatically generates the HTML code for a number of variations of your booking button. The code is available in the 
+Integrations
+ area. 
+ 
+To access your booking button as a lawyer:
+Select 
+Integrations
+ in the top bar.
+In LawConnect 
+Booking Button
+, select 
+Add Booking Button.
+ 
+Select your preferred button by selecting the circle to the left of it. 
+On selection, the HTML code updates in the code box.
+Select 
+Copy to Clipboard
+.
+ 
+Adding your booking button to your website
+You can add your booking button to any post or page, or other area of your site that allows you to add HTML code. 
+ 
+If possible, add your booking button to a sidebar or footer widget area, so that it displays on every post in your site. Whether, and how, you do this depends on your theme and plugins. 
+ 
+To keep things simple, the instructions below demonstrate how to add the button to a post.
+ 
+To add your booking button to a WordPress post:
+Add a new post, or open a current one.
+Add content as well, if you like. 
+ 
+In the kebab menu (three vertical dots in the top right hand corner), select 
+Editor > Code editor
+.
+This allows you to access the HTML (source) code of the page or post.
+Paste the code you copied in the previous section into the code editor.
+In the top bar, select 
+Preview > Preview in new tab
+ to preview the results.
+Save.
+ 
+Here is the selected booking button on a new post. When the client selects the button, your 
+lawyer profile
+ opens on LawConnect
+ 

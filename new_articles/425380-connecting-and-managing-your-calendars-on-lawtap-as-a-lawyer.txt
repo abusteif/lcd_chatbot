@@ -1,0 +1,68 @@
+An online calendar allows you to effectively manage your availability. You can avoid double bookings, maximise your real-time availability and deliver a great client experience.
+ 
+LawConnectsupports Microsoft Exchange/Outlook/Hotmail, Microsoft 365, Google Calendar/G Suite and Apple iCloud calendars, by default.
+ 
+Connecting your calendar is typically the last step of the process when 
+signing up for a LawConnect Lawyer account
+ or when 
+accepting an invitation to LawConnect as a lawyer
+.
+ 
+In this article, we take you through the process of connecting to one or more calendar applications after sign-up, and provide instructions on how to manage calendar connections. 
+ 
+Note! If you have not connected your calendar, LawConnect still allows you to book appointments for your assigned 
+appointment types
+, but this may result in double bookings and a poor client experience, as it is not possible to establish your availability in real time.  
+ 
+ 
+ 
+How to connect your calendar
+To connect LawConnect to your calendar:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Calendars
+, select 
+Manage Calendars
+.
+Select 
+Connect My Calendar
+.
+Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application.
+When requested, enter the details you would ordinarily use to login to your Office365/Google/Apple iCloud. For Microsoft Exchange/Outlook, use the same settings as you used to connect your email on your smartphone.
+Connecting your calendar allows LawConnect to create and delete calendar events, and read your availability in your calendar app.
+ 
+Connecting additional calendars
+To connect an additional calendar:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Calendars
+, select 
+Manage Calendars
+.
+Select 
+Connect Another Calendar
+. 
+Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application.
+When requested, enter the details you would ordinarily use to login to your Office365/Google/Apple iCloud.
+ 
+ 
+Managing your calendars
+All connected calendars display in the 
+Manage Calendars
+ area that provides tools and actions to manage your calendars.
+Refresh
+:  Select the refresh icon to manually retrieve your availability from your calendars.
+Primary Calendar
+: Select your primary calendar in the pick list. 
+This is calendar that is used in the event of an availability conflict.
+Delete
+: Select the X icon for any calendar to disconnect it from LawConnect and delete it from the list.
+ 

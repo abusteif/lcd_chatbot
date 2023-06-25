@@ -1,0 +1,83 @@
+Law firms can configure their Google My Business account to allow clients to book appointments directly from their Google My Business profile, which is displayed in Google Search results and Google Maps.
+ 
+Verified LawConnect appointment reviews are syndicated to Google automatically and display in your Google By Business profile to boost your firm's visibility. 
+ 
+In this article, we take you through the process of adding your LawConnect booking links (URLs) to your Google My Business account.
+ 
+ 
+ 
+Accessing direct booking links on LawConnect 
+URLs suitable for direct booking from your Google My Business profile are generated automatically and available in the 
+Integrations
+ area on LawConnect.
+ 
+To access your Google My Business Links:
+Select 
+Integrations
+ in the top bar. 
+In 
+Google Appointments
+, copy the URLs for your lawyer and/or law firm profile.
+Note! The links open the 
+lawyer's
+ and 
+law firm's
+ profile, which includes the booking widget. 
+ 
+ 
+ 
+Adding direct booking links in Google My Business
+Note! If you list multiple locations in your Google My Business Account, you need to open each location before adding your direct LawConnect booking links. See following section for how to do this.
+ 
+To add your links to Google My Business:
+Sign into your 
+Google My Business
+ account.
+Select 
+Info
+ in the left navigation menu.
+In 
+Appointment Links
+, select the pencil icon.
+Enter the lawyer or law firm URL you copied in the previous section and select 
+Apply
+.
+- To add additional URLs, select 
+Add Link
+ and enter the next URL in the new box that is activated. Repeat this procedure for each additional link. 
+- Select the star icon, to set a link as the 
+Preferred Link 
+(displays first in your profile).
+Note! Google reviews most changes to your Google My Business account and it can take up to 3 days for edits to be approved and display on the web. 
+ 
+Note! Google frequently changes their Google My Business user interface. These instructions are correct as at October 2020.
+ 
+ 
+ 
+Managing multiple locations in Google My Business
+If you have multiple locations listed in your Google My Business account, you need to open each location before adding your direct LawConnect appointment booking URLs. 
+ 
+To open a location in Google My Business: 
+Select 
+Manage Locations
+ in the left navigation menu.
+Select the checkbox next to the location you want to work with.
+Select 
+Open
+ in the Actions menu.
+See 
+Local Business Links
+ in Google My Business Help for more.
+ 
+ 
+ 
+Viewing LawConnect reviews in your Google My Business profile
+Verified reviews in LawConnect are now also automatically syndicated to Google for most law firms. Reviews display under the header (that is typically your name or law firm name) in star format, with a links to page containing the full reviews.
+ 
+Note! It may take up to four weeks for reviews to be syndicated and display in the Google Search results and Google Maps.
+ 
+See 
+Reviewing appointments
+ in 
+Managing lawyer appointments on LawConnect as a client
+ for more about LawConnect reviews. 

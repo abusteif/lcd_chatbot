@@ -1,0 +1,334 @@
+Your individual lawyer profile is your opportunity to showcase your legal expertise, qualifications and services on LawConnect. It is an important tool to attract new clients.
+ 
+Lawyer profiles display individually on their own page, which is typically opened when clients select the lawyer's name in a teaser box in your 
+firm profile
+ or on a 
+search results
+ page.
+ 
+In this article, we take you through the process of creating all sections of you lawyer profile and demonstrate how and where each element displays on LawConnect.
+ 
+ 
+ 
+Accessing your lawyer profile
+The content of your lawyer profile is stored in the 
+My Profile
+ area of 
+My Dashboard
+.
+ 
+To access your lawyer profile:
+ 
+1.  Select
+ My Dashboard
+ in the top bar.
+ 
+2.  Select
+ 
+the profile icon.
+ 
+ 
+ 
+ 
+Previewing your lawyer profile
+The 
+Preview Profile
+ action allows you to view your profile as it displays on the web. This is the version clients see in their browser on LawConnect.
+ 
+Use the 
+Preview Profile
+ action while completing your profile to make sure your changes display correctly.
+ 
+To preview your lawyer profile:
+ 
+1.  Select 
+Preview Profile
+.
+ 
+2.  The preview opens in a new browser tab or window, depending on your settings.
+ 
+You can switch between the 
+My Profile
+ browser tab and the preview tab to tweak your profile as you go. Remember to save in the 
+My Profile
+ area and refresh in the preview tab to ensure that the changes display.
+ 
+ 
+ 
+Adding and editing your lawyer profile content
+You can add or update content in the 
+My Profile
+ area at any time.
+ 
+The 
+My Profile
+ area is arranged in five tabs that group similar content  together—
+About You
+, 
+Your Location
+, 
+Your Practice
+, 
+Your Areas of Law
+ and 
+Your Services
+.
+ 
+While working in 
+My Profile
+, you can switch between tabs, without saving, and your changes will be preserved in the original tab.
+ 
+ 
+ 
+About You
+The 
+About You
+ tab contains your name, professional titles and photo.   
+Name
+: Enter or update your first and last name, if necessary.
+These fields are prefilled with the information you provided when 
+signing up to LawConnect
+.
+ 
+Legal Professional Status
+: Select your professional status from the options in the pick list. 
+Friendly Title
+: Select a secondary professional title, it applicable. 
+This option allows you to define your professional status more specifically, for example, Solicitor (professional status)—Notary Public or Principal Solicitor (secondary professional status).
+Profile Photo
+: Select 
+Upload Profile Photo
+ and upload a file from your device.
+For best results use a square image with a minimum resolution of 250 x 250 pixels. The system automatically resizes the image to display appropriately on different screen resolutions and devices.
+ 
+This is how the 
+About You
+ information displays in your profile.
+ 
+ 
+Your Location
+The 
+Your Location
+ tab displays the address you provided when 
+signing up to LawConnect
+, which is set as your primary location.
+ 
+The red location marker indicates your location on the integrated Google Map that has all the map functionality to which users are accustomed.
+ 
+To edit your primary location, enter new information and save. 
+When you save, the map updates automatically.
+ 
+ 
+Adding additional locations
+To add additional locations to your profile:
+ 
+1.  Select 
++
+ next to the 
+Primary
+ tab header.
+ 
+2.  Enter the address of your secondary location.
+ 
+3.  Repeat this procedure for any additional locations.
+You can have a total of 10 locations.
+ 
+4.  Save.
+When you save, the map updates automatically.
+ 
+Each address you add displays (in abbreviated form) in your profile header.
+ 
+In the 
+Find 
+section of your profile, each address displays in full as a link, which opens the location in Google Maps, where your clients have many options, for example finding routes, directions or transport options.   
+ 
+ 
+Deleting locations
+To delete a location:
+ 
+1.  Select 
+X
+ in the header of the tab your want to delete.
+ 
+2.  The tab and its content is deleted. 
+ 
+ 
+ 
+Your Practice
+The 
+Your Practice
+ tab allows you to describe your legal experience, expertise and services.    
+About
+: Enter a description about you, your practice and your expertise.
+This displays in the 
+About
+ section of your profile. 
+The text cannot exceed 1500 characters (approximately 300 words). If longer, you will receive an error and will not be able to save the information. You can resize the text area by dragging the dots at the bottom right of the field down or across. The 
+Your Areas of Law 
+and 
+Your Services
+ tabs (see below) allow you to add more specific, related information. 
+Languages Spoken
+: Select the languages in which you can communicate in the pick list.
+You can select multiple languages by clicking options in succession—no additional shortcut keys are required. This displays in the 
+About
+ section of your profile. Language is an important consideration for clients whose first language is not English and is offered as a search criteria for 
+advanced searches
+ on LawConnect. 
+Year First Admitted
+: Select the year you were admitted to practice in the pick list. 
+This is used to calculate your years of experience and your seniority within your law firm. Your year of admission and years of experience display in the 
+About
+ section of your profile. Seniority can be used as a criteria to determine the order in which individual lawyer profiles display in the 
+firm profile
+.  If admission is not applicable to you, for example for paralegals, select the year you started in your profession. 
+Linkedin Profile URL
+: Enter the URL to your Linkedin profile. 
+This displays as a link in the 
+About
+ section of your profile
+Hourly Rate
+: Enter your hourly rate or rate range. 
+This displays in the 
+Fees and Features
+ section of your profile. 
+Public Phone Number
+: Add a phone number on which clients may contact you directly. 
+This number displays publicly in the 
+Find 
+section of your profile. Clients can typically select the number to dial you directly on their mobile, for example. 
+Features
+: Check the boxes to select one or more features that apply to you and your practice. 
+The selected features display in your profile header and in the 
+Fees and Features
+ section of your profile. 
+- 
+Accredited Specialist
+: Select if you have received an accreditation as a specialist in your jurisdiction. 
+- 
+Offer Fixed Cost Services
+: Select if you offer certain services at a fixed price. 
+In the 
+Your Services
+ tab (see below) you can add the specific services that you offer and the price of each.
+- 
+Offer No Win No Fee
+: Select if you offer services for which you charge only if a claim or similar process succeeds. 
+- 
+Accept Legal Aid Clients
+: Select if you accept payment through legal aid or similar organizations.
+- 
+Offer Mobile Services
+: Select if you offer mobile legal services. 
+The 
+About 
+section of your profile displays the information in the following fields: 
+About 
+(with a 
+Read More
+ link, if necessary), 
+Languages Spoken
+, 
+Year First Admitted
+ (with your current number of years experience) and 
+Linkedin Profile URL
+ that opens you profile on Linkedin. 
+ 
+The 
+Fees and Features
+ section of your profile displays your hourly rate (or rate range) and a list of selected features.
+ 
+Your features also display in your profile header.
+ 
+ 
+ 
+Your Areas of Law
+The 
+Your Areas of Law
+ tab allows you to specify the legal areas you focus on and the extent to which you do. This information renders visually in a donut graph in your profile.
+ 
+Areas of Law
+ is one of the main search criteria that clients set when looking for a lawyer. See 
+Searching for a lawyer on LawConnect as a client
+ for more.  
+ 
+To add your areas of law:
+ 
+1.  Select 
+Add Area of Law
+.
+Area of Law
+: Select the legal area in the pick list.
+Percent
+: Enter the percentage effort/time you devote to this area of law. 
+Tip! Limit your areas of law to 5, at most. More than this tends to cause confusion, because clients find it hard to understand what you do.  
+2.  Repeat this procedure for each additional area of law.
+ 
+Select any red 
+X
+ to delete an area of law. 
+3.  Save.
+If the sum of the percentages does not equal 100% you will receive and error and not be able to save your information.
+ 
+This is how your areas of law display in the 
+About
+ section of your profile. 
+ 
+ 
+Your Services
+The 
+Your Services
+ tab allows you to set fixed prices and price ranges for specified services. 
+ 
+To add a fixed-price legal service:
+ 
+1.  Select 
+Add Legal Service
+. 
+Service
+: Select the service in the pick list. 
+Services are categorized by legal area for easy reference. If the service you are looking for is not available, select 
+Suggest Legal Service
+ to email a suggestion request to LawConnect.
+Fixed or From
+ and 
+To
+: Enter the fixed price or fixed-price range. 
+Service Notes
+: Optionally, enter a relevant note.
+This displays beneath the service heading in your profile. 
+2.  Repeat this procedure for every fixed-price service you want to add.
+3.  Save. 
+ 
+Fixed-price services display in the 
+Fixed Cost Legal Services
+ section of your profile. 
+ 
+ 
+ 
+Client reviews
+Client reviews, if any, display in your profile header and 
+Verified Client Reviews
+ section of your profile.  
+ 
+ 
+Whether the client review feature is available depends on the settings of the 
+appointment type
+. See 
+Managing lawyer appointments on LawConnect as a client
+ for more about how clients review appointments and 
+Managing your client appointments on LawConnect as a lawyer
+ for how to respond to reviews.
+ 
+ 
+ 
+Booking widget information
+The booking widget is added to your profile automatically. It includes the appointment types allocated to you by your firm and your availability in your calendar for each appointment type.
+ 
+See 
+Managing your availability for appointment types on LawConnect as a lawyer
+ for more about controlling your availability and 
+Adding and managing appointment types for your law firm as a practice manager
+ for more about how appointment types are allocated to lawyers. 
+ 
+ 

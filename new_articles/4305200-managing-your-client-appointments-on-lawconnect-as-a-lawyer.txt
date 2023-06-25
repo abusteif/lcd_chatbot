@@ -1,0 +1,323 @@
+LawConnect accumulates all appointments for each lawyer and displays them in their 
+My Dashboard
+ area. Appointments are updated in real time and you can see a comprehensive, up-to-date overview of your client appointments at any time. 
+ 
+Appointments in 
+My Dashboard
+ can originate from three sources:
+Appointments booked directly by your clients
+.
+Appointments booked by you for your clients
+.
+Appointments booked for your clients by your practice manager
+.  
+In this article, we take you through the process of managing your client appointments on LawConnect as a lawyer. The instructions include how to access, filter, search, sort, view, reschedule, cancel, delete, confirm and download appointments, as well as how to reply to client feedback about an appointment.
+ 
+Practice managers can execute all the actions mentioned in this article on behalf of the lawyers in their firm in the 
+Firm Dashboard
+ area. See 
+Managing client appointments for the lawyers in your firm as a practice manager
+ for more.
+ 
+ 
+ 
+Accessing your client appointments
+To access your client appointments, select 
+My Dashboard
+ in the top bar. 
+ 
+My Dashboard
+ displays by default when you 
+sign in to LawConnect
+.
+ 
+A summary of your appointments for the last 30 days displays above the filtering and search options, and the table below lists all your appointments. For each appointment, you can view:
+ID
+: The LawConnect appointment ID number. 
+Status
+: The appointment status. 
+Appointments are marked 
+Past
+, 
+Future
+, 
+Now 
+or 
+Cancelled
+, and can additionally be marked as 
+Pending
+ and 
+No Show
+, depending on the circumstances.  
+Date
+: The date and time of the appointment. 
+Appointment
+: The 
+appointment type
+. 
+Client
+: The name of the client. 
+Actions
+: Actions that can be executed for the appointment. 
+The actions available for each appointment depend on a number of factors, including when the table is viewed (past or future), the 
+settings for the appointment type
+ (for example, If rescheduling or reviews are enabled), and whether and when the appointment took place. Each action is covered separately in the sections that follow. 
+ 
+ 
+ 
+Filtering, sorting and searching appointments
+The filtering, searching and sorting functions in 
+My Dashboard
+ make it easier to manage your appointments:
+Filtering
+: Allows you to filter client appointments by 
+appointment type
+.
+Searching
+: Allows you to search for appointments by client name. 
+Sorting
+:  Allows you to sort client appointments by date. 
+To filter your appointments:
+1.  Select an appointment type in the pick list.
+ 
+2. The table reloads automatically to display only the selected appointment type.
+ 
+ 
+To search for appointments:
+1.  Enter a client's name or surname (or the first few letters of either) in the search box.
+ 
+ 
+2.  Select the search icon.
+ 
+3.  The table reloads to show only results that match the search term.
+ 
+ 
+To sort appointments by date:
+ 
+1.  Select the up or down arrow is the 
+Date
+ column.
+ 
+2.  The table reloads to display appointments in date order (latest first) or reverse date (latest last) order.
+After the reload the arrow switches to the opposite of what is was previously.
+ 
+ 
+ 
+Viewing appointments
+The 
+View
+ action allows you to view the full appointment details. 
+ 
+If applicable, additional actions, for example 
+Confirm
+, may be available when you view the details. 
+ 
+To view an appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Full details of the appointment display: 
+Summary
+: A summary that includes the status, type, and date and time of the appointment, as well as links to view the location (if applicable) on Google Maps, and to email and call the client directly. 
+Exactly how emailing and calling works depends on the setup on your device. For example, the client name link typically automatically opens the dial pad (with the client's number) on your mobile device, and the email link opens your default email application. Note on a PC, direct emailing only works with applications like Outlook, and not web-based email accounts like Gmail. 
+Appointment Form
+: The information entered on the appointment form when the appointment was booked. 
+For the default 
+appointment types
+, like phone calls and meetings at your offices, this is a summary of the legal issue, but appointment types that use custom 
+forms
+ may have additional information.    
+Client review
+: A review left by the client. 
+Only applies to past appointments for which your client has left a review. See
+ 
+Managing lawyer appointments on LawConnect as a client
+ for more. 
+Actions
+: Actions available for the appointment. 
+ 
+ 
+Confirming pending appointments
+If an 
+appointment type
+ requires a prior conflict check, you need to confirm 
+appointments booked directly by clients
+, before the appointment is finalized. The unconfirmed appointment is marked 
+Pending
+ until you do so. 
+ 
+The conflict check requirement is set in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+ 
+To confirm a pending appointment:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Confirm
+ in the appointment detail page. 
+ 
+ 3.  Select 
+Confirm Appointment
+ 
+4.  A notification displays advising that the appointment is confirmed.
+ 
+Your client will receive a notification of the appointment confirmation by email and SMS
+. 
+ 
+ 
+ 
+Rescheduling appointments
+You can reschedule any appointment before the scheduled time. 
+ 
+Clients can also reschedule appointments, if this option is enabled in the appointment type configuration. See 
+Adding and managing appointment types for your law firm as a practice manager
+ and 
+Managing your lawyer appointments on LawConnect as a client
+ for more. 
+ 
+To reschedule an appointment: 
+ 
+1.  Select 
+Reschedule
+ in the 
+Actions
+ column.
+ 
+ 2.  Select a new appointment date and time in your calendar in 
+Calendar Availability
+ or 
+Flexible Date/Time
+ mode.
+ 
+Calendar Availability
+ displays your normal availability and 
+Flexible Date/Time
+ allows you to schedule appointments for specific times and durations, which can be outside of your standard office hours. See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+Your client will receive an email and SMS notifying them of the rescheduled appointment. Any 
+reminder notifications
+ (email and SMS) set for the appointment type will also be sent automatically for the new date and time. 
+ 
+ 
+ 
+Cancelling appointments
+You can cancel any scheduled appointment. 
+ 
+To cancel an appointment: 
+ 
+1.  Select 
+Cancel 
+in the 
+Actions
+ column.
+ 
+2.  Select a reason and then select 
+Cancel Appointment
+. 
+Selecting 
+Other
+ activates a text box that allows you to enter a more specific reason.
+ 
+3.  The appointment is marked 
+Cancelled
+.
+ 
+Your 
+client is automatically advised of the cancellation by email and SMS.
+ 
+ 
+ 
+Labelling appointments as No Show
+If a client fails to attend an appointment, you can record this by marking the appointment 
+No Show
+.
+ 
+To record a client's failure to show up for an appointment:
+ 
+1.  Select 
+No Show
+ in the 
+Actions
+ column.
+ 
+2.  Select 
+Yes
+ in the 
+Are you sure?
+ dialog.
+ 
+3.  The appointment is marked 
+No Show
+.
+ 
+If you fail to attend a scheduled appointment, the client can mark the appointment 
+No Contact
+. See 
+Managing your lawyer appointments on LawConnect as a client
+ for more.
+ 
+LawConnect monitors 
+No Show
+ and 
+No Contact
+ appointments and takes appropriate action where necessary.
+ 
+ 
+Replying to client feedback
+You can reply to a client's review about a past appointment.
+ 
+To reply to client feedback:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  In the 
+Review
+ section, select 
+Reply
+.
+ 
+3.  Enter your reply and select 
+Continue
+.
+ 
+4.  You will receive confirmation that the reply has been added successfully. 
+Your reply is not subject to review by LawConnect and displays immediately in the 
+Verified Client Reviews
+ section of your profile.
+ 
+Client reviews are subject to prior review by LawConnect and only display on your profile after approval. See 
+Managing lawyer appointments on LawConnect as a client
+ for more.  
+ 
+ 
+ 
+Downloading appointments
+You can download all your appointments in a CSV (comma-separated values) file. 
+This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example. 
+ 
+To download your appointments:
+ 
+1.  Select 
+Download
+ (below the table).
+2.  The file downloads to your computer in CSV format. 
+The file is named 
+<Your Name> - LawConnect Appointments.csv
+ 
+ 

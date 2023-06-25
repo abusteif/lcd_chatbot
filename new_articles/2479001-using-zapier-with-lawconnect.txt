@@ -1,0 +1,22 @@
+ 
+The LawConnect Zapier connector facilitates seamless integration between the LawConnect and Zapier. Once connected, you can connect LawConnect to other popular apps, like MailChimp, Google Docs, Hubspot, Campaign Monitor and more.  
+ 
+In this article, we cover how to connect LawConnect to Zapier. 
+ 
+ 
+ 
+Connecting LawConnect to Zapier
+To connect LawConnect to Zapier:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Zapier
+, select 
+Connect to Zapier
+.
+Login to Zapier.
+You can use you Zapier email and password, or login using your Google, Facebook or Microsoft credentials, or create a new Zapier account.
+Follow the instructions on Zapier.

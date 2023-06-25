@@ -1,0 +1,60 @@
+LawConnect can be configured to send appointment-reminder notifications to clients by either, or both, email and SMS. 
+ 
+In this article we provide an explanation of how, why and when appointment reminders are sent, as well as instructions on how to disable them, if you prefer. 
+ 
+ 
+ 
+About appointment reminders
+Each lawyer or law firm optionally enables (or disables) either, or both, email and SMS appoint reminders for each appointment type. This means that whether you receive notifications, and the type you receive (email and/or SMS), is not directly within your control. 
+ 
+Most calendar applications also offer appointment reminders that you can enable (and disable) in the application settings. These notifications, together with LawConnect notifications, can result in you receiving reminders from more than one source about the same appointment. 
+ 
+You can easily disable LawConnect notifications. See the 
+Disabling appointment reminders
+ section
+ 
+below for instructions. 
+ 
+ 
+ 
+When will you receive notifications?
+If enabled, LawConnect sends both email and SMS reminders at the same time. They are sent:
+24 hours before your appointment, if the appointment was booked more than 24 hours before the scheduled time, or 
+1 hour before your appointment, if the appointment was booked less than 24 hours before the scheduled time. 
+For example, if you book an appointment for 2 hours from now, you will receive notifications in 1 hour, and if you book for 2 days from now, you will receive them 1 day (24 hours) from now.
+ 
+ 
+ 
+Disabling reminder notifications
+You need to disable appointment reminders on an appointment-for-appointment basis, that is, for each appointment you book. Disabling for a phone call appointment type, does NOT automatically disable reminders for a consultation with the same lawyer, or a phone call with a different lawyer, for example.   
+ 
+You can disable notifications via email or SMS. Either method disables BOTH notification types. 
+ 
+Warning! Once disabled, reminder notifications cannot be re-enabled.
+ 
+ 
+To disable appointment-reminders notifications via email::
+ 
+1.  Open the confirmation email you received after booking the appointment.
+2.  Select 
+Stop Appointment Reminders 
+(at the bottom).
+ 
+3.  
+Sign in to your LawConnect account
+, if necessary.
+ 
+4.  A notification advising that appointment notifications are disabled displays.
+ 
+To disable appointment-reminder notifications via SMS.
+ 
+1.  Open the confirmation SMS you received after booking the appointment.
+2.  Scroll to 
+Stop Reminders 
+(at the bottom) and select the LawConnect link.
+ 
+3.  Enter the SMS verification code sent to your mobile number in a separate SMS.
+ 
+4.  A notification advising that appointment notifications are disabled displays.
+ 
+ 

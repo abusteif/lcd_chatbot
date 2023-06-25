@@ -1,0 +1,77 @@
+Each lawyer or other legal professional in a law firm has their own LawConnect account. These individual accounts are managed within a single 
+LawConnect Lawyer account registered to the law firm
+. Typically, the practice manager creates the main account and then invites each lawyer to sign up for LawConnect.  
+ 
+In this article, we provide instructions on how to accept a LawConnect invitation and sign up for a LawConnect account as a lawyer.
+ 
+All individual legal professionals have a dedicated area in LawConnect —
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and 
+appointments
+. Each professional signs in to LawTap with their own credentials (email address and password), which they set during the sign-up process (instructions below).
+ 
+For an overview of LawConnect Lawyer accounts and instructions on how to create one on behalf of your law firm see 
+Signing up for a LawConnect Lawyer account as a practice manager
+ and 
+Inviting lawyers to LawTap on behalf of your law firm as a practice manager
+.
+ 
+ 
+ 
+How to sign up for LawConnect as a lawyer
+You will need access to your email and mobile during this process.
+ 
+To sign up for LawConnect as a lawyer:
+ 
+1.  Select 
+Accept Invitation
+ in your invitation email. 
+The subject line of this email is 
+<Practice Manager Name> invited you to <Law Firm Name> on LawConnect
+.
+ 
+2.  Enter your personal LawConnect account details and select 
+Sign Up
+: 
+Name
+: Enter your first and last name. 
+Legal Professional Status
+: Select an option in the pick list.
+Mobile
+: Enter your mobile number.
+Email
+: Enter your email address. 
+Password
+: Enter and repeat your password. 
+Timezone
+: Select another option in the pick list, if necessary. 
+3.  Select 
+Complete Sign Up
+ In your Welcome email to confirm you email address.
+ 
+4.  Enter the SMS verification code sent by SMS to your mobile number and select 
+Confirm
+.
+ 
+5.  Enter your work address.
+This is typically the address of your law firm.
+ 
+6.  Select 
+Connect My Calendar
+.
+ 
+7.  Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application. 
+This allows LawConnect to create and delete calendar events, and read your availability in your calendar app. 
+ 
+8. 
+My Dashboard
+ opens.
+This is your lawyer dashboard in which you can manage your 
+lawyer profile
+ and 
+appointments
+. 
+ 
+ 

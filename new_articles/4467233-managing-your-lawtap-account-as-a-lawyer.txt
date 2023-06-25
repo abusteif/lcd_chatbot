@@ -1,0 +1,164 @@
+You created your LawConnect account during the sign-up process when you accepted your law firm's invitation to LawConnect. See 
+Accepting an invitation to sign up for LawConnect as a lawyer
+ for more. 
+ 
+The details you provided during the sign-up process are stored in your LawConnect account. You can edit all your personal details in the 
+Account
+ area of LawConnect.
+ 
+In this article, we take you through the process of signing in and out of LawConnect, accessing your LawConnect 
+Account
+ area, changing your email address, mobile number, timezone and password, and resetting your password when signed out of LawConnect. 
+ 
+ 
+ 
+Signing in to LawConnect
+To sign in to LawConnect:
+ 
+1.  Open 
+https://lawconnect.com
+ and select 
+Sign In
+ in the top bar.
+LawConnect 
+may automatically redirect to the 
+LawConnect 
+URL for your region, for example 
+https://lawconnect.com/uk/
+ 
+2.  Enter your email address and password, and select 
+Sign In
+.
+Select 
+Remember me
+ to autofill these fields in the future. 
+ 
+3.  Your 
+My Dashboard
+ area opens.
+ 
+Signing out of LawConnect
+To sign out of LawConnect:
+ 
+1.  Select the sign out icon in the top bar.
+ 
+ 2.  You are signed out of LawConnect.
+When you sign out, the 
+Sign In
+ link displays in the top bar. 
+ 
+ 
+ 
+ 
+Accessing your LawConnect account
+To access your LawConnect account:
+ 
+1.  Select the settings icon in the top bar. 
+ 
+2.  Your 
+Account
+ area opens.
+ 
+In the 
+Account Settings
+ section, you can change your personal details by selecting the corresponding edit (pencil) icon. This activates new fields and options that differ, depending on the field you are in. 
+ 
+ 
+ 
+Changing your email address
+To change your email address:
+ 
+1.  Select the pencil icon in the 
+Email
+ field.
+ 
+2.  Enter your new email address and select 
+Submit
+.
+Your old email is filled in automatically.
+ 
+3. Select 
+Update Email
+ in the email sent to your new email address to confirm it.
+ 
+ 
+ 
+Changing your mobile number
+To change your mobile number:
+ 
+1.  Select the pencil icon in the
+ Mobile 
+field.
+ 
+2.  Enter your new mobile number and select 
+Submit
+.
+Your old mobile is filled in automatically.
+ 
+3. Enter the confirmation code sent by SMS to your new mobile and select 
+Confirm
+.
+ 
+ 
+ 
+Changing your timezone
+Your timezone is important because it is used to display accurate appointment times and to send 
+appointment reminders
+.
+ 
+To change your timezone:
+ 
+1.  Select the pencil icon in the 
+Timezone
+ field.
+ 
+2.  Select a new timezone in the pick list and save. 
+ 
+ 
+ 
+ 
+Changing your password
+To change your password:
+ 
+1.  Select the pencil icon in the 
+Password
+ field.
+ 
+2.  Enter your current password, and then enter and repeat your new password.
+ 
+3.  Select 
+Save
+.
+ 
+ 
+ 
+ 
+Resetting your password when signed out of LawConnect
+The instructions in this section are helpful when you forget your password and cannot access 
+LawConnect
+. 
+ 
+ 
+To reset your password when signed out of LawConnect:
+ 
+1.  Select 
+Reset Password
+ in the 
+Sign In
+ form.
+ 
+2.  Enter your email address and select 
+Reset Password
+. 
+ 
+3.  A message displays advising your that a reset link will be emailed to you, if the email address you provided is found in the system. 
+ 
+4.  Select 
+Reset Password
+ in the email. 
+ 
+5.  Enter and repeat your new password, and select 
+Save
+.
+ 
+ 

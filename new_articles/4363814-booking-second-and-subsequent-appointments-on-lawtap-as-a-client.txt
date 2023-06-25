@@ -1,0 +1,52 @@
+When you book a second or subsequent appointment on LawConnect, the booking process is streamlined. This is because your LawConnect account was created when 
+booking your first appointment
+. You use this account (and login credentials) for all appointments, regardless of whether they are with your original lawyer or another lawyer.
+ 
+In this article, we take you through the process of booking second and subsequent appointments on LawConnect. 
+ 
+Like 
+first appointments
+, the exact booking process depends on the requirements set by each lawyer. The instructions in the following section cover the most likely scenario, but you may encounter variations. 
+ 
+ 
+ 
+How to book a second or subsequent appointment on LawConnect 
+To book a second (or subsequent) appointment:
+ 
+1.  
+Sign in to your LawConnect account
+. 
+ 
+2.  In 
+My Appointments
+, open the lawyer's profile: 
+For a previous lawyer, select their name in the 
+Professional
+ column.
+For a new lawyer, select 
+Find a Lawyer
+ (in the top bar), 
+search for a lawyer
+, and then select the lawyer's name in the white teaser box in the search results. 
+3.  Select the appointment type in the pick list and then select a suitable date and time in their calendar. 
+ 
+4.  Enter a brief summary of your reasons for booking the appointment, select the checkbox to confirm you are an existing client (if necessary), and then select 
+Continue
+.  
+ 
+You may also need to confirm that you are aware that the appointment is subject to confirmation by the lawyer before selecting 
+Continue
+.
+ 
+Note! The name, mobile number and email address fields do not display in the booking form, because you are signed in to LawConnect. If you are not, select 
+Sign In
+ (at the top of the form) to do this first. If you enter an email address that is already registered in LawConnect in the booking form, the system will not allow you to proceed. See 
+Resolving email issues on LawTap as a client
+ for more.  
+ 
+5. An notification confirming your appointment displays (unless the appointment is subject to confirmation).
+ 
+If your appointment requires confirmation, a notification advising that your request is pending review displays.
+ 
+ 
+ 

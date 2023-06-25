@@ -1,0 +1,74 @@
+60,000 legal professionals across the USA and Canada trust  
+Time Matters
+ legal practice management software. LawConnect is an Official Time Matters Integration Partner.
+ 
+Learn more at 
+https://lawconnect.com/integrations/time-matters
+.
+ 
+ 
+ 
+Requirements
+LawConnect subscription in USA or Canada;
+Time Matters access with an active annual maintenance plan (AMP); and
+The latest version 
+of the Time Matters Go manager app.
+ 
+ 
+Connecting LawConnect to Time Matters
+Note! This is a one-time process that needs to be completed 
+for each lawyer in the law firm
+.
+ 
+To connect LawConnect to Time Matters:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Time Matters
+, select 
+Connect to Time Matters
+.
+Enter the email and password associated with your Time Matters account and then select 
+Submit
+. 
+Note! If you use Time Matters Go, these are the same credentials. If you are unsure, please contact Time Matters Support.
+You will be returned to LawConnect, where the "Successfully connected to Time Matters" notification displays.
+ 
+ 
+Disconnecting LawConnect from Time Matters
+To disconnect LawConnect from Time Matters:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Time Matters
+, select 
+Disconnect
+.
+ 
+ 
+Known limitations and workarounds of the Time Matters integration (Beta)
+LawConnect cannot synchronize (read or write) contacts between LawConnect and Time Matters. 
+Workaround
+: No workaround is available at this time.
+LawConnect does not know the timezone for each event made available in the Time Matters API. 
+Workaround
+: LawConnect assumes the timezone used is the same as that set for the lawyer in their LawConnect account in 
+Account > Account Settings > Timezone
+.  
+LawConnect only checks for availability changes in Time Matters every two (2) hours and only for 500 events in advance. This means that double bookings are possible if the 
+APPOINTMENT INFORMATION >
+ 
+No Earlier Than
+ field for the 
+appointment type
+ in LawConnect is set to less than 2 hours AND the lawyer updates Time Matters with a conflicting event in the upcoming 2 hours. 
+Workaround
+: If this scenario is likely, set the 
+No Earlier Than
+ field to 2 hours or more, to mitigate the risk of double booking. 

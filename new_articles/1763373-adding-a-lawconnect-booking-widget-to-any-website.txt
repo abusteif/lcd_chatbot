@@ -1,0 +1,109 @@
+You can add a LawConnect booking widget to any website. The widget allows clients to book LawConnect appointments directly on your website. The entire booking process takes place on your site.
+ 
+LawConnect provides the widget code for your lawyer profile and your law firm profile. 
+ 
+In this article we cover how to add a booking widget to a website and use WordPress to demonstrate. 
+ 
+You can adapt these instructions for any website content management system or other website software. All you need is access to the HTML source code. 
+ 
+ 
+ 
+Accessing your widget code on LawConnect 
+LawConnect automatically generates the HTML widget code for your lawyer profile and law firm profile. The code is available in the 
+Integrations
+ area. 
+ 
+To access your widget code:
+Select 
+Integrations
+ in the top bar.
+In 
+LawConnect Booking Widget
+, select either:
+- 
+Add Booking Widget for <
+Lawyer Name
+>
+.
+- 
+Add Booking Widget for <
+Law Firm Name
+>.
+Select 
+Copy to Clipboard
+. 
+ 
+Adding your booking widget to your website 
+The booking widget code is in HTML In simple terms, it imports a JavaScript file that adds in an iFrame and defines a few parameter, like your details and the widget size and colour. 
+See 
+Customising your booking widget
+ below for instructions how to modify certain aspects of the widget.  
+ 
+The instructions below demonstrate the procedure in WordPress (version 5.5.1), but you should be able to adapt them for most website software applications. 
+ 
+To add your booking widget to WordPress:
+Add a new page or post, or open a current one.
+You can also add introductory text, if you like.
+In the kebab menu (three vertical dots in the top right hand corner), select 
+Editor > Code editor
+.
+This allows you to access the HTML (source) code of the page or post.
+Paste the code you copied in the previous section into the code editor.
+In the top bar, select 
+Preview > Preview in new tab
+ to preview the results. 
+Save.
+ 
+ 
+Customising your booking widget
+This is example code for a widget for a single lawyer's profile. 
+ 
+<!-- LawTap Lawyer Booking Widget start. See the LawTap Help Portal for further information: https://help.lawtap.com/en/articles/1763373 -->
+<div class="lawtap-widget" data-country="UK" data-mode="lawyer" data-key="rachael-smith" data-width="800px" data-height="600px" data-theme="darkblue"></div>
+<script type="text/javascript" src="https://cdn.lawtap.com/widget.js"></script>
+<!-- LawTap Lawyer Widget end -->
+ 
+The code for the law firm widget is very similar and the same principles and instructions (below) apply.
+ 
+Here is the default widget in a post in WordPress.
+ 
+If you are comfortable doing so, you can tweak the code in the code editor to ensure that it renders and displays as you would like it to. 
+ 
+We recommend that you only change the size and theme and leave the rest of the code as is.
+ 
+To change basic parameters: 
+data-width="800px": Change 
+800
+ to a smaller or larger pixel size. 
+ 
+data-height="600px": Change 
+600
+ to a smaller or larger pixel size. 
+ 
+This parameter is sometimes disregarded. 
+data-theme="darkblue": You can change 
+darkblue
+ to 
+grey
+, 
+lightblue
+, 
+green
+ and 
+black
+. 
+Note! Parameter values cannot contain spaces.
+If these options are not sufficient, you can fully customize the colour scheme:
+Set a custom primary colour using the 
+hex value
+ of the colour. 
+For example, data-theme="AA0114" (dark red). 
+You can also set a secondary colour and different font as follow using the data-theme-settings sub-parameters
+For example, 
+data-theme="ff0000" data-theme-settings="secondary_color:#ff00ff | font:open-sans".
+ 
+Here is the lawyer booking widget in the 
+lightblue
+ data-theme, resized to a width of 400 pixels.
+ 
+ 

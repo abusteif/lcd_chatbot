@@ -1,0 +1,95 @@
+Microsoft Teams is a business leader in online/video meetings and is used daily by 75+ million users. Teams is included with all Microsoft 365 Business Plans and LawConnect is a Microsoft Partner.
+ 
+The LawConnect Microsoft Teams (MT) connecter automates booking Microsoft Teams video appointments on LawConnect from start to finish. LawConnect automatically generates unique Microsoft Teams meeting details for each appointment.
+ 
+In this article, we take you through the process of using Microsoft Teams in LawConnect and provide instructions on how to connect to Teams, add 
+Microsoft Teams Video
+ appointment types, book 
+Microsoft Teams Video
+ appointments and disconnect from Microsoft Teams.
+ 
+To learn more about the benefits of connecting LawConnect to Microsoft Teams, see  
+https://lawconnect.com/integrations/microsoft-teams
+.
+ 
+ 
+Requirements
+LawConnect Lawyer account; and
+Microsoft Office 365 Business or Enterprise subscription with Microsoft Teams enabled.
+Note! Each lawyer needs their own Microsoft Teams account.
+ 
+ 
+Connecting LawConnect to Microsoft Teams Video
+Note! This is a one-time process that needs to be done by, or on behalf of, each lawyer in the firm. Microsoft Teams accounts cannot be shared by multiple lawyers!
+ 
+To connect LawConnect to Microsoft Teams:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Microsoft Teams Video
+, select 
+Connect to Microsoft Teams
+.
+Follow the instructions on the Microsoft website to finalize the connection.
+You will be returned to LawConnect, where the "Successfully connected to Microsoft Teams" notification displays.
+ 
+ 
+Adding Microsoft Teams Video appointment types
+After you have connected LawConnect to Microsoft Teams, the 
+Microsoft Teams Video
+ appointment type is automatically available for selection as 
+appointment type
+..
+ 
+Microsoft Teams Video
+ appointments are created in the same way as any other appointment type
+.
+ 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for full instructions on how to add new appointment types.
+ 
+Note
+! 
+The 
+Microsoft Teams Video
+ 
+appointment type will only display in the 
+Select Appointment Type
+ pick list in the 
+firm
+ and individual 
+lawyer
+ profiles after the lawyer has connected 
+LawConnect 
+to their personal Microsoft Teams account.
+ 
+ 
+ 
+ 
+Booking Microsoft Teams Video appointments
+Microsoft Teams Video
+ appointments are booked in exactly the same way as other appointment types. See these articles for full instructions on how different personas book appointments on LawConnect:
+Booking your first appointment on LawConnect as a client
+.
+Booking appointments for your clients on LawConnect as a lawyer
+.
+Booking client appointments for lawyers in your firm as a practice manager
+.
+ 
+ 
+Disconnecting LawConnect and Microsoft Teams
+To disconnect LawConnect from Microsoft Teams:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Microsoft Teams Video
+, select 
+Disconnect
+.

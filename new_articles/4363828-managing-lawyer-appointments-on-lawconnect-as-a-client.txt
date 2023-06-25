@@ -1,0 +1,185 @@
+My Appointments
+ is your dedicated area in LawConnect to manage all your appointments with lawyers. 
+ 
+There are individual actions for each appointment that allow you to view, cancel, reschedule, review appointments and more. 
+ 
+In this article we provide instructions on how to manage your appointments and demonstrate how to use each action. 
+ 
+ 
+ 
+Accessing My Appointments
+Your 
+My Appointments
+ area opens when you 
+sign in to LawConnect
+. You can access it at any time by selecting 
+My Appointments
+ in the top bar. 
+ 
+My Appointments
+ displays a summary of your appointments with lawyers on LawConnect in a table. The ID, status, date and time, appointment type and lawyer's name are included for each appointment, as well as actions that allow you to perform available tasks.
+The actions available for each appointment vary, depending on the appointment type and date (and time) of the appointment. Future appointments all have a 
+Cancel
+ action, and many, but not all, past appointments have a 
+Review
+ action. The features for each appointment type are set by individual lawyers and firms. 
+ 
+Each appointment confirmation email, as well as all email and SMS notifications, contain links to execute the same actions that are available in 
+My Appointments
+.
+ 
+ 
+ 
+ 
+Sorting appointments
+You can sort your appointments by date using the controls in the 
+Date
+ column header. 
+ 
+To sort appointments by date:
+ 
+1.  Select the up or down arrow is the 
+Date
+ column header.
+ 
+2.  The table reloads to display appointments in date order (latest first)  or reverse date order (latest last).
+After reload, the arrow switches to the opposite of what is was previously.
+ 
+ 
+ 
+Viewing appointment details
+To view appointment details:
+ 
+1.  Select 
+View
+ in the 
+Actions
+ column.
+ 
+2.  Full details of the appointment display: 
+Summary
+: A summary of the status, type and date and time, as well as direct links to the appointment location, lawyer's profile and lawyer's email address. 
+How the direct links work depends on the setup on your device. The location link typically opens Google Maps in a browser or mobile application. The email link opens an email (addressed to the lawyer) in the email application configured on your device. Direct emailing only works on a PC with applications like Outlook, not browser-based email accounts, like Gmail and Yahoo. 
+Appointment Form
+: The information you entered on the appointment form. 
+Client review
+: Your review of the appointment, if any.
+This section 
+o
+nly displays for past appointments for which you have let a review. See the 
+Reviewing appointments
+ section below for more. 
+Actions
+: Actions available for the appointment. 
+ 
+ 
+Rescheduling appointments
+Many lawyers allow you to reschedule a booked appointment before the time. 
+ 
+To reschedule an appointment:
+ 
+1.  Select 
+Reschedule
+ in the 
+Actions
+ column.
+ 
+2.  Select a new appointment date and time in the lawyer's calendar.
+ 
+Any 
+appointment reminders
+ (email and SMS) set for the appointment type are sent automatically for the rescheduled date and time.
+ 
+ 
+ 
+Cancelling appointments
+You can cancel any booked appointment before the scheduled time.
+ 
+To cancel an appointment:
+ 
+1.  Select 
+Cancel 
+in the 
+Actions
+ column.
+ 
+2.  Select a reason and then select 
+Cancel Appointment
+.
+Selecting 
+Other
+ activates a text box that allows you to enter a more specific reason.
+ 
+3. The appointment is marked as cancelled.
+ 
+ 
+ 
+Labelling appointments as No Contact
+If the lawyer fails to attend an appointment, you can mark it as 
+No Contact
+.
+ 
+To mark an appointment 
+No Contact
+:
+ 
+1.  Select 
+No Contact?
+ in the 
+Actions
+ column.
+ 
+2. The appointment is marked 
+No Contact
+.
+ 
+If you fail to attend a scheduled appointment, the lawyer can mark the appointment 
+No Show
+. LawConnect monitors 
+No Show
+ and 
+No Contact
+ appointments and takes appropriate action when necessary.
+ 
+ 
+ 
+Reviewing appointments
+You can rate your lawyer and provide feedback about your appointment, if the lawyer has enabled this option.  
+ 
+You will also receive an email with a link to review your appointment, if reviews are enabled
+. 
+ 
+Ratings are moderated and only display publicly on LawConnect after review. Please be polite and keep it professional. Lawyers can reply to client reviews.  
+ 
+Ratings display in the lawyer's profile and lawyer's who receive 5-star ratings may be featured on the home page.
+ 
+To review an appointment:
+ 
+1.  Select 
+Review
+.
+ 
+2.  Complete the options:
+Trustworthy
+: Select the star that represents your  rating for trustworthiness. 
+Client Service
+: Select the star that represents your rating for client service.
+You only need to select the highest star, for example, the last star for a 5-star rating and the middle star of a 3-star rating.
+Review
+: Enter a review.
+3.  Save. 
+ 
+ 
+ 
+Downloading appointments
+You can download all your appointments is a CSV (comma-separated values) file. This is useful when you want to transfer data to another system or work with it in a spreadsheet application like Microsoft Excel, for example.
+ 
+To download your appointments:
+ 
+1. Select Download (below the table).
+2. The file downloads to your system in CSV format.
+The file is named 
+<Your Name> - LawConnect Appointments.csv
+.
+ 
+ 

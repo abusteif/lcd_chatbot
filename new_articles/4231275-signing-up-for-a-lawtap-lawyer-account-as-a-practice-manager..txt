@@ -1,0 +1,129 @@
+Signing up for an LawConnect Lawyer account is the first step to listing your law firm on LawConnect. 
+ 
+Each law firm has a single LawConnect lawyer account to which it can 
+invite
+ as many lawyers and legal professionals as are necessary. 
+ 
+In this article, we explain the nature of LawConnect Lawyer accounts and provide instructions on how to sign up for LawConnect on behalf of your firm.
+ 
+How LawConnect Lawyer accounts work 
+LawConnect Lawyer accounts are designed to accommodate law firms of all sizes—from sole practitioners to huge firms with 100s of lawyers. 
+ 
+On LawConnect, each law firm has a single account and the sign-up process typically includes the following flows:
+ 
+1.  The practice manager signs up for a LawConnect Lawyer account (instructions below).
+ 
+2.  The practice manager 
+invites
+ the lawyers and other members of the firm to join the LawConnect Lawyer account.  
+ 
+3.  Individual lawyers 
+accept their invitation and sign up
+ for their own account, which is linked to, and managed through, the main LawConnect Lawyer account. 
+ 
+All individual legal professionals have a dedicated area in 
+LawConnect 
+—
+My Dashboard
+—in which they can manage their 
+lawyer profile
+ and 
+appointments
+. Each professional signs in to LawConnect with their own credentials (email address and password), which they set during their 
+sign-up process
+. 
+ 
+Lawyers who are NOT also practice managers, only need to follow the instructions for step 3 in 
+Accepting an invitation to sign up for LawConnect as a lawyer
+. Sole practitioners, who are typically both managers and lawyers, will usually need to only follow the instructions below in this article, and can ignore steps 2 and 3 above.
+ 
+ 
+ 
+How to sign up for a LawConnect Lawyer account
+Note! You need access to your email and mobile phone during this process.
+ 
+To sign up for a LawConnect Lawyer account:
+ 
+1.  Select 
+Grow Your Law Firm
+ in the top bar on any LawConnect page. 
+ 
+2.  Select 
+Join LawConnect Now
+.
+3.  Select a pricing plan and then select 
+Join Now
+. 
+You will be able to change this selection later (step 9), if necessary.
+ 
+4.  Enter your personal details and then select 
+Sign Up
+: 
+Name
+: Enter your first and last name. 
+Legal Professional Status
+: Select an option in the pick list.
+Mobile
+: Enter your mobile phone number.
+Email
+: Enter your email address. 
+Password
+: Enter and repeat your password. 
+Timezone
+: Select another option in the pick list, if necessary. 
+ 
+5.  Select 
+Complete Sign Up
+ In your Welcome email to confirm you email address.
+ 
+6.  Enter the SMS verification code that is sent to your mobile number and then select 
+Confirm
+.
+ 
+7.  Enter the address of your law firm.
+If you have multiple locations, enter the address of your main office. You can add additional locations later when you 
+create your firm profile
+. 
+ 
+8.  Enter your law firm details and then select 
+Save
+.
+These details display in your 
+law firm profile
+. You can update the description later, if you do not have one prepared. See 
+Creating your law firm profile as a practice manager
+ for more.
+Name
+: Enter the name of your law firm.
+Description
+: Enter a description of your law firm.
+Office phone
+: Enter your office phone number. 
+9.  Select 
+Select
+ to confirm the subscription type you selected in step 3 above and move to the payment stage. If you have a promo code, enter it and select 
+Apply
+ (to deduct any discount from the price) before you select 
+Select
+. 
+ 
+10.  Enter your card details and select 
+Pay Now
+.
+ 
+11.  Select 
+Connect My Calendar
+.
+ 
+12.  Select your calendar application and then follow the automated prompts to authorize and securely connect your calendar application. 
+This allows LawConnect to create and delete calendar events, and read your availability in your calendar app. 
+ 
+13. 
+My Dashboard
+ opens.
+This is your lawyer dashboard. You can access the firm dashboard by selecting 
+Firm Dashboard
+ in the top bar. 
+ 
+ 
+ 

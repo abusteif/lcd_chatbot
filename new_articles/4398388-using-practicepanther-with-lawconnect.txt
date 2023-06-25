@@ -1,0 +1,136 @@
+Over 100,000 legal professionals in 170 countries trust 
+PracticePanther
+ legal practice management software.
+ 
+The LawConnect PracticePanther connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+PracticePanther contacts become available in LawConnect. 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their PracticePanther contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current PracticePanther clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to new or existing PracticePanther 
+Matters
+.
+This allows law firms to automatically generate time-entry 
+Events
+ in PracticePanther for 
+LawConnect 
+appointments. These are used to automatically bill clients in PracticePanther.
+Learn more at 
+https://lawconnect.com/integrations/practicepanther
+ 
+ 
+ 
+Requirements
+LawConnect subscription in CA or US.
+Business or higher PracticePanther subscription
+.
+ 
+ 
+Connecting LawConnect to PracticePanther
+Note! This is a one-time process.
+ 
+To connect LawConnect to PracticePanther:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+PracticePanther
+, select 
+Connect to PracticePanther
+.
+Enter your PracticePanther login information and then select 
+Login
+. 
+Select 
+Grant access 
+in the confirmation screen
+.
+This gives 
+LawConnect 
+necessary (but limited) access to your PracticePanther data. 
+PracticePanther redirects you to LawConnect, where the "Successfully connected to PracticePanther" notification displays.
+ 
+ 
+Syncing contacts in PracticePanther and LawConnect
+Contacts are synced automatically in both LawConnect and PracticePanther and there is no need to take any manual action in this regard. Specifically:
+New LawConnect appointment contacts are created as a PracticePanther contact (if the contact does not already exist in PracticePanther). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with PracticePanther every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other. 
+ 
+ 
+ 
+Booking an appointment on LawConnect for a PracticePanther contact
+To book an appointment for an existing PracticePanther contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the existing PracticePanther contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more. 
+ 
+ 
+Sending LawConnect appointments to PracticePanther
+Lawyers can link all LawConnect client appointments (past and future) to PracticePanther 
+Matters
+ from 
+My Dashboard
+ in LawConnect. 
+ 
+To link a LawConnect appointment to a PracticePanther 
+Matter
+: 
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to PracticePanther 
+action for an appointment.
+In 
+Link to Matter
+, create a new or select an existing PracticePanther 
+Matter
+ to link to, and then select 
+Send to PracticePanther
+.
+The appointment is automatically created as an PracticePanther 
+Event
+ for the selected PracticePanther 
+Matter
+. After the appointment, a time entry is listed automatically in the lawyer's PracticePanther 
+Timesheet
+.
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+Disconnecting LawConnect from PracticePanther
+To disconnect LawConnect from PracticePanther:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+PracticePanther
+, select 
+Disconnect
+.

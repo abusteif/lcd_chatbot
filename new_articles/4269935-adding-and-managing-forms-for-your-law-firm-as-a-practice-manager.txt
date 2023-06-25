@@ -1,0 +1,319 @@
+Forms facilitate client bookings on LawConnect. When a 
+client books an appointment
+, they furnish their information by entering their details in a form that they then submit.  
+ 
+All 
+appointment types
+ need to be assigned a form to function correctly. LawConnect provides a default form that allows entry of basic information and is suitable for most appointment types. 
+ 
+In this article we explain how forms work in LawConnect, and provide instructions on how to create new forms and manage current forms in LawConnect as a practice manager. 
+ 
+ 
+ 
+Understanding Default form
+LawConnect provides one form—named 
+Default form
+—that is suitable for most basic appointment types. It allows the client to enter their first and last name, mobile number, email address and a summary of their legal issue. 
+ 
+Default form
+ is assigned to all default appointment types. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more.
+ 
+ 
+ 
+How LawConnect forms work
+Forms are typically made up of one or more form fields and a submission button. Form behavior, and what happens to the information after submission, can be complex. LawConnect takes care of this complexity, while still allowing you to create complex forms.  
+ 
+The basic fields required to create a LawConnect account—first and last name, email address and mobile number—are included in all forms automatically. These fields either display or are hidden, depending on whether the user is signed in or signed out of LawConnect. 
+ 
+These screenshots compare 
+Default form
+ when a user is signed out (left) and signed in (right). 
+ 
+To configure a custom form, it is only necessary to edit or replace the last text (legal summary) field, and add additional fields. LawConnect takes care of the rest automatically. See 
+Adding forms
+ below for more. 
+ 
+ 
+ 
+Accessing forms
+Forms are available in your 
+Firm Dashboard
+. 
+ 
+To access forms:
+ 
+1.  Select 
+Firm Dashboard
+ in the top bar, if necessary.
+ 
+2.  Select 
+Firm Appointment Types
+.
+3.  Select 
+Manage Forms
+.
+ 
+ 
+ 
+Managing forms
+The 
+Manage Forms
+ area Includes the 
+Add Appointment Form
+ action (to add new forms) and a table listing all current forms that includes:
+Form
+:  The form name. 
+Form Fields
+: The names of each field in the form.
+Linked Appointment Types
+: Links to the appointment types that use the form. 
+See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more. 
+Actions
+: 
+Edit
+ and 
+Delete
+ actions for each form.
+ 
+ 
+Editing forms
+To edit a form:
+ 
+ 1.  Select 
+Edit
+.
+2.  Edit any element of the form.
+See sections
+ 
+below for more.
+3.  Save. 
+ 
+ 
+ 
+Deleting forms
+ To delete a form:
+ 
+ 1.  Select 
+Delete
+.
+ 
+ 2.  Select 
+Yes
+ in the 
+Are you sure?
+ dialog. 
+Warning! Deleted forms cannot be recovered!
+ 
+ 
+ 
+Adding forms
+To create a new form:
+ 
+1.  Select 
+Add Appointment Form
+.
+ 
+2.
+ 
+Enter a form name.
+This name displays in the pick list in the 
+Appointment Form
+ field that allows you to assign the form to an appointment type. See 
+Adding and managing appointment types for your law firm as a practice manager
+ for more
+3.  Add fields:
+     3.1  Enter a field name, select a field type, and optionally check 
+Required?
+, and add      a tooltip and placeholder.
+ 
+These elements are covered in separate sections below.
+     3.2  Select 
+Add New Field
+.
+     3.3  Repeat this procedure for as many fields as you need.
+ 
+4. Save.
+ 
+ 
+ 
+Adding field names
+To add a field name, enter it in 
+Field Name
+ field.
+ 
+This is a required field. You will not be able to save the form without providing a valid field name. The maximum length is 250 characters You can use any alphanumeric or special character, as well as blank spaces. 
+The field name typically displays above the field. The one exception is the Checkbox field that displays the field name next to the box.
+See the 
+Adding field tooltips
+ section below for an example. 
+ 
+ 
+ 
+Selecting a field type
+To select a field type, select an option in the pick list in the 
+Field Type
+ field.
+This  is a required field. You will not be able to save the form without making a selection. 
+Text (One-Line)
+: A single-line text field in which the user can enter one line of text. 
+Use for shorter text input, for example names of people and cities.
+Text (Multi-Line)
+: A multi-line text field in which the user can enter multiple lines of text. 
+The user can drag the bottom right corner of the text box either down or right to expand the text area.
+Note to Client (Multi-line)
+: An note in static text that provides more information to the client. 
+This field cannot be edited in the form by the client. See the 
+Using Note to Client fields
+ section below for more. 
+Checkbox
+: A selection box for Yes/No type questions. 
+See the 
+Adding field tooltips
+ section 
+below for an example. 
+Pick List
+: A dropdown list of options in which the user can select a single option. 
+See the 
+Adding Pick List field options
+ section below for instructions on how to add options. 
+Field Type
+ itself is an example of a 
+Pick List
+ field.
+This screenshot compares one-line and multi-line (bottom) text fields.
+Note the diagonal dots in the bottom right of the multi-line text box that the user can drag to expand the field. 
+ 
+ 
+ 
+Setting a field as required
+To set a field as required, select the 
+Required?
+ checkbox. 
+The 
+Required?
+ field itself is an example of the 
+Checkbox
+ field type.
+ 
+When a field is set as required, if the user fails to provide valid content they receive an error on form submission and cannot complete their booking.
+ 
+ 
+ 
+Adding field tooltips
+To add a field tooltip, enter it in the 
+Field Tooltip
+ field.
+This is an optional field. Use it to provide additional information about the field and your requirements. 
+ 
+With one exception, the tooltip text displays when the user hovers over the field name. For checkboxes, it displays below the field name.
+ 
+This screenshot shows a tooltip in a single-line text field in the form.
+ 
+This screenshot shows a tooltip next to a checkbox field in the form. 
+The tooltip is "Select the checkbox to confirm......." text. 
+ 
+ 
+ 
+Adding a field placeholder
+To add a field placeholder, enter it in the 
+Field Placeholder
+ field.
+This is an optional field that is only available for text fields (one-line and multi-line). You can use it to prompt the user or clarify the field, for example.
+ 
+The placeholder text displays in the field and disappears as soon as the user starts typing. 
+ 
+ 
+ 
+Adding Pick List field options
+Pick List
+ fields have an additional configuration step: You need to add each option that you want to display in the pick list. 
+ 
+The other options—
+Field Name
+, 
+Required?
+ and 
+Field Tooltip
+—are used in exactly the same way as other field types.
+ 
+To add 
+Pick List
+ options:
+ 
+1.  Select 
+Pick List
+ in the 
+Field Type
+ field.
+ 
+2.  Select 
+Add Option
+:
+ 
+3.  Enter the text for the first option.
+ 
+4.  Repeat this procedure (steps 2 and 3) for each additional option you require.  
+Select 
+X
+ to delete an option. 
+ 
+Here is the pick list field in a form. 
+ 
+ 
+ 
+Using Note to Client fields
+Note to Client
+ fields are handy when you need to provide additional information. The text is static (the user cannot edit or change it). 
+ 
+To add a 
+Note to Client
+ field:
+ 
+1.  Select 
+Note to Client (Multi-Line)
+ in the 
+Field Type
+ field.
+ 
+2.  Enter your note in the 
+Your Note to Client
+ field
+ 
+The other options—
+Field Name
+, 
+Required?
+ and 
+Field Tooltip
+— are used in exactly the same way as for other field types.
+ 
+Here is the field in a form. 
+This note to client field integrates with the checkbox field that follows it. 
+ 
+ 
+ 
+Managing form fields
+The 
+Add/Edit Appointment Form
+ UI provides a number of actions to manage your form fields.
+Expand/Hide
+: Select 
+>
+ or 
+v 
+to display and hide the content for each form field.
+Delete
+: Select 
+X
+ to delete a form field. 
+Reorder
+: Select 
+↓
+ to move a form field down one position and 
+↑ 
+to move it up one position.
+ 

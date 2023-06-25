@@ -1,0 +1,217 @@
+More than 150,000 legal professionals in 90 countries trust 
+Clio
+ legal practice management software to manage their law firms. LawConnect is an 
+Official Clio Integration Partner
+.
+ 
+The LawConnect Clio connector facilitates seamless integration between the two systems. The main benefits of the integration are:
+Clio contacts become available in LawConnect. 
+- 
+This allows lawyers to 
+book appointments on LawConnect
+ for their Clio contacts, with all the associated 
+benefits and features
+, for example email and SMS reminders and payment options. 
+- 
+Current Clio clients can 
+book appointments directly on LawConnect
+ and lawyers can 
+attract new clients on the LawConnect directory
+.
+LawConnect appointments can be linked to existing Clio Matters.
+This allows law firms to automatically generate 
+Activities
+ in Clio for LawConnect appointments. These are used to automatically bill clients .
+Lawyers can choose to connect to a Clio calendar or to a third-party calendar to eliminate double booking.  
+Learn more at 
+https://lawconnect.com/integrations/clio
+ 
+ 
+ 
+Requirements
+LawConnect subscription.
+A Clio Manage subscription.
+ 
+ 
+Connecting LawConnect to Clio
+Note! This is a one-time connection that only needs to be done once for all lawyers in your firm.
+ 
+To connect LawConnect to Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Connect to Clio
+.
+Enter your Clio login information and then select 
+Sign in
+. 
+Select 
+Allow Access 
+in the Clio access confirmation screen
+.
+This gives LawConnect necessary (but limited) access to your Clio System.
+Clio redirects you to LawConnect, where the "Successfully connected to Actionstep" notification displays.
+ 
+ 
+Connecting LawConnect to your calendar/s
+Note! These connections must be done by, or on behalf of, all lawyers in your law firm. In other words, each lawyer needs to connect to one or more of their own calendars.
+ 
+LawConnect is flexible: you can connect to third-party online calendars, like Google or Outlook, or to one (or more) Clio calendars.
+ 
+Your calendar is used to:
+Set your 
+availability
+ for LawConnect 
+appointment types
+.
+Schedule new appointments, 
+booked by you
+ (as a lawyer) for Clio contacts, and those booked by Clio contacts and 
+new clients directly on LawConnect
+. 
+Connecting LawConnect to third-party calendars
+You can connect LawConnect to a number of online third-party calendars, including Microsoft Exchange/Outlook, Office365, Google, Apple iCloud or Outlook.com/Hotmail. 
+ 
+See 
+How do I connect my calendar to LawConnect?
+ for instructions on how to do this. 
+ 
+ 
+Connecting LawConnect to Clio Calendars
+To connect LawConnect to your Clio calendar/s:
+Sign In to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Manage Calendars
+.
+In 
+Primary Calendar
+, select the Clio calendar you want to use. 
+Save.
+ 
+Overriding your primary calendar
+You can override your primary calendar directly in your 
+My Dashboard
+ area in LawConnect. 
+ 
+To override your primary calendar:
+Sign in to LawConnect
+.
+Select 
+My Dashboard
+ in the top bar.
+Select 
+My Appointment Types
+.
+In 
+Appointment Information
+, select your preferred Clio calendar in the 
+Linked Clio Calendar
+ pick list.
+Save.
+ 
+ 
+Syncing contacts in Clio and LawConnect
+Contacts are synced automatically in both LawConnect and Clio and there is no need to take any manual action in this regard. Specifically:
+Contacts created when 
+new clients book appointments directly
+ on LawConnect are automatically added as Clio 
+Contacts
+ (if the contact does not already exist in Clio). 
+This process is instantaneous and syncing happens automatically when the booking is finalized. 
+LawConnect contacts automatically sync with Clio contacts every two (2) hours.
+This is a two-way sync that checks that contacts in one system mirror the other.
+ 
+Booking an appointment on LawConnect for a Clio contact
+To book an appointment for an existing Clio contact:
+Select 
+My Dashboard
+ in the top bar in LawConnect.
+Select 
+Book Appointment
+.
+Select the Clio contact in the 
+Client
+ pick list.
+Select the down arrow on the right to activate the list. You can use the the 
+Search
+ box to find the client. Enter their name or surname in the box (or the first few letters of either). As you type, the pick list updates to offer more accurate matches. When you select the client in the list, their name, phone number and email automatically populate the corresponding fields in the form.
+See 
+Booking appointments for your clients on LawConnect as a lawyer
+ for more.
+ 
+ 
+ 
+Changing LawConnect appointments
+Changes to LawConnect appointments are automatically synced and the up-to-date position reflects in both systems. There is no need for any manual action in this regard. Specifically, if an appointment is:
+Cancelled in LawConnect, the Clio 
+Activity
+ is automatically removed/deleted.
+Rescheduled in LawConnect, the Clio 
+Activity 
+is updated automatically with the new information.
+See 
+Managing your client appointments on LawConnect as a lawyer
+ for more about the 
+Cancel
+ and 
+Reschedule
+ actions in 
+LawConnect
+.
+ 
+ 
+ 
+Sending LawConnect appointments to Clio
+Lawyers can link all LawConnect client appointments (past and future) to Clio 
+Matters
+ from 
+My Dashboard
+ in LawConnect.
+ 
+To link a LawConnect appointment to a Clio 
+Matter
+:
+Select 
+My Dashboard
+ in the top bar on LawConnect. if necessary.
+Select the 
+Send to Clio
+ action for an appointment.
+In 
+Link to Matter
+, create a new matter or select an existing Clio 
+Matter
+ to link to, and then select 
+Send to Clio
+.
+The appointment is automatically created as a Clio 
+Activity
+ for the selected Clio 
+Matter
+ and can be used for billing purposes.  
+Repeat this procedure (step 2 and 3) for all relevant appointments.
+ 
+ 
+Disconnecting LawConnect from Clio
+To disconnect LawConnect from Clio:
+Sign in to LawConnect
+.
+Select 
+Integrations
+ in the top bar.
+In 
+Clio
+, select 
+Disconnect
+.
