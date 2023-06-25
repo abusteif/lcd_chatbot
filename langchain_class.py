@@ -11,7 +11,7 @@ from langchain.llms import OpenAI
 class AiInteractions:
 
     def __init__(self):
-        os.environ["OPENAI_API_KEY"] = "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"
+        os.environ["OPENAI_API_KEY"] = ""
         llm = OpenAI()
 
         template = """
